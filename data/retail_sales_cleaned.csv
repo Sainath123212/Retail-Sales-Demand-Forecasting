@@ -1,0 +1,2801 @@
+product_id,category,price,promotion_active,discount_percent,units_sold,inventory_level,day_of_week,day,month,year
+1823,Home,1902,No,0,17,251,Friday,19,9,2024
+1551,Grocery,2629,Yes,0,14,248,Wednesday,21,12,2024
+1015,Grocery,2488,No,0,25,251,Saturday,27,9,2024
+1475,Home,293,Yes,5,7,470,Tuesday,16,6,2024
+1004,Grocery,2470,Yes,20,37,139,Saturday,5,12,2024
+1260,Electronics,1923,No,0,10,228,Friday,10,6,2024
+1110,Home,2150,No,0,6,35,Monday,28,5,2024
+1481,Home,323,Yes,30,19,20,Tuesday,11,7,2024
+1089,Clothing,1769,Yes,20,26,342,Tuesday,8,6,2024
+1723,Grocery,112,No,0,13,408,Monday,21,2,2024
+1572,Home,295,No,0,16,428,Thursday,6,4,2024
+1392,Home,2134,Yes,30,37,413,Tuesday,29,2,2024
+1215,Home,1773,Yes,0,34,158,Sunday,5,4,2024
+1009,Clothing,2515,Yes,0,33,94,Tuesday,8,11,2024
+1596,Electronics,1263,No,0,10,57,Monday,21,11,2024
+1982,Home,113,No,0,34,210,Friday,27,10,2024
+1930,Personal Care,2403,Yes,15,27,113,Saturday,26,4,2024
+1703,Home,1071,Yes,5,51,398,Saturday,17,7,2024
+1524,Electronics,2522,Yes,15,9,44,Monday,10,5,2024
+1532,Grocery,2935,No,0,36,151,Thursday,30,3,2024
+1217,Grocery,567,Yes,15,22,306,Saturday,14,4,2024
+1047,Clothing,333,No,0,20,230,Thursday,31,3,2024
+1672,Personal Care,1560,Yes,0,33,205,Tuesday,19,12,2024
+1717,Grocery,2443,Yes,20,34,37,Monday,8,6,2024
+1139,Grocery,137,Yes,15,37,54,Saturday,7,2,2024
+1360,Home,1905,No,0,13,397,Monday,13,2,2024
+1014,Home,368,No,0,36,424,Monday,15,11,2024
+1118,Home,1603,Yes,20,14,56,Monday,11,5,2024
+1473,Grocery,1402,No,0,44,498,Saturday,4,10,2024
+1235,Grocery,2174,Yes,10,37,327,Monday,23,12,2024
+1146,Personal Care,2086,No,0,28,150,Monday,13,12,2024
+1334,Clothing,879,Yes,10,38,357,Thursday,26,7,2024
+1393,Personal Care,863,No,0,27,431,Sunday,22,4,2024
+1728,Clothing,1346,Yes,5,28,88,Thursday,2,2,2024
+1391,Personal Care,742,Yes,15,21,261,Wednesday,16,11,2024
+1076,Clothing,2072,No,0,43,386,Sunday,17,1,2024
+1664,Grocery,2538,Yes,30,33,382,Wednesday,15,10,2024
+1849,Electronics,2675,Yes,15,9,252,Tuesday,16,5,2024
+1548,Clothing,627,Yes,30,17,79,Thursday,1,12,2024
+1731,Home,369,Yes,5,22,441,Thursday,6,1,2024
+1714,Personal Care,2240,Yes,5,28,135,Wednesday,23,9,2024
+1420,Electronics,2566,Yes,15,32,454,Sunday,17,7,2024
+1563,Personal Care,1895,No,0,15,120,Saturday,18,10,2024
+1739,Grocery,1455,No,0,28,187,Saturday,24,11,2024
+1268,Clothing,923,Yes,15,42,64,Wednesday,9,1,2024
+1786,Home,2117,Yes,0,40,245,Wednesday,20,5,2024
+1545,Electronics,166,Yes,0,17,239,Sunday,20,6,2024
+1705,Home,1977,Yes,20,52,481,Saturday,13,8,2024
+1851,Electronics,2421,Yes,5,41,244,Friday,14,10,2024
+1213,Electronics,2191,No,0,39,179,Saturday,4,6,2024
+1548,Personal Care,2281,No,0,17,313,Thursday,28,2,2024
+1939,Personal Care,70,No,0,2,34,Friday,24,7,2024
+1953,Home,2355,Yes,15,28,67,Saturday,2,10,2024
+1130,Home,1744,No,0,35,157,Tuesday,22,6,2024
+1030,Electronics,2001,No,0,31,75,Tuesday,13,5,2024
+1703,Clothing,2925,Yes,0,19,119,Tuesday,25,5,2024
+1596,Personal Care,1505,Yes,20,40,275,Monday,3,3,2024
+1023,Home,2603,No,0,38,387,Tuesday,11,7,2024
+1223,Electronics,2218,Yes,20,53,124,Sunday,28,9,2024
+1323,Clothing,2273,Yes,5,38,488,Saturday,4,11,2024
+1135,Clothing,847,Yes,5,14,474,Monday,15,2,2024
+1129,Home,1638,Yes,15,42,446,Thursday,12,4,2024
+1118,Personal Care,2622,Yes,0,27,122,Friday,26,12,2024
+1493,Grocery,2649,No,0,27,277,Saturday,24,2,2024
+1208,Electronics,203,No,0,16,95,Tuesday,29,3,2024
+1783,Clothing,1209,Yes,20,38,51,Tuesday,19,2,2024
+1215,Clothing,1651,No,0,27,238,Friday,3,11,2024
+1757,Home,104,Yes,5,35,112,Thursday,8,7,2024
+1914,Home,849,Yes,0,15,282,Sunday,13,2,2024
+1933,Electronics,2383,Yes,20,25,319,Wednesday,29,2,2024
+1442,Home,1711,Yes,10,30,470,Friday,2,4,2024
+1103,Clothing,897,Yes,0,24,428,Wednesday,6,1,2024
+1221,Home,2666,Yes,5,35,159,Saturday,3,12,2024
+1657,Grocery,2382,Yes,20,41,59,Thursday,19,4,2024
+1454,Personal Care,1669,Yes,0,20,335,Monday,24,7,2024
+1256,Clothing,256,Yes,30,17,212,Monday,21,5,2024
+1455,Grocery,2303,No,0,11,286,Friday,26,11,2024
+1993,Home,2300,Yes,15,32,496,Tuesday,27,3,2024
+1408,Clothing,2269,Yes,15,26,273,Thursday,2,11,2024
+1951,Clothing,1547,No,0,32,267,Saturday,25,5,2024
+1772,Home,160,Yes,5,16,319,Monday,16,12,2024
+1740,Grocery,266,No,0,8,403,Thursday,12,6,2024
+1249,Personal Care,966,No,0,21,388,Thursday,24,1,2024
+1723,Grocery,453,No,0,30,93,Sunday,28,2,2024
+1365,Electronics,2606,No,0,18,253,Monday,27,9,2024
+1615,Personal Care,559,No,0,31,246,Tuesday,14,5,2024
+1975,Electronics,2843,No,0,48,206,Sunday,28,5,2024
+1639,Clothing,1026,No,0,24,78,Friday,2,7,2024
+1974,Personal Care,1162,Yes,30,36,162,Sunday,7,5,2024
+1277,Home,2724,Yes,30,19,40,Saturday,12,5,2024
+1773,Electronics,160,Yes,0,22,133,Friday,14,2,2024
+1215,Clothing,2305,Yes,30,41,211,Thursday,22,6,2024
+1858,Home,2075,Yes,0,33,430,Monday,19,4,2024
+1157,Personal Care,1788,No,0,24,219,Sunday,30,11,2024
+1669,Personal Care,1382,No,0,26,300,Sunday,8,7,2024
+1085,Personal Care,447,No,0,10,468,Wednesday,9,8,2024
+1843,Grocery,2376,No,0,44,437,Saturday,5,1,2024
+1742,Clothing,1320,Yes,30,30,329,Monday,21,12,2024
+1928,Clothing,1208,Yes,5,36,203,Saturday,1,3,2024
+1542,Home,2955,No,0,22,311,Friday,5,6,2024
+1086,Clothing,1350,Yes,15,51,498,Saturday,4,7,2024
+1756,Clothing,148,No,0,29,366,Thursday,15,10,2024
+1777,Clothing,1648,Yes,20,20,308,Tuesday,20,8,2024
+1302,Home,141,Yes,20,14,49,Friday,12,1,2024
+1083,Grocery,312,No,0,10,423,Friday,20,5,2024
+1763,Home,1335,Yes,0,24,344,Saturday,28,11,2024
+1470,Clothing,1055,Yes,15,29,411,Friday,20,7,2024
+1550,Personal Care,1433,No,0,36,364,Tuesday,7,2,2024
+1825,Grocery,239,No,0,37,407,Sunday,12,7,2024
+1431,Electronics,1953,Yes,20,19,205,Saturday,3,8,2024
+1209,Home,1056,Yes,30,31,212,Saturday,18,7,2024
+1748,Clothing,2217,No,0,35,160,Monday,28,2,2024
+1598,Grocery,2704,Yes,5,35,487,Monday,3,9,2024
+1241,Home,1330,Yes,5,19,114,Wednesday,3,11,2024
+1932,Personal Care,2486,Yes,15,33,114,Wednesday,8,6,2024
+1936,Personal Care,2304,No,0,36,456,Wednesday,24,6,2024
+1222,Home,428,No,0,30,461,Tuesday,9,3,2024
+1895,Clothing,2210,No,0,20,423,Monday,29,8,2024
+1160,Electronics,1893,Yes,30,21,235,Friday,13,6,2024
+1547,Electronics,1112,Yes,30,28,399,Friday,28,1,2024
+1084,Clothing,2392,Yes,0,24,124,Sunday,29,6,2024
+1600,Personal Care,2568,Yes,15,13,375,Thursday,5,10,2024
+1213,Personal Care,1293,Yes,5,11,233,Tuesday,20,1,2024
+1318,Grocery,1742,No,0,34,100,Sunday,26,7,2024
+1076,Electronics,2328,No,0,19,259,Saturday,17,12,2024
+1455,Home,483,No,0,12,366,Thursday,7,1,2024
+1790,Electronics,2965,No,0,12,141,Wednesday,6,1,2024
+1305,Home,2573,Yes,10,41,341,Thursday,21,6,2024
+1112,Clothing,2325,Yes,10,31,116,Tuesday,17,6,2024
+1846,Grocery,1171,No,0,36,390,Saturday,14,7,2024
+1197,Grocery,467,Yes,20,20,68,Tuesday,24,7,2024
+1444,Grocery,1947,Yes,0,15,136,Monday,27,7,2024
+1210,Home,1449,No,0,13,494,Friday,16,3,2024
+1410,Clothing,2027,No,0,5,491,Thursday,9,11,2024
+1666,Grocery,1053,Yes,10,28,189,Tuesday,13,8,2024
+1844,Personal Care,2332,No,0,26,124,Friday,22,2,2024
+1239,Personal Care,2972,Yes,10,26,412,Friday,29,6,2024
+1723,Personal Care,2099,Yes,20,42,385,Tuesday,10,4,2024
+1427,Clothing,159,Yes,0,35,89,Tuesday,22,12,2024
+1996,Electronics,1398,Yes,10,14,156,Thursday,10,3,2024
+1918,Personal Care,2381,Yes,20,19,488,Wednesday,20,6,2024
+1776,Clothing,646,Yes,0,38,167,Saturday,20,10,2024
+1032,Electronics,729,Yes,20,23,300,Sunday,25,7,2024
+1606,Grocery,2746,Yes,10,41,407,Saturday,23,11,2024
+1395,Personal Care,699,Yes,15,17,259,Monday,1,3,2024
+1581,Grocery,1711,Yes,10,23,286,Tuesday,19,6,2024
+1982,Personal Care,2678,Yes,30,30,363,Sunday,11,9,2024
+1288,Home,469,No,0,31,196,Thursday,5,9,2024
+1117,Clothing,2877,No,0,12,442,Thursday,26,9,2024
+1303,Home,2200,No,0,25,235,Monday,11,11,2024
+1898,Electronics,1592,No,0,34,404,Sunday,5,2,2024
+1487,Grocery,559,No,0,30,144,Friday,21,12,2024
+1900,Clothing,2205,Yes,20,44,176,Saturday,5,2,2024
+1665,Personal Care,2287,No,0,25,308,Sunday,3,8,2024
+1903,Personal Care,552,Yes,0,23,286,Sunday,2,10,2024
+1332,Grocery,1906,Yes,10,36,144,Saturday,29,3,2024
+1365,Personal Care,1855,No,0,30,437,Friday,20,12,2024
+1332,Electronics,995,Yes,10,22,35,Thursday,12,9,2024
+1323,Home,1985,Yes,5,19,171,Sunday,30,6,2024
+1545,Electronics,115,Yes,30,56,470,Saturday,19,11,2024
+1890,Electronics,834,Yes,30,31,74,Wednesday,3,8,2024
+1882,Grocery,1421,No,0,15,232,Monday,6,6,2024
+1680,Clothing,2960,Yes,10,32,112,Saturday,31,5,2024
+1683,Clothing,1575,Yes,20,28,284,Tuesday,25,4,2024
+1543,Grocery,592,Yes,15,41,59,Thursday,24,1,2024
+1089,Clothing,2506,No,0,32,295,Wednesday,25,3,2024
+1190,Grocery,826,Yes,5,51,162,Saturday,18,3,2024
+1951,Grocery,2597,No,0,39,489,Sunday,12,9,2024
+1674,Grocery,786,Yes,20,42,417,Saturday,4,9,2024
+1974,Electronics,2166,No,0,48,278,Sunday,29,9,2024
+1451,Clothing,2482,Yes,0,20,331,Thursday,7,10,2024
+1617,Clothing,2983,Yes,10,21,270,Friday,12,9,2024
+1332,Personal Care,194,Yes,20,37,385,Monday,18,3,2024
+1740,Grocery,122,No,0,37,432,Thursday,14,5,2024
+1810,Personal Care,347,Yes,5,50,311,Saturday,1,5,2024
+1756,Clothing,648,Yes,10,27,237,Monday,26,9,2024
+1387,Electronics,2461,No,0,47,65,Saturday,10,5,2024
+1323,Home,704,No,0,44,373,Saturday,29,7,2024
+1779,Electronics,1542,Yes,30,37,41,Tuesday,3,11,2024
+1246,Personal Care,642,No,0,17,287,Saturday,28,7,2024
+1958,Grocery,629,Yes,15,38,304,Wednesday,9,2,2024
+1428,Grocery,2834,Yes,10,42,149,Monday,24,8,2024
+1164,Personal Care,980,No,0,18,178,Wednesday,25,7,2024
+1880,Electronics,2711,Yes,30,22,195,Friday,20,7,2024
+1355,Electronics,1611,No,0,18,420,Monday,6,5,2024
+1478,Home,2300,Yes,15,21,124,Thursday,6,6,2024
+1209,Home,1881,No,0,26,340,Saturday,3,10,2024
+1635,Personal Care,1766,Yes,0,28,373,Wednesday,10,1,2024
+1105,Grocery,795,No,0,18,282,Thursday,3,7,2024
+1859,Grocery,678,No,0,30,90,Sunday,2,3,2024
+1262,Grocery,1369,No,0,29,250,Monday,22,9,2024
+1192,Personal Care,1287,No,0,36,331,Tuesday,18,3,2024
+1490,Electronics,2488,Yes,0,31,126,Wednesday,5,10,2024
+1386,Electronics,2167,No,0,43,180,Saturday,16,3,2024
+1886,Electronics,1198,No,0,29,227,Tuesday,1,7,2024
+1041,Home,470,No,0,18,209,Wednesday,13,1,2024
+1571,Clothing,2368,Yes,30,25,172,Saturday,18,12,2024
+1818,Grocery,2780,Yes,10,33,140,Sunday,6,8,2024
+1291,Clothing,1657,No,0,29,50,Thursday,11,9,2024
+1681,Electronics,957,Yes,15,18,123,Thursday,30,12,2024
+1596,Personal Care,2181,Yes,30,20,195,Thursday,11,5,2024
+1278,Home,1313,Yes,15,12,81,Wednesday,28,1,2024
+1074,Grocery,2079,No,0,35,260,Saturday,13,1,2024
+1834,Electronics,1471,No,0,24,476,Wednesday,8,12,2024
+1031,Electronics,2680,No,0,26,216,Friday,21,10,2024
+1282,Home,359,Yes,20,35,297,Thursday,4,2,2024
+1699,Clothing,1891,No,0,7,485,Thursday,16,9,2024
+1619,Clothing,1314,No,0,6,204,Thursday,8,4,2024
+1000,Home,985,No,0,20,368,Tuesday,5,10,2024
+1639,Clothing,64,Yes,20,54,272,Sunday,14,10,2024
+1212,Home,1131,No,0,25,73,Monday,22,12,2024
+1636,Home,2862,Yes,5,16,442,Tuesday,18,12,2024
+1766,Personal Care,2359,No,0,23,209,Thursday,8,12,2024
+1182,Electronics,2091,Yes,30,31,147,Wednesday,20,9,2024
+1869,Personal Care,309,Yes,0,34,473,Saturday,19,8,2024
+1054,Clothing,2832,No,0,26,40,Tuesday,25,6,2024
+1732,Clothing,1677,No,0,31,149,Saturday,15,12,2024
+1848,Personal Care,801,No,0,28,458,Sunday,7,3,2024
+1128,Home,1772,Yes,20,36,399,Sunday,12,4,2024
+1483,Electronics,2594,No,0,26,138,Saturday,26,10,2024
+1955,Electronics,1147,No,0,30,234,Wednesday,13,12,2024
+1292,Personal Care,249,Yes,30,23,80,Sunday,1,7,2024
+1175,Grocery,542,No,0,39,188,Monday,10,7,2024
+1401,Home,1316,No,0,33,429,Sunday,12,11,2024
+1289,Home,631,No,0,28,365,Saturday,16,3,2024
+1123,Clothing,767,Yes,20,40,497,Wednesday,18,3,2024
+1640,Clothing,128,No,0,14,309,Friday,23,7,2024
+1265,Grocery,1369,Yes,0,28,266,Tuesday,13,10,2024
+1080,Electronics,671,Yes,0,34,477,Sunday,3,1,2024
+1495,Home,1427,No,0,27,91,Sunday,17,1,2024
+1631,Personal Care,1489,No,0,18,305,Monday,2,12,2024
+1584,Electronics,1083,No,0,20,116,Wednesday,25,1,2024
+1367,Personal Care,159,Yes,20,23,80,Saturday,13,1,2024
+1982,Grocery,1319,Yes,20,22,258,Monday,5,7,2024
+1315,Grocery,2209,No,0,36,434,Tuesday,29,9,2024
+1920,Grocery,2024,No,0,41,450,Saturday,15,11,2024
+1672,Clothing,88,Yes,5,29,185,Thursday,21,5,2024
+1926,Clothing,2617,No,0,22,201,Wednesday,30,11,2024
+1048,Personal Care,2483,Yes,10,18,191,Tuesday,7,3,2024
+1381,Electronics,1297,Yes,5,15,197,Monday,28,6,2024
+1097,Personal Care,1814,Yes,0,8,224,Friday,13,6,2024
+1329,Home,888,Yes,5,12,184,Monday,8,8,2024
+1071,Home,949,No,0,26,229,Sunday,12,12,2024
+1649,Home,1369,Yes,10,16,288,Monday,5,12,2024
+1876,Home,2687,Yes,5,28,335,Friday,31,12,2024
+1681,Home,2117,Yes,0,44,448,Saturday,27,8,2024
+1942,Personal Care,1625,Yes,15,10,327,Friday,17,1,2024
+1055,Electronics,2619,No,0,7,248,Wednesday,15,6,2024
+1754,Personal Care,2249,No,0,25,188,Wednesday,28,8,2024
+1191,Electronics,1696,Yes,5,13,405,Thursday,28,11,2024
+1890,Clothing,519,Yes,20,13,148,Wednesday,20,1,2024
+1886,Electronics,1076,No,0,39,252,Tuesday,6,8,2024
+1568,Home,2053,No,0,9,349,Tuesday,13,8,2024
+1815,Clothing,1040,Yes,15,43,457,Monday,18,3,2024
+1120,Electronics,781,Yes,10,16,38,Wednesday,1,8,2024
+1073,Electronics,2566,No,0,35,35,Sunday,15,2,2024
+1684,Home,2230,No,0,27,468,Saturday,8,8,2024
+1617,Electronics,112,No,0,22,378,Wednesday,16,4,2024
+1132,Grocery,790,Yes,5,35,375,Friday,22,5,2024
+1200,Grocery,1109,No,0,27,332,Friday,5,1,2024
+1418,Electronics,2883,Yes,30,30,387,Wednesday,12,4,2024
+1467,Personal Care,342,No,0,31,237,Wednesday,9,3,2024
+1504,Grocery,556,Yes,10,43,283,Saturday,23,10,2024
+1956,Home,1216,Yes,10,36,457,Monday,1,9,2024
+1065,Home,863,No,0,33,327,Tuesday,6,7,2024
+1677,Grocery,1415,No,0,22,319,Thursday,21,12,2024
+1916,Home,2802,Yes,0,13,230,Wednesday,8,5,2024
+1673,Home,1772,No,0,11,194,Monday,20,2,2024
+1604,Clothing,907,Yes,10,3,28,Wednesday,8,12,2024
+1517,Home,145,Yes,15,18,57,Wednesday,10,6,2024
+1848,Personal Care,2797,Yes,5,30,30,Sunday,27,4,2024
+1954,Personal Care,2921,Yes,0,30,54,Thursday,21,4,2024
+1404,Grocery,2443,Yes,15,27,209,Sunday,19,2,2024
+1830,Grocery,64,Yes,30,27,376,Friday,30,8,2024
+1967,Grocery,1824,No,0,28,99,Monday,13,1,2024
+1794,Clothing,1488,No,0,39,294,Friday,18,2,2024
+1090,Personal Care,2127,Yes,0,13,310,Tuesday,17,9,2024
+1604,Home,1313,No,0,30,200,Sunday,30,7,2024
+1470,Grocery,272,Yes,20,44,251,Tuesday,11,3,2024
+1632,Grocery,2113,Yes,5,17,308,Friday,9,11,2024
+1754,Home,1743,Yes,5,23,98,Sunday,30,12,2024
+1112,Clothing,691,No,0,6,291,Friday,9,9,2024
+1267,Grocery,2274,Yes,15,13,233,Wednesday,1,10,2024
+1907,Electronics,2741,No,0,18,188,Thursday,13,10,2024
+1614,Electronics,2376,Yes,15,25,340,Wednesday,12,5,2024
+1664,Clothing,1556,Yes,15,32,425,Thursday,8,8,2024
+1167,Home,1896,Yes,0,48,179,Sunday,27,9,2024
+1101,Clothing,2292,No,0,29,224,Sunday,31,12,2024
+1767,Home,182,No,0,19,204,Thursday,26,9,2024
+1704,Clothing,86,No,0,11,228,Friday,30,10,2024
+1214,Personal Care,1058,No,0,38,326,Saturday,7,11,2024
+1776,Grocery,279,No,0,12,114,Thursday,25,6,2024
+1880,Home,430,Yes,10,34,321,Wednesday,10,7,2024
+1406,Clothing,417,No,0,21,312,Saturday,25,4,2024
+1657,Grocery,1394,Yes,10,26,96,Sunday,24,5,2024
+1949,Grocery,2058,Yes,15,43,339,Monday,23,6,2024
+1343,Grocery,2577,Yes,20,39,299,Monday,13,12,2024
+1775,Home,756,Yes,15,26,370,Sunday,17,8,2024
+1979,Personal Care,533,No,0,19,183,Saturday,1,7,2024
+1976,Personal Care,2966,Yes,30,30,80,Thursday,30,11,2024
+1859,Electronics,516,Yes,0,39,232,Wednesday,4,3,2024
+1205,Home,1172,No,0,32,228,Monday,11,12,2024
+1797,Grocery,2071,No,0,39,373,Sunday,3,9,2024
+1843,Clothing,2300,Yes,20,9,185,Tuesday,24,3,2024
+1789,Electronics,1594,No,0,34,251,Friday,25,10,2024
+1647,Clothing,2018,No,0,36,187,Monday,13,5,2024
+1249,Home,1732,Yes,10,23,491,Monday,19,4,2024
+1396,Grocery,2579,Yes,20,42,112,Thursday,6,9,2024
+1867,Grocery,997,Yes,20,38,72,Saturday,17,3,2024
+1341,Electronics,2910,No,0,40,310,Tuesday,7,9,2024
+1802,Electronics,1879,No,0,11,432,Wednesday,20,3,2024
+1172,Clothing,866,No,0,17,81,Tuesday,7,7,2024
+1255,Grocery,1541,Yes,30,27,433,Wednesday,2,7,2024
+1574,Clothing,756,No,0,23,361,Wednesday,8,3,2024
+1155,Electronics,2036,Yes,10,19,34,Wednesday,18,7,2024
+1768,Personal Care,2279,Yes,20,19,65,Friday,3,12,2024
+1371,Personal Care,2665,No,0,32,176,Monday,29,11,2024
+1746,Personal Care,1006,No,0,38,251,Saturday,20,4,2024
+1112,Grocery,1158,No,0,9,473,Tuesday,21,10,2024
+1376,Clothing,1288,Yes,0,12,497,Friday,7,6,2024
+1423,Electronics,626,Yes,30,20,360,Monday,19,10,2024
+1539,Clothing,2856,Yes,15,29,289,Saturday,21,12,2024
+1142,Electronics,2558,No,0,11,493,Tuesday,5,9,2024
+1138,Clothing,372,No,0,35,35,Friday,2,6,2024
+1879,Grocery,1424,Yes,30,45,159,Tuesday,6,8,2024
+1088,Electronics,2544,No,0,25,427,Friday,22,9,2024
+1424,Electronics,180,Yes,0,34,172,Sunday,17,1,2024
+1853,Home,813,Yes,0,18,210,Monday,28,4,2024
+1920,Clothing,1485,No,0,30,132,Wednesday,3,5,2024
+1691,Home,245,No,0,36,289,Saturday,29,6,2024
+1259,Home,2718,Yes,15,17,109,Tuesday,19,8,2024
+1535,Clothing,954,No,0,21,114,Tuesday,21,10,2024
+1521,Electronics,2398,Yes,5,10,179,Tuesday,17,6,2024
+1781,Electronics,2811,Yes,5,11,296,Monday,14,9,2024
+1685,Grocery,1858,Yes,0,13,232,Friday,1,7,2024
+1809,Home,349,No,0,19,89,Thursday,15,4,2024
+1033,Grocery,1225,Yes,15,11,438,Monday,13,7,2024
+1983,Clothing,1790,Yes,5,16,54,Tuesday,25,4,2024
+1197,Electronics,1450,Yes,5,36,92,Sunday,1,5,2024
+1381,Clothing,2923,Yes,30,50,473,Saturday,2,3,2024
+1314,Electronics,649,Yes,5,9,391,Wednesday,13,6,2024
+1453,Clothing,2435,Yes,10,41,289,Friday,26,9,2024
+1998,Personal Care,427,Yes,30,15,134,Monday,12,12,2024
+1495,Home,811,Yes,10,13,346,Friday,2,11,2024
+1966,Grocery,1484,No,0,17,258,Monday,28,8,2024
+1046,Home,1847,No,0,23,298,Monday,29,3,2024
+1668,Home,916,Yes,0,36,132,Thursday,2,2,2024
+1344,Personal Care,150,Yes,10,21,27,Tuesday,13,5,2024
+1760,Electronics,2351,No,0,21,372,Thursday,11,6,2024
+1553,Home,1510,Yes,20,35,317,Friday,27,10,2024
+1958,Electronics,1100,No,0,19,487,Thursday,14,11,2024
+1568,Home,1968,No,0,25,411,Tuesday,25,10,2024
+1703,Clothing,695,No,0,21,165,Saturday,2,1,2024
+1388,Grocery,2013,Yes,15,50,401,Sunday,17,12,2024
+1867,Personal Care,2764,No,0,36,225,Wednesday,19,11,2024
+1656,Grocery,1943,Yes,0,35,183,Thursday,14,3,2024
+1240,Home,1197,No,0,17,45,Monday,25,10,2024
+1436,Personal Care,220,No,0,47,119,Saturday,29,6,2024
+1323,Personal Care,288,Yes,15,17,459,Thursday,6,12,2024
+1854,Clothing,2110,No,0,18,494,Tuesday,16,8,2024
+1820,Grocery,2785,Yes,30,38,146,Sunday,31,3,2024
+1979,Clothing,1998,No,0,7,385,Tuesday,19,9,2024
+1163,Clothing,1978,No,0,19,497,Saturday,26,2,2024
+1710,Personal Care,1229,No,0,16,179,Wednesday,13,5,2024
+1888,Home,2708,Yes,30,24,392,Saturday,27,7,2024
+1393,Clothing,60,No,0,46,272,Saturday,30,12,2024
+1669,Grocery,210,Yes,5,30,275,Sunday,12,11,2024
+1707,Grocery,2894,Yes,20,38,240,Wednesday,5,4,2024
+1336,Grocery,2703,No,0,21,371,Sunday,28,1,2024
+1111,Electronics,1240,No,0,18,257,Sunday,23,5,2024
+1548,Home,2190,No,0,11,53,Monday,26,1,2024
+1444,Home,2205,Yes,10,30,122,Friday,16,6,2024
+1880,Personal Care,336,No,0,18,46,Wednesday,23,11,2024
+1124,Home,1747,Yes,15,38,491,Tuesday,7,8,2024
+1946,Clothing,1999,No,0,50,410,Saturday,13,9,2024
+1186,Personal Care,2451,No,0,5,26,Friday,30,1,2024
+1785,Grocery,665,Yes,20,39,159,Sunday,27,11,2024
+1198,Grocery,2941,Yes,15,14,51,Thursday,9,5,2024
+1435,Personal Care,2304,Yes,0,33,157,Thursday,12,9,2024
+1884,Home,1052,No,0,30,437,Saturday,11,11,2024
+1584,Home,240,Yes,30,26,308,Tuesday,30,8,2024
+1479,Grocery,118,No,0,40,57,Saturday,12,11,2024
+1122,Clothing,901,Yes,30,31,269,Friday,20,6,2024
+1408,Clothing,140,Yes,30,37,280,Friday,8,4,2024
+1678,Electronics,188,Yes,30,24,157,Thursday,11,8,2024
+1893,Personal Care,1905,No,0,6,181,Tuesday,4,6,2024
+1675,Personal Care,414,No,0,40,396,Thursday,11,7,2024
+1618,Home,1694,Yes,30,25,136,Wednesday,2,11,2024
+1600,Personal Care,1832,Yes,30,16,172,Tuesday,23,6,2024
+1784,Clothing,2965,No,0,28,28,Sunday,6,8,2024
+1978,Home,419,No,0,40,133,Sunday,10,4,2024
+1400,Personal Care,294,No,0,18,318,Monday,4,2,2024
+1262,Personal Care,2966,No,0,35,402,Wednesday,27,12,2024
+1521,Clothing,1719,Yes,0,35,89,Sunday,12,1,2024
+1944,Home,2373,No,0,25,290,Thursday,16,11,2024
+1148,Personal Care,2766,No,0,41,168,Sunday,20,2,2024
+1583,Clothing,247,No,0,40,256,Friday,12,1,2024
+1307,Electronics,1494,No,0,9,408,Monday,6,10,2024
+1280,Clothing,2877,No,0,29,444,Tuesday,15,3,2024
+1807,Personal Care,2418,Yes,20,34,211,Thursday,8,6,2024
+1813,Electronics,1072,Yes,5,6,33,Monday,14,1,2024
+1838,Clothing,1132,Yes,15,14,49,Saturday,29,5,2024
+1866,Clothing,915,No,0,26,378,Wednesday,30,8,2024
+1517,Electronics,163,No,0,33,489,Sunday,2,7,2024
+1987,Home,2297,Yes,20,18,337,Wednesday,23,6,2024
+1363,Clothing,1816,Yes,5,16,488,Friday,5,11,2024
+1373,Electronics,935,No,0,29,466,Sunday,31,1,2024
+1025,Clothing,2069,Yes,30,45,401,Monday,18,2,2024
+1064,Home,231,No,0,39,409,Thursday,22,2,2024
+1694,Grocery,135,Yes,20,18,159,Monday,14,6,2024
+1255,Grocery,1964,No,0,6,133,Friday,3,7,2024
+1372,Home,1069,No,0,5,173,Wednesday,7,6,2024
+1480,Personal Care,2474,Yes,10,17,108,Monday,12,12,2024
+1735,Electronics,827,No,0,43,299,Sunday,13,9,2024
+1454,Personal Care,1742,No,0,21,205,Friday,27,9,2024
+1032,Grocery,2233,Yes,10,21,31,Wednesday,27,11,2024
+1889,Home,2590,No,0,17,166,Friday,12,10,2024
+1513,Electronics,2883,No,0,10,401,Thursday,10,10,2024
+1556,Personal Care,2426,Yes,0,39,76,Tuesday,6,8,2024
+1365,Personal Care,2327,No,0,28,39,Sunday,8,2,2024
+1575,Personal Care,511,Yes,5,13,428,Thursday,10,8,2024
+1762,Home,2289,Yes,20,13,383,Tuesday,4,5,2024
+1943,Personal Care,937,No,0,26,353,Friday,19,11,2024
+1074,Clothing,123,Yes,5,29,389,Saturday,4,5,2024
+1192,Electronics,1417,Yes,20,20,287,Monday,24,4,2024
+1649,Electronics,284,No,0,18,37,Saturday,16,1,2024
+1650,Personal Care,1989,No,0,16,432,Wednesday,28,2,2024
+1732,Electronics,77,Yes,20,25,175,Thursday,27,11,2024
+1285,Electronics,1751,No,0,20,355,Monday,18,5,2024
+1296,Grocery,2812,Yes,0,20,148,Tuesday,6,12,2024
+1007,Home,2645,No,0,35,498,Saturday,31,1,2024
+1119,Clothing,2065,No,0,21,82,Friday,15,1,2024
+1965,Personal Care,2544,No,0,29,305,Wednesday,30,10,2024
+1194,Grocery,788,Yes,20,19,25,Thursday,5,9,2024
+1864,Personal Care,369,Yes,5,35,117,Thursday,11,8,2024
+1151,Electronics,1588,Yes,10,29,389,Monday,21,5,2024
+1088,Grocery,2569,Yes,0,39,143,Saturday,31,12,2024
+1115,Clothing,618,No,0,17,328,Sunday,27,4,2024
+1655,Electronics,787,Yes,15,20,77,Thursday,24,9,2024
+1387,Personal Care,339,Yes,20,35,425,Thursday,17,10,2024
+1629,Electronics,444,No,0,19,22,Thursday,15,1,2024
+1554,Electronics,1425,Yes,15,43,474,Sunday,26,5,2024
+1110,Grocery,707,No,0,38,429,Saturday,30,11,2024
+1803,Electronics,1130,No,0,20,172,Wednesday,20,2,2024
+1257,Personal Care,2622,No,0,36,462,Sunday,27,2,2024
+1619,Personal Care,544,No,0,38,463,Saturday,12,12,2024
+1276,Electronics,2413,No,0,45,139,Sunday,19,10,2024
+1795,Grocery,1113,No,0,10,274,Friday,1,12,2024
+1274,Grocery,1828,No,0,29,126,Wednesday,17,8,2024
+1869,Electronics,1125,Yes,10,29,279,Saturday,14,5,2024
+1704,Clothing,1607,No,0,12,395,Monday,2,1,2024
+1441,Home,2676,No,0,6,260,Friday,29,4,2024
+1325,Home,778,No,0,31,458,Thursday,14,10,2024
+1701,Electronics,1038,No,0,44,390,Saturday,12,11,2024
+1036,Home,2734,Yes,5,16,335,Friday,3,8,2024
+1059,Grocery,800,Yes,20,41,364,Saturday,8,7,2024
+1261,Home,196,Yes,15,34,366,Sunday,7,10,2024
+1234,Grocery,1574,Yes,0,16,348,Saturday,21,2,2024
+1095,Clothing,2451,Yes,0,27,102,Friday,4,11,2024
+1567,Personal Care,542,No,0,38,363,Saturday,22,11,2024
+1792,Home,1036,Yes,30,29,296,Wednesday,26,5,2024
+1615,Electronics,1968,Yes,0,21,245,Thursday,17,9,2024
+1621,Grocery,2140,No,0,13,50,Friday,6,7,2024
+1403,Home,1238,Yes,15,34,331,Friday,16,12,2024
+1047,Home,1680,No,0,10,457,Wednesday,25,12,2024
+1433,Personal Care,2234,Yes,30,20,97,Thursday,20,2,2024
+1393,Grocery,993,Yes,15,27,352,Wednesday,19,4,2024
+1116,Personal Care,63,Yes,15,18,92,Tuesday,2,2,2024
+1052,Grocery,2815,Yes,5,17,190,Thursday,24,5,2024
+1038,Clothing,1422,Yes,15,14,419,Monday,29,11,2024
+1933,Electronics,1975,No,0,28,481,Sunday,4,11,2024
+1793,Grocery,1976,No,0,31,174,Wednesday,25,11,2024
+1741,Grocery,1767,Yes,15,28,336,Tuesday,1,8,2024
+1885,Electronics,2114,Yes,5,38,452,Friday,25,5,2024
+1248,Home,751,No,0,21,467,Tuesday,21,6,2024
+1236,Electronics,2902,Yes,15,40,52,Monday,27,3,2024
+1203,Grocery,1774,No,0,46,453,Saturday,7,7,2024
+1719,Personal Care,771,Yes,20,17,330,Tuesday,15,9,2024
+1800,Grocery,2175,No,0,28,228,Tuesday,6,7,2024
+1867,Electronics,2701,No,0,27,200,Thursday,17,5,2024
+1393,Personal Care,1227,No,0,17,368,Saturday,10,6,2024
+1145,Personal Care,462,Yes,10,14,322,Thursday,22,11,2024
+1096,Clothing,2628,Yes,20,50,150,Sunday,4,2,2024
+1825,Clothing,2915,No,0,33,123,Sunday,22,5,2024
+1196,Grocery,2014,Yes,5,26,347,Friday,7,1,2024
+1247,Home,1767,Yes,0,50,425,Saturday,20,8,2024
+1431,Clothing,2502,No,0,7,183,Wednesday,12,8,2024
+1349,Grocery,1106,Yes,10,24,338,Sunday,18,11,2024
+1160,Clothing,771,Yes,20,35,67,Tuesday,2,6,2024
+1464,Grocery,2417,No,0,10,479,Wednesday,26,11,2024
+1542,Personal Care,1987,Yes,10,17,362,Monday,30,7,2024
+1048,Clothing,2971,No,0,24,67,Sunday,23,3,2024
+1587,Personal Care,516,No,0,15,91,Thursday,23,5,2024
+1560,Grocery,1408,Yes,10,7,431,Thursday,12,7,2024
+1336,Electronics,916,Yes,10,28,156,Saturday,23,9,2024
+1476,Personal Care,1803,No,0,3,41,Wednesday,24,2,2024
+1984,Home,613,Yes,20,40,292,Friday,19,4,2024
+1719,Personal Care,2616,Yes,15,46,442,Saturday,10,9,2024
+1931,Home,904,Yes,10,21,104,Thursday,3,1,2024
+1867,Clothing,572,No,0,23,66,Tuesday,2,10,2024
+1517,Clothing,1840,No,0,23,33,Thursday,16,12,2024
+1367,Personal Care,2371,Yes,5,25,43,Friday,17,1,2024
+1083,Electronics,375,No,0,27,362,Tuesday,11,6,2024
+1703,Home,1560,Yes,10,10,422,Tuesday,12,11,2024
+1783,Electronics,1428,Yes,5,6,73,Wednesday,28,4,2024
+1092,Grocery,391,Yes,5,36,213,Wednesday,4,6,2024
+1812,Grocery,1901,No,0,35,201,Monday,14,5,2024
+1205,Grocery,1270,No,0,15,291,Monday,24,4,2024
+1697,Electronics,1929,No,0,9,482,Thursday,12,6,2024
+1051,Clothing,408,No,0,47,463,Sunday,31,5,2024
+1421,Home,1247,No,0,31,224,Monday,5,5,2024
+1793,Clothing,2498,No,0,36,244,Tuesday,27,1,2024
+1551,Clothing,1738,No,0,30,299,Wednesday,28,5,2024
+1503,Grocery,118,No,0,26,365,Monday,12,7,2024
+1117,Grocery,1155,Yes,0,34,171,Sunday,1,5,2024
+1454,Personal Care,2018,Yes,30,34,470,Monday,1,10,2024
+1505,Clothing,715,Yes,15,43,71,Thursday,19,2,2024
+1307,Personal Care,1631,No,0,14,277,Thursday,24,8,2024
+1613,Electronics,2421,Yes,20,44,294,Friday,31,8,2024
+1918,Grocery,1587,Yes,20,26,104,Friday,7,9,2024
+1230,Clothing,2646,No,0,5,439,Thursday,12,7,2024
+1957,Personal Care,381,No,0,8,383,Thursday,24,12,2024
+1106,Home,365,Yes,15,29,265,Tuesday,23,10,2024
+1513,Electronics,1944,Yes,15,43,84,Wednesday,26,2,2024
+1445,Personal Care,1416,No,0,35,230,Friday,9,3,2024
+1724,Electronics,1325,Yes,30,54,484,Sunday,5,5,2024
+1301,Grocery,1933,No,0,37,330,Saturday,8,6,2024
+1242,Electronics,580,Yes,5,18,394,Sunday,21,2,2024
+1994,Home,534,Yes,10,35,300,Monday,24,10,2024
+1617,Clothing,574,No,0,22,412,Friday,5,12,2024
+1761,Grocery,2668,Yes,5,17,151,Tuesday,29,2,2024
+1696,Grocery,2922,No,0,36,454,Saturday,8,2,2024
+1915,Home,228,No,0,36,51,Friday,26,10,2024
+1060,Grocery,2816,Yes,30,48,182,Saturday,23,11,2024
+1452,Personal Care,1601,No,0,14,256,Tuesday,14,12,2024
+1140,Home,2982,Yes,5,16,21,Thursday,23,4,2024
+1314,Electronics,2897,Yes,30,22,432,Monday,10,11,2024
+1055,Personal Care,1501,Yes,10,29,347,Monday,14,12,2024
+1470,Personal Care,265,No,0,9,330,Thursday,8,1,2024
+1660,Personal Care,2566,Yes,20,12,207,Wednesday,14,6,2024
+1614,Home,2063,No,0,7,323,Tuesday,17,4,2024
+1939,Grocery,2647,No,0,40,382,Monday,28,6,2024
+1896,Personal Care,2384,No,0,9,181,Wednesday,19,2,2024
+1522,Clothing,1301,No,0,10,400,Monday,4,8,2024
+1543,Electronics,237,No,0,27,338,Saturday,3,6,2024
+1500,Personal Care,1378,Yes,20,27,174,Thursday,25,9,2024
+1974,Personal Care,1139,No,0,27,53,Thursday,24,12,2024
+1133,Grocery,596,No,0,8,399,Thursday,6,5,2024
+1474,Home,2240,Yes,20,37,75,Friday,9,3,2024
+1752,Grocery,1330,No,0,29,50,Thursday,8,12,2024
+1437,Personal Care,1113,Yes,5,35,107,Wednesday,12,6,2024
+1614,Grocery,907,No,0,37,481,Sunday,24,10,2024
+1739,Personal Care,2025,Yes,20,23,372,Tuesday,26,9,2024
+1507,Home,54,Yes,0,46,452,Sunday,15,1,2024
+1947,Grocery,2917,No,0,40,40,Saturday,27,8,2024
+1527,Clothing,1394,Yes,30,19,232,Wednesday,26,9,2024
+1209,Grocery,1226,No,0,30,198,Monday,7,4,2024
+1928,Personal Care,460,Yes,20,39,269,Monday,26,1,2024
+1226,Electronics,1418,No,0,19,171,Wednesday,10,1,2024
+1561,Clothing,167,Yes,15,34,317,Thursday,9,6,2024
+1623,Personal Care,822,No,0,6,72,Thursday,13,11,2024
+1871,Electronics,256,Yes,30,31,84,Tuesday,13,4,2024
+1504,Clothing,1260,Yes,20,22,274,Monday,27,1,2024
+1901,Grocery,935,Yes,5,18,171,Saturday,30,6,2024
+1367,Clothing,1508,Yes,5,20,241,Tuesday,30,9,2024
+1842,Electronics,279,Yes,15,34,70,Sunday,4,3,2024
+1557,Home,2410,No,0,31,441,Sunday,10,10,2024
+1203,Home,2247,Yes,30,42,249,Tuesday,4,3,2024
+1881,Personal Care,1202,Yes,20,31,65,Friday,26,1,2024
+1174,Home,544,Yes,30,35,454,Thursday,2,2,2024
+1354,Home,2348,Yes,0,35,144,Tuesday,6,11,2024
+1024,Clothing,1755,Yes,30,24,27,Tuesday,31,10,2024
+1502,Grocery,2685,Yes,20,18,175,Thursday,24,9,2024
+1854,Electronics,2640,Yes,30,52,475,Sunday,9,9,2024
+1469,Home,1348,No,0,33,123,Monday,30,8,2024
+1197,Clothing,605,No,0,23,160,Thursday,19,5,2024
+1149,Personal Care,2576,Yes,30,43,474,Friday,11,10,2024
+1837,Grocery,2241,Yes,10,33,256,Monday,16,4,2024
+1583,Home,1599,No,0,8,278,Thursday,14,11,2024
+1520,Home,644,No,0,13,388,Monday,10,2,2024
+1566,Electronics,494,Yes,0,9,443,Monday,14,12,2024
+1864,Personal Care,1181,Yes,0,32,122,Wednesday,10,3,2024
+1352,Personal Care,322,No,0,18,101,Monday,28,7,2024
+1029,Home,896,No,0,6,124,Tuesday,17,2,2024
+1629,Personal Care,679,Yes,10,22,315,Wednesday,12,4,2024
+1761,Electronics,1196,No,0,27,154,Sunday,13,12,2024
+1815,Grocery,2303,No,0,6,106,Friday,27,11,2024
+1068,Electronics,1321,Yes,0,20,318,Friday,21,2,2024
+1848,Electronics,2802,Yes,15,31,159,Tuesday,17,11,2024
+1388,Personal Care,2522,Yes,20,29,138,Friday,5,11,2024
+1893,Grocery,1212,Yes,30,31,220,Sunday,25,4,2024
+1302,Personal Care,1044,No,0,13,80,Thursday,22,9,2024
+1241,Grocery,2315,Yes,30,46,107,Friday,29,5,2024
+1588,Personal Care,2407,No,0,23,179,Monday,21,7,2024
+1233,Clothing,1909,No,0,20,111,Sunday,15,12,2024
+1733,Personal Care,881,Yes,5,17,358,Monday,29,3,2024
+1518,Personal Care,2682,No,0,14,261,Friday,25,8,2024
+1275,Electronics,2870,Yes,10,26,395,Monday,8,10,2024
+1752,Electronics,1231,No,0,42,210,Sunday,8,10,2024
+1160,Home,1508,Yes,20,30,273,Friday,15,7,2024
+1446,Personal Care,406,Yes,0,19,182,Friday,5,9,2024
+1092,Personal Care,2647,No,0,50,361,Sunday,11,12,2024
+1170,Personal Care,2932,Yes,15,48,265,Saturday,19,7,2024
+1181,Electronics,2590,No,0,6,172,Tuesday,30,12,2024
+1562,Home,746,Yes,10,45,65,Saturday,12,4,2024
+1451,Grocery,367,No,0,37,103,Sunday,26,5,2024
+1613,Clothing,2562,No,0,5,438,Friday,5,8,2024
+1047,Electronics,821,No,0,37,194,Friday,27,11,2024
+1237,Home,2047,No,0,15,167,Thursday,16,4,2024
+1634,Home,995,No,0,22,199,Friday,22,11,2024
+1343,Clothing,2652,Yes,5,50,337,Saturday,3,7,2024
+1880,Clothing,1829,No,0,31,274,Saturday,14,11,2024
+1147,Personal Care,1617,No,0,32,221,Thursday,24,9,2024
+1126,Personal Care,1830,Yes,5,11,400,Tuesday,8,1,2024
+1107,Grocery,266,No,0,21,35,Sunday,24,8,2024
+1322,Home,727,No,0,13,26,Saturday,30,8,2024
+1381,Home,2577,Yes,20,24,74,Monday,4,7,2024
+1205,Home,500,No,0,35,493,Thursday,22,3,2024
+1628,Grocery,2041,No,0,8,138,Friday,3,5,2024
+1011,Personal Care,817,No,0,11,278,Thursday,18,12,2024
+1521,Electronics,1127,Yes,10,36,143,Thursday,16,11,2024
+1086,Personal Care,1079,Yes,30,13,350,Monday,23,1,2024
+1150,Personal Care,170,Yes,10,45,427,Sunday,24,8,2024
+1768,Personal Care,2597,Yes,15,20,387,Friday,8,8,2024
+1228,Personal Care,1066,Yes,0,10,459,Tuesday,4,4,2024
+1942,Home,2349,No,0,28,165,Monday,13,12,2024
+1674,Home,1109,Yes,15,15,224,Wednesday,15,6,2024
+1791,Grocery,1348,Yes,20,34,448,Wednesday,30,6,2024
+1749,Clothing,2022,No,0,24,282,Sunday,25,10,2024
+1731,Personal Care,1702,Yes,5,39,183,Friday,16,12,2024
+1503,Clothing,1791,No,0,21,302,Saturday,5,11,2024
+1363,Personal Care,1270,No,0,10,324,Thursday,20,3,2024
+1025,Personal Care,2628,Yes,15,26,133,Sunday,10,3,2024
+1174,Personal Care,1288,No,0,36,392,Monday,24,1,2024
+1828,Home,1968,Yes,15,40,139,Monday,29,4,2024
+1189,Grocery,2131,Yes,20,42,329,Tuesday,24,4,2024
+1427,Personal Care,819,No,0,46,288,Sunday,21,11,2024
+1901,Grocery,2420,No,0,39,230,Thursday,12,4,2024
+1651,Electronics,2876,Yes,20,27,72,Monday,9,11,2024
+1176,Grocery,2300,No,0,32,330,Wednesday,4,6,2024
+1068,Personal Care,616,No,0,37,259,Wednesday,7,8,2024
+1693,Personal Care,2640,Yes,20,45,434,Saturday,16,8,2024
+1238,Personal Care,2718,No,0,22,180,Tuesday,12,10,2024
+1487,Electronics,1807,No,0,22,163,Monday,2,10,2024
+1901,Grocery,357,Yes,30,22,163,Sunday,20,3,2024
+1853,Personal Care,1271,No,0,48,500,Saturday,1,4,2024
+1296,Electronics,437,No,0,26,135,Thursday,5,12,2024
+1959,Grocery,1901,No,0,31,412,Monday,13,7,2024
+1613,Home,2378,Yes,20,54,169,Saturday,7,7,2024
+1530,Electronics,240,No,0,18,259,Tuesday,17,11,2024
+1477,Clothing,2500,No,0,35,150,Friday,23,1,2024
+1121,Grocery,2309,No,0,31,96,Saturday,18,7,2024
+1623,Clothing,2671,No,0,40,397,Saturday,10,7,2024
+1974,Home,1222,No,0,30,400,Sunday,9,8,2024
+1377,Electronics,780,Yes,30,30,76,Tuesday,12,7,2024
+1409,Grocery,1421,No,0,15,205,Tuesday,4,12,2024
+1945,Grocery,1238,No,0,26,155,Saturday,15,4,2024
+1423,Personal Care,2939,No,0,29,450,Wednesday,27,3,2024
+1637,Grocery,1928,Yes,0,25,206,Friday,3,7,2024
+1082,Clothing,2050,Yes,15,6,25,Thursday,16,3,2024
+1278,Clothing,1012,Yes,15,46,315,Saturday,27,9,2024
+1759,Grocery,1412,No,0,8,185,Tuesday,9,12,2024
+1051,Electronics,1399,No,0,20,441,Saturday,17,11,2024
+1712,Clothing,1592,No,0,31,139,Tuesday,28,2,2024
+1545,Home,156,Yes,30,52,68,Saturday,12,3,2024
+1704,Clothing,703,No,0,47,243,Sunday,24,9,2024
+1196,Home,1582,No,0,12,34,Saturday,24,2,2024
+1557,Clothing,2213,Yes,30,27,58,Thursday,10,3,2024
+1694,Grocery,2513,Yes,15,37,73,Tuesday,29,9,2024
+1330,Electronics,81,No,0,29,311,Monday,26,5,2024
+1374,Grocery,1342,No,0,34,193,Thursday,31,1,2024
+1899,Personal Care,1630,No,0,39,298,Monday,23,2,2024
+1670,Electronics,1837,No,0,36,69,Saturday,11,12,2024
+1721,Personal Care,2055,No,0,38,239,Tuesday,4,5,2024
+1526,Home,730,No,0,26,413,Friday,18,9,2024
+1706,Electronics,1608,No,0,43,406,Sunday,27,8,2024
+1902,Grocery,1161,Yes,0,34,279,Friday,3,12,2024
+1917,Clothing,2570,No,0,8,167,Friday,1,4,2024
+1962,Home,858,No,0,29,284,Monday,2,4,2024
+1468,Home,495,Yes,20,22,108,Thursday,16,5,2024
+1216,Home,813,Yes,10,15,41,Saturday,8,5,2024
+1716,Grocery,1919,Yes,0,34,352,Friday,6,6,2024
+1187,Electronics,1210,Yes,30,14,371,Friday,1,6,2024
+1750,Grocery,190,Yes,30,34,404,Monday,16,10,2024
+1083,Electronics,2627,Yes,15,22,231,Monday,16,7,2024
+1979,Electronics,1648,No,0,21,25,Sunday,19,1,2024
+1874,Clothing,1587,Yes,15,12,157,Tuesday,10,2,2024
+1479,Home,560,Yes,20,47,398,Saturday,4,1,2024
+1448,Clothing,1736,No,0,36,111,Saturday,12,3,2024
+1029,Personal Care,1846,No,0,37,469,Sunday,1,6,2024
+1872,Clothing,1945,Yes,5,44,361,Saturday,20,5,2024
+1663,Home,1233,Yes,10,20,48,Sunday,23,5,2024
+1014,Home,148,No,0,28,264,Sunday,2,7,2024
+1072,Personal Care,1836,Yes,5,34,34,Saturday,7,9,2024
+1584,Clothing,1847,Yes,10,42,85,Tuesday,4,9,2024
+1621,Clothing,1552,No,0,32,319,Saturday,10,8,2024
+1543,Clothing,1584,Yes,20,43,278,Saturday,9,11,2024
+1141,Electronics,1357,No,0,22,22,Wednesday,6,3,2024
+1348,Clothing,436,No,0,39,409,Friday,10,7,2024
+1590,Home,264,Yes,0,35,214,Sunday,5,1,2024
+1867,Clothing,1306,No,0,28,305,Sunday,11,2,2024
+1694,Grocery,1988,Yes,30,32,165,Monday,12,11,2024
+1937,Clothing,2626,Yes,30,21,64,Thursday,28,9,2024
+1801,Home,423,No,0,37,417,Monday,20,4,2024
+1442,Clothing,2369,Yes,20,14,93,Friday,23,7,2024
+1105,Home,2572,Yes,15,15,408,Monday,30,8,2024
+1151,Electronics,949,Yes,20,22,314,Friday,28,6,2024
+1077,Home,2338,No,0,26,26,Friday,13,2,2024
+1395,Electronics,2616,No,0,28,49,Friday,22,8,2024
+1520,Personal Care,109,No,0,13,55,Wednesday,24,12,2024
+1719,Home,2447,Yes,15,37,318,Sunday,27,1,2024
+1984,Grocery,2492,No,0,30,93,Tuesday,17,11,2024
+1652,Electronics,439,No,0,41,133,Saturday,21,8,2024
+1645,Personal Care,2554,Yes,15,24,111,Friday,14,3,2024
+1711,Clothing,947,Yes,20,10,118,Tuesday,8,3,2024
+1518,Clothing,2922,Yes,10,42,368,Friday,16,11,2024
+1058,Personal Care,2315,Yes,15,13,142,Thursday,25,5,2024
+1462,Personal Care,1964,Yes,30,28,468,Tuesday,14,9,2024
+1316,Electronics,2458,Yes,15,31,216,Thursday,4,2,2024
+1237,Electronics,2017,Yes,0,35,249,Friday,27,8,2024
+1116,Electronics,2096,No,0,36,200,Sunday,29,6,2024
+1116,Grocery,577,No,0,31,433,Tuesday,29,5,2024
+1536,Clothing,1081,No,0,17,274,Sunday,2,3,2024
+1830,Personal Care,2886,No,0,35,399,Monday,4,12,2024
+1063,Personal Care,1919,No,0,20,290,Wednesday,13,9,2024
+1327,Electronics,1326,Yes,30,52,207,Saturday,16,4,2024
+1114,Home,2586,No,0,45,274,Saturday,19,12,2024
+1642,Clothing,1396,Yes,20,19,335,Thursday,16,9,2024
+1217,Electronics,2882,No,0,45,153,Sunday,20,1,2024
+1896,Grocery,1595,Yes,20,23,268,Tuesday,2,12,2024
+1498,Personal Care,322,Yes,10,8,86,Friday,30,5,2024
+1096,Clothing,1304,No,0,16,483,Tuesday,16,11,2024
+1265,Personal Care,1176,No,0,16,173,Monday,13,12,2024
+1395,Home,2553,No,0,8,209,Tuesday,16,12,2024
+1547,Grocery,919,Yes,20,27,37,Wednesday,4,12,2024
+1519,Electronics,146,No,0,37,95,Thursday,12,2,2024
+1302,Personal Care,2282,Yes,15,28,38,Sunday,3,12,2024
+1062,Electronics,262,Yes,0,10,319,Wednesday,9,6,2024
+1660,Personal Care,1747,No,0,9,314,Tuesday,4,2,2024
+1140,Home,569,No,0,24,116,Sunday,27,4,2024
+1007,Personal Care,917,Yes,20,31,134,Monday,2,8,2024
+1112,Grocery,567,Yes,10,37,136,Friday,24,12,2024
+1095,Clothing,2592,No,0,38,85,Monday,29,1,2024
+1777,Personal Care,1894,No,0,40,354,Sunday,28,6,2024
+1029,Clothing,906,Yes,30,13,423,Wednesday,8,4,2024
+1833,Home,1772,No,0,43,448,Saturday,23,4,2024
+1258,Home,934,No,0,33,444,Thursday,13,2,2024
+1028,Clothing,911,No,0,6,75,Wednesday,11,4,2024
+1695,Electronics,2410,No,0,15,40,Tuesday,2,4,2024
+1580,Home,2861,Yes,5,1,38,Tuesday,17,9,2024
+1438,Grocery,779,Yes,0,21,48,Monday,16,6,2024
+1215,Clothing,1366,No,0,5,333,Tuesday,29,7,2024
+1450,Electronics,293,Yes,20,16,454,Wednesday,10,6,2024
+2000,Electronics,1058,Yes,5,28,385,Wednesday,24,10,2024
+1883,Personal Care,2212,Yes,15,39,298,Monday,1,4,2024
+1673,Clothing,1041,Yes,0,7,333,Monday,16,12,2024
+1499,Personal Care,2761,Yes,30,45,172,Wednesday,15,2,2024
+1940,Clothing,2947,Yes,15,33,333,Sunday,27,6,2024
+1135,Clothing,242,No,0,32,344,Monday,1,2,2024
+1386,Clothing,1252,Yes,15,16,238,Friday,11,10,2024
+1814,Personal Care,1717,No,0,38,465,Wednesday,14,5,2024
+1494,Clothing,759,No,0,17,437,Friday,8,12,2024
+1320,Clothing,2087,No,0,29,388,Friday,8,7,2024
+1158,Grocery,977,Yes,20,38,90,Saturday,11,1,2024
+1448,Grocery,1270,No,0,36,385,Sunday,17,2,2024
+1094,Electronics,1837,No,0,35,257,Sunday,11,9,2024
+1772,Personal Care,620,No,0,31,46,Wednesday,26,10,2024
+1417,Home,922,No,0,10,395,Thursday,1,2,2024
+1549,Clothing,481,Yes,10,12,68,Tuesday,15,4,2024
+1050,Clothing,1507,Yes,30,21,85,Thursday,10,2,2024
+1268,Grocery,2556,No,0,20,111,Friday,24,10,2024
+1086,Clothing,2959,Yes,15,38,426,Sunday,9,8,2024
+1746,Clothing,2120,Yes,10,28,304,Monday,5,5,2024
+1626,Grocery,2600,Yes,5,41,182,Tuesday,25,8,2024
+1237,Grocery,1642,No,0,40,444,Tuesday,22,2,2024
+1390,Home,354,No,0,22,414,Wednesday,13,2,2024
+1982,Grocery,2483,No,0,36,342,Sunday,17,6,2024
+1210,Grocery,995,No,0,5,342,Wednesday,27,9,2024
+1818,Electronics,725,No,0,44,100,Sunday,15,12,2024
+1991,Grocery,1501,Yes,10,40,141,Saturday,1,12,2024
+1571,Personal Care,169,No,0,24,37,Friday,31,12,2024
+1258,Clothing,2901,Yes,15,31,295,Friday,20,5,2024
+1509,Electronics,981,No,0,12,64,Thursday,2,11,2024
+1849,Home,1712,Yes,20,37,40,Monday,29,2,2024
+1549,Grocery,544,Yes,10,11,394,Thursday,9,2,2024
+1206,Electronics,547,Yes,5,24,348,Sunday,2,1,2024
+1082,Clothing,113,Yes,15,41,352,Thursday,13,10,2024
+1038,Electronics,188,Yes,15,36,405,Friday,14,1,2024
+1907,Grocery,1882,No,0,31,267,Thursday,24,4,2024
+1114,Clothing,1858,Yes,15,24,67,Sunday,12,6,2024
+1116,Home,895,Yes,30,13,356,Tuesday,26,5,2024
+1487,Grocery,2304,No,0,49,59,Sunday,23,9,2024
+1190,Electronics,1445,Yes,0,30,382,Saturday,29,6,2024
+1506,Grocery,684,No,0,35,338,Tuesday,26,11,2024
+1937,Home,544,No,0,40,378,Friday,16,2,2024
+1632,Grocery,2689,No,0,11,429,Tuesday,10,11,2024
+1408,Home,288,Yes,10,20,390,Saturday,29,10,2024
+1473,Grocery,317,No,0,36,272,Sunday,24,3,2024
+1386,Home,992,Yes,5,2,31,Wednesday,28,2,2024
+1784,Grocery,2592,Yes,5,38,142,Saturday,8,8,2024
+1568,Clothing,440,No,0,34,339,Thursday,25,8,2024
+1448,Grocery,1697,No,0,29,443,Monday,11,3,2024
+1919,Electronics,1162,Yes,15,37,329,Thursday,7,7,2024
+1597,Clothing,1647,Yes,20,43,126,Thursday,15,4,2024
+1300,Electronics,163,No,0,21,308,Thursday,30,4,2024
+1085,Home,2110,No,0,28,84,Thursday,7,9,2024
+1545,Electronics,163,No,0,30,414,Thursday,16,2,2024
+1854,Home,1434,Yes,30,54,368,Saturday,9,9,2024
+1507,Clothing,2114,No,0,8,323,Monday,2,10,2024
+1759,Personal Care,2436,Yes,15,52,396,Sunday,4,12,2024
+1722,Home,1487,Yes,0,44,323,Saturday,13,7,2024
+1517,Grocery,2442,Yes,10,20,20,Sunday,21,10,2024
+1134,Personal Care,1207,No,0,40,272,Wednesday,27,11,2024
+1643,Clothing,1946,No,0,29,29,Wednesday,10,10,2024
+1932,Personal Care,2764,Yes,10,41,58,Thursday,14,1,2024
+1335,Personal Care,1663,No,0,9,486,Tuesday,9,6,2024
+1928,Home,831,No,0,31,322,Friday,1,4,2024
+1646,Clothing,1525,No,0,37,235,Thursday,24,7,2024
+1793,Grocery,1101,No,0,9,246,Thursday,7,12,2024
+1564,Clothing,439,No,0,21,233,Saturday,1,6,2024
+1039,Personal Care,654,No,0,28,252,Friday,27,11,2024
+1009,Grocery,762,No,0,10,223,Thursday,11,11,2024
+1298,Grocery,316,Yes,30,49,86,Saturday,1,4,2024
+1484,Personal Care,2540,No,0,16,294,Friday,12,7,2024
+1498,Grocery,2112,No,0,32,174,Saturday,11,2,2024
+1503,Personal Care,1904,Yes,30,29,62,Tuesday,27,8,2024
+1163,Home,888,Yes,10,52,148,Sunday,24,6,2024
+1669,Grocery,589,No,0,7,158,Friday,3,6,2024
+1973,Grocery,2965,Yes,0,25,292,Tuesday,12,8,2024
+1361,Electronics,1016,No,0,19,219,Wednesday,12,5,2024
+1899,Grocery,1535,No,0,5,124,Wednesday,28,8,2024
+1127,Grocery,799,No,0,14,285,Monday,19,8,2024
+1177,Personal Care,922,Yes,15,44,175,Sunday,17,4,2024
+1135,Personal Care,1289,Yes,20,36,86,Monday,4,10,2024
+1600,Home,2032,Yes,15,30,34,Saturday,19,8,2024
+1204,Home,1281,No,0,29,54,Friday,17,1,2024
+1115,Home,1182,Yes,15,51,85,Saturday,3,7,2024
+1511,Personal Care,103,Yes,5,8,417,Friday,3,6,2024
+1777,Clothing,1618,No,0,32,301,Monday,16,4,2024
+1273,Grocery,1404,Yes,15,38,141,Saturday,15,9,2024
+1771,Personal Care,2235,No,0,29,185,Wednesday,4,1,2024
+1480,Clothing,204,No,0,13,324,Thursday,12,3,2024
+1755,Clothing,1495,Yes,20,24,74,Monday,5,2,2024
+1752,Clothing,2561,No,0,19,103,Monday,29,9,2024
+1743,Electronics,2731,No,0,46,304,Saturday,21,10,2024
+1315,Electronics,1990,No,0,26,455,Monday,10,5,2024
+1291,Home,600,Yes,0,18,90,Monday,16,9,2024
+1787,Personal Care,1084,No,0,44,325,Saturday,17,9,2024
+1533,Grocery,1285,Yes,10,21,416,Saturday,6,8,2024
+1872,Clothing,2502,No,0,26,165,Monday,19,4,2024
+1705,Clothing,1817,No,0,8,242,Friday,30,9,2024
+1780,Clothing,2045,No,0,28,28,Wednesday,9,2,2024
+1875,Personal Care,1545,Yes,30,30,216,Monday,19,5,2024
+1943,Grocery,1244,No,0,24,390,Monday,29,9,2024
+1795,Personal Care,1006,Yes,5,22,372,Tuesday,3,7,2024
+1224,Clothing,2131,Yes,10,27,289,Friday,6,2,2024
+1621,Home,2302,Yes,20,23,135,Sunday,26,9,2024
+1796,Home,453,No,0,38,352,Friday,5,11,2024
+1185,Grocery,2172,Yes,10,2,30,Thursday,2,12,2024
+1214,Home,1366,Yes,0,24,226,Sunday,30,11,2024
+1497,Home,172,Yes,5,36,432,Sunday,7,1,2024
+1202,Grocery,92,Yes,30,45,69,Monday,29,11,2024
+1876,Home,589,Yes,30,28,145,Saturday,21,6,2024
+1324,Electronics,674,No,0,27,278,Sunday,2,9,2024
+1350,Personal Care,1880,Yes,15,18,339,Monday,12,10,2024
+1678,Home,2474,Yes,10,25,88,Sunday,26,3,2024
+1136,Home,2127,No,0,17,256,Tuesday,5,11,2024
+1529,Clothing,2416,No,0,24,303,Friday,8,8,2024
+1219,Grocery,1785,No,0,7,156,Monday,29,7,2024
+1097,Grocery,1787,No,0,12,48,Saturday,17,12,2024
+1766,Electronics,1516,No,0,28,145,Tuesday,9,1,2024
+1843,Clothing,2831,Yes,10,41,254,Sunday,21,9,2024
+1462,Personal Care,1736,No,0,21,123,Thursday,24,5,2024
+1825,Electronics,2107,No,0,29,232,Saturday,13,7,2024
+1417,Electronics,2076,Yes,20,38,389,Saturday,23,1,2024
+1214,Grocery,1808,No,0,47,376,Saturday,13,9,2024
+1419,Electronics,1372,No,0,5,187,Monday,27,10,2024
+1588,Personal Care,1940,Yes,30,26,26,Wednesday,23,12,2024
+1911,Grocery,2399,No,0,31,383,Tuesday,15,1,2024
+1863,Personal Care,2864,Yes,15,17,102,Tuesday,11,1,2024
+1565,Home,1700,Yes,20,39,53,Monday,20,12,2024
+1849,Home,1056,No,0,28,51,Monday,27,5,2024
+1813,Clothing,821,Yes,5,20,206,Thursday,17,6,2024
+1773,Personal Care,123,Yes,0,15,441,Thursday,1,7,2024
+1683,Grocery,199,No,0,16,81,Wednesday,11,8,2024
+1830,Grocery,244,No,0,6,397,Wednesday,21,5,2024
+1211,Grocery,728,Yes,5,26,211,Friday,23,9,2024
+1961,Electronics,924,Yes,10,36,377,Wednesday,9,12,2024
+1656,Personal Care,1809,No,0,15,205,Tuesday,25,5,2024
+1940,Home,2126,No,0,49,288,Saturday,29,2,2024
+1992,Personal Care,2357,No,0,35,247,Sunday,13,10,2024
+1722,Personal Care,2302,No,0,26,451,Sunday,7,4,2024
+1340,Clothing,2249,No,0,10,474,Monday,13,6,2024
+1375,Home,1397,No,0,29,64,Monday,1,11,2024
+1238,Home,1421,Yes,5,41,87,Monday,10,8,2024
+1820,Electronics,2637,No,0,8,193,Thursday,26,4,2024
+1574,Home,2623,Yes,20,4,44,Friday,9,2,2024
+1531,Electronics,130,Yes,0,18,95,Sunday,15,7,2024
+1218,Personal Care,1607,No,0,28,86,Tuesday,10,5,2024
+1107,Clothing,946,Yes,0,14,54,Monday,31,3,2024
+1490,Electronics,1263,Yes,5,29,455,Thursday,6,2,2024
+1522,Clothing,789,Yes,30,45,268,Sunday,20,11,2024
+1635,Personal Care,2106,No,0,27,466,Saturday,22,7,2024
+1446,Grocery,2846,Yes,5,28,105,Tuesday,3,10,2024
+1846,Personal Care,1326,Yes,5,28,159,Saturday,16,5,2024
+1492,Electronics,1416,No,0,27,193,Friday,25,9,2024
+1796,Electronics,880,No,0,20,105,Tuesday,31,8,2024
+1813,Clothing,2882,No,0,30,498,Monday,30,3,2024
+1269,Grocery,864,No,0,7,268,Friday,5,8,2024
+1758,Clothing,1960,Yes,0,14,110,Monday,29,11,2024
+1619,Electronics,2475,No,0,29,477,Wednesday,18,10,2024
+1379,Home,678,No,0,16,163,Wednesday,5,2,2024
+1997,Grocery,1724,Yes,0,11,197,Wednesday,21,4,2024
+1577,Electronics,780,Yes,20,11,423,Friday,6,10,2024
+1797,Grocery,486,Yes,0,42,470,Saturday,12,1,2024
+1694,Grocery,311,No,0,21,445,Friday,12,4,2024
+1830,Electronics,395,Yes,20,22,186,Wednesday,12,9,2024
+1526,Grocery,237,No,0,20,43,Tuesday,29,6,2024
+1722,Electronics,2345,Yes,15,23,494,Sunday,18,8,2024
+1759,Clothing,1544,No,0,34,87,Friday,24,3,2024
+1956,Home,2633,No,0,5,259,Friday,18,5,2024
+1314,Personal Care,1930,Yes,30,19,224,Tuesday,3,4,2024
+1390,Clothing,59,No,0,27,444,Tuesday,24,3,2024
+1445,Grocery,2834,No,0,23,242,Saturday,29,3,2024
+1536,Grocery,1979,Yes,20,13,465,Tuesday,16,10,2024
+1988,Electronics,2909,Yes,20,36,158,Sunday,19,12,2024
+1704,Electronics,2738,Yes,10,10,382,Tuesday,23,12,2024
+1114,Home,1152,No,0,37,387,Monday,11,7,2024
+1277,Grocery,1820,Yes,20,32,127,Sunday,15,4,2024
+1576,Home,1448,Yes,15,10,147,Friday,5,2,2024
+1266,Electronics,1359,Yes,10,35,395,Monday,17,6,2024
+1708,Clothing,1279,No,0,25,102,Thursday,30,8,2024
+1538,Clothing,1805,Yes,0,49,138,Sunday,18,5,2024
+1191,Personal Care,361,Yes,0,15,350,Sunday,27,5,2024
+1184,Clothing,1375,No,0,18,110,Tuesday,19,7,2024
+1680,Grocery,1892,Yes,10,15,30,Thursday,9,1,2024
+1383,Personal Care,2787,No,0,30,35,Sunday,9,10,2024
+1463,Electronics,2858,Yes,20,29,380,Tuesday,28,11,2024
+1012,Grocery,2691,Yes,5,39,386,Sunday,26,8,2024
+1214,Electronics,312,Yes,20,37,189,Tuesday,10,1,2024
+1835,Electronics,315,No,0,10,151,Wednesday,10,4,2024
+1044,Electronics,721,Yes,15,8,33,Friday,13,6,2024
+1981,Clothing,1954,No,0,6,58,Monday,2,5,2024
+1209,Grocery,2779,Yes,10,15,464,Thursday,24,8,2024
+1503,Home,2889,No,0,28,196,Saturday,22,11,2024
+1437,Electronics,1166,No,0,16,395,Friday,26,1,2024
+1224,Personal Care,2581,Yes,0,45,452,Sunday,23,9,2024
+1273,Electronics,2708,No,0,19,479,Wednesday,21,1,2024
+1817,Clothing,1534,No,0,29,228,Saturday,3,12,2024
+1460,Personal Care,78,No,0,23,149,Friday,18,7,2024
+1805,Grocery,1608,Yes,0,26,340,Tuesday,29,4,2024
+1101,Electronics,135,Yes,10,39,464,Sunday,2,4,2024
+1875,Personal Care,900,No,0,24,24,Sunday,5,1,2024
+1268,Home,2508,No,0,15,270,Friday,8,3,2024
+1287,Personal Care,1975,Yes,30,22,142,Friday,22,1,2024
+1757,Home,1106,No,0,15,289,Monday,15,2,2024
+1013,Clothing,633,No,0,32,78,Tuesday,18,7,2024
+1466,Personal Care,227,No,0,36,167,Thursday,1,3,2024
+1178,Home,2385,No,0,19,379,Sunday,20,5,2024
+1903,Personal Care,862,No,0,36,478,Monday,1,2,2024
+1747,Home,274,No,0,27,379,Friday,8,11,2024
+1820,Home,2077,No,0,32,164,Thursday,5,6,2024
+1746,Home,236,Yes,30,41,492,Friday,5,2,2024
+1917,Personal Care,1050,No,0,5,87,Wednesday,6,6,2024
+1378,Grocery,2160,Yes,15,15,55,Monday,28,9,2024
+1132,Electronics,2534,No,0,37,173,Wednesday,13,7,2024
+1761,Grocery,302,Yes,0,16,115,Wednesday,5,10,2024
+1551,Electronics,1866,Yes,15,41,84,Sunday,7,8,2024
+1243,Grocery,2887,No,0,35,61,Wednesday,6,12,2024
+1793,Home,2774,No,0,28,363,Monday,21,12,2024
+1247,Clothing,1452,Yes,20,12,494,Friday,6,4,2024
+1955,Personal Care,940,No,0,27,293,Wednesday,7,6,2024
+1797,Home,231,No,0,31,35,Wednesday,27,5,2024
+1514,Personal Care,1294,Yes,15,17,48,Saturday,20,11,2024
+1422,Clothing,377,Yes,30,15,469,Wednesday,20,9,2024
+1359,Clothing,2498,Yes,20,42,249,Tuesday,1,5,2024
+1233,Clothing,1295,No,0,22,318,Thursday,9,3,2024
+1925,Electronics,2325,Yes,10,33,172,Tuesday,17,2,2024
+1493,Personal Care,2309,Yes,5,21,21,Tuesday,18,1,2024
+1926,Grocery,574,No,0,15,379,Monday,13,1,2024
+1831,Grocery,1098,Yes,10,21,98,Monday,17,6,2024
+1555,Home,2103,Yes,20,25,235,Saturday,9,2,2024
+1330,Personal Care,1389,Yes,10,19,261,Thursday,31,12,2024
+1510,Personal Care,2750,No,0,30,176,Wednesday,2,9,2024
+1488,Electronics,253,Yes,30,12,219,Wednesday,23,4,2024
+1398,Grocery,2707,No,0,38,188,Tuesday,13,10,2024
+1396,Clothing,2790,No,0,18,308,Wednesday,13,1,2024
+1074,Home,1791,No,0,32,177,Tuesday,14,2,2024
+1970,Home,2183,No,0,7,305,Friday,18,7,2024
+1720,Clothing,1914,Yes,15,18,374,Friday,23,1,2024
+1702,Home,1211,Yes,0,41,363,Saturday,5,12,2024
+1481,Clothing,2271,Yes,20,28,442,Sunday,16,12,2024
+1824,Personal Care,331,No,0,10,307,Friday,11,8,2024
+1019,Electronics,1424,No,0,14,390,Thursday,21,6,2024
+1679,Personal Care,1925,Yes,15,30,179,Friday,9,1,2024
+1174,Clothing,2954,Yes,30,13,20,Monday,16,9,2024
+1130,Clothing,366,No,0,30,237,Sunday,18,7,2024
+1591,Grocery,2035,No,0,13,155,Thursday,28,12,2024
+1222,Electronics,655,No,0,22,168,Saturday,8,5,2024
+1171,Grocery,2042,Yes,15,23,357,Wednesday,2,1,2024
+1308,Home,2706,No,0,35,138,Monday,4,12,2024
+1178,Electronics,1472,Yes,15,39,475,Saturday,25,2,2024
+1709,Grocery,2710,No,0,32,47,Monday,13,10,2024
+1532,Personal Care,1023,Yes,5,9,190,Wednesday,25,7,2024
+1287,Grocery,1101,No,0,33,286,Tuesday,23,9,2024
+1649,Electronics,557,Yes,10,9,455,Monday,27,9,2024
+1296,Grocery,1625,Yes,20,13,362,Wednesday,21,4,2024
+1579,Clothing,2899,Yes,5,8,295,Friday,20,8,2024
+1062,Home,1049,Yes,5,10,373,Wednesday,6,2,2024
+1226,Electronics,1209,No,0,14,348,Wednesday,12,9,2024
+1264,Personal Care,170,Yes,0,29,166,Friday,9,12,2024
+1710,Personal Care,1751,No,0,50,383,Saturday,11,4,2024
+1970,Home,362,Yes,0,37,400,Monday,29,8,2024
+1140,Electronics,2618,No,0,43,325,Sunday,22,8,2024
+1407,Home,2926,Yes,20,16,426,Friday,24,5,2024
+1278,Clothing,1095,Yes,30,30,33,Saturday,3,12,2024
+1690,Personal Care,1313,No,0,49,74,Saturday,24,11,2024
+1716,Personal Care,2330,Yes,10,29,427,Friday,15,7,2024
+1828,Grocery,1497,Yes,5,9,158,Monday,23,3,2024
+1850,Clothing,430,Yes,5,36,391,Wednesday,23,7,2024
+1243,Electronics,1740,Yes,10,34,231,Tuesday,9,11,2024
+1421,Grocery,2998,Yes,20,42,400,Friday,1,8,2024
+1278,Home,2552,No,0,49,474,Sunday,14,11,2024
+1691,Home,2583,Yes,0,3,46,Friday,25,10,2024
+1689,Personal Care,2604,No,0,21,162,Friday,15,4,2024
+1902,Electronics,987,Yes,15,37,352,Sunday,31,12,2024
+1752,Grocery,82,No,0,13,99,Tuesday,16,1,2024
+1800,Personal Care,1789,Yes,0,33,269,Tuesday,1,6,2024
+1387,Grocery,2267,No,0,33,486,Friday,25,2,2024
+1809,Electronics,860,Yes,0,36,473,Friday,12,3,2024
+1178,Clothing,2038,Yes,5,23,258,Wednesday,15,7,2024
+1433,Home,2883,No,0,33,342,Thursday,21,9,2024
+1509,Clothing,498,No,0,17,34,Sunday,18,11,2024
+1552,Home,372,No,0,37,316,Saturday,27,8,2024
+1994,Personal Care,1634,Yes,10,47,327,Saturday,22,11,2024
+1381,Home,1691,No,0,10,142,Monday,10,12,2024
+1473,Personal Care,1320,Yes,10,10,96,Thursday,2,9,2024
+1881,Personal Care,809,No,0,17,310,Monday,27,6,2024
+1317,Home,147,Yes,5,35,308,Friday,17,1,2024
+1253,Home,2518,Yes,5,15,196,Wednesday,29,6,2024
+1274,Home,73,No,0,34,426,Wednesday,19,2,2024
+1065,Electronics,1128,Yes,5,29,152,Tuesday,24,7,2024
+1786,Home,538,Yes,10,14,487,Wednesday,24,10,2024
+1860,Electronics,349,No,0,20,406,Monday,5,2,2024
+1556,Clothing,2027,No,0,21,445,Friday,21,11,2024
+1101,Electronics,2008,Yes,5,32,78,Monday,19,9,2024
+1339,Clothing,2752,No,0,19,271,Tuesday,9,11,2024
+1378,Personal Care,1933,Yes,20,21,150,Wednesday,6,10,2024
+1527,Electronics,2959,No,0,25,159,Friday,30,3,2024
+1192,Home,1799,No,0,6,437,Tuesday,4,10,2024
+1628,Grocery,2744,No,0,49,371,Saturday,5,10,2024
+1778,Personal Care,1199,Yes,30,40,279,Tuesday,28,1,2024
+1926,Electronics,2478,Yes,5,25,301,Friday,28,5,2024
+1130,Clothing,1124,No,0,35,291,Sunday,27,12,2024
+1608,Electronics,1806,No,0,26,371,Friday,7,11,2024
+1805,Electronics,274,Yes,10,34,73,Sunday,14,11,2024
+1587,Home,110,Yes,30,22,449,Sunday,14,8,2024
+1228,Home,421,Yes,20,26,459,Tuesday,12,2,2024
+1553,Clothing,144,Yes,30,38,460,Thursday,6,10,2024
+1472,Personal Care,2848,Yes,20,21,21,Wednesday,10,9,2024
+1479,Personal Care,2643,Yes,30,14,21,Monday,4,12,2024
+1525,Home,2259,No,0,18,133,Friday,16,2,2024
+1392,Grocery,998,No,0,23,168,Wednesday,25,8,2024
+1076,Grocery,2510,No,0,35,63,Monday,30,4,2024
+1761,Grocery,1498,No,0,26,151,Wednesday,27,4,2024
+1763,Clothing,2261,No,0,26,40,Thursday,24,2,2024
+1196,Electronics,2428,No,0,37,261,Sunday,11,7,2024
+1291,Grocery,515,Yes,10,33,143,Thursday,23,8,2024
+1900,Home,2091,No,0,29,104,Tuesday,17,3,2024
+1371,Electronics,2156,Yes,0,24,24,Sunday,20,6,2024
+1165,Grocery,2357,Yes,20,17,395,Friday,16,8,2024
+1091,Personal Care,1424,No,0,36,350,Thursday,10,1,2024
+1802,Electronics,230,No,0,18,147,Tuesday,23,4,2024
+1739,Grocery,2271,No,0,23,295,Monday,19,5,2024
+1770,Clothing,1508,No,0,28,338,Tuesday,11,7,2024
+1139,Grocery,2617,Yes,10,42,111,Sunday,10,8,2024
+1882,Personal Care,2465,No,0,14,65,Monday,14,11,2024
+1872,Clothing,1356,No,0,16,240,Thursday,29,10,2024
+1079,Home,910,No,0,10,123,Friday,3,10,2024
+1839,Clothing,1964,No,0,22,101,Thursday,7,3,2024
+1871,Clothing,1504,No,0,22,260,Tuesday,29,4,2024
+1562,Grocery,2007,No,0,12,189,Wednesday,29,5,2024
+1367,Clothing,1613,No,0,21,21,Sunday,15,10,2024
+1880,Personal Care,2139,No,0,6,479,Friday,8,12,2024
+1684,Electronics,1712,Yes,10,24,83,Monday,21,11,2024
+1551,Clothing,1853,Yes,20,12,57,Tuesday,9,10,2024
+1356,Electronics,1442,Yes,15,12,485,Monday,22,3,2024
+1662,Grocery,945,No,0,32,352,Thursday,26,3,2024
+1141,Personal Care,1310,No,0,21,327,Thursday,11,5,2024
+1642,Home,1357,Yes,5,11,199,Thursday,14,4,2024
+1220,Clothing,2113,No,0,41,416,Sunday,9,4,2024
+1923,Clothing,1992,No,0,7,168,Friday,17,3,2024
+1258,Personal Care,2709,No,0,22,230,Thursday,21,3,2024
+1374,Electronics,543,Yes,30,30,174,Wednesday,5,10,2024
+1858,Electronics,1498,Yes,0,44,276,Sunday,21,10,2024
+1016,Home,62,No,0,29,50,Tuesday,9,10,2024
+1553,Electronics,1373,Yes,10,28,159,Sunday,12,4,2024
+1159,Personal Care,61,Yes,0,20,407,Saturday,30,7,2024
+1868,Electronics,121,Yes,10,9,450,Tuesday,26,10,2024
+1135,Grocery,1445,Yes,0,18,431,Tuesday,8,3,2024
+1893,Electronics,534,No,0,34,277,Saturday,22,7,2024
+1135,Clothing,2297,Yes,0,22,99,Tuesday,20,1,2024
+1846,Home,2664,No,0,42,261,Sunday,7,8,2024
+1770,Home,405,No,0,24,339,Friday,9,12,2024
+1993,Personal Care,441,No,0,28,148,Saturday,22,7,2024
+1163,Electronics,2373,Yes,10,37,154,Saturday,11,6,2024
+1355,Home,1439,Yes,15,31,261,Friday,14,3,2024
+1952,Home,919,Yes,5,19,285,Wednesday,15,4,2024
+1047,Clothing,835,No,0,19,316,Monday,27,6,2024
+1460,Electronics,686,No,0,36,175,Tuesday,31,5,2024
+1568,Personal Care,473,No,0,14,278,Wednesday,5,1,2024
+1097,Home,647,No,0,22,207,Friday,29,8,2024
+1700,Personal Care,2238,No,0,24,60,Monday,4,12,2024
+1596,Home,1198,Yes,10,17,277,Sunday,11,1,2024
+1325,Clothing,1971,Yes,5,25,118,Thursday,15,3,2024
+1272,Personal Care,359,No,0,9,69,Thursday,4,7,2024
+1153,Electronics,2820,No,0,42,391,Saturday,30,8,2024
+1303,Home,262,Yes,5,42,94,Sunday,26,6,2024
+1721,Home,617,No,0,25,96,Friday,27,11,2024
+1668,Electronics,2039,Yes,30,34,191,Saturday,8,3,2024
+1572,Clothing,779,Yes,0,34,217,Saturday,4,11,2024
+1528,Clothing,2370,Yes,5,40,357,Thursday,18,3,2024
+1330,Personal Care,187,No,0,27,116,Saturday,11,11,2024
+1862,Clothing,163,Yes,30,40,248,Saturday,28,6,2024
+1160,Electronics,884,Yes,15,24,460,Tuesday,15,4,2024
+1505,Grocery,467,No,0,27,108,Wednesday,1,4,2024
+1756,Home,1702,Yes,0,7,404,Wednesday,3,3,2024
+1721,Grocery,1971,Yes,5,43,436,Saturday,22,8,2024
+1781,Electronics,849,Yes,0,20,473,Saturday,14,12,2024
+1722,Personal Care,1793,No,0,35,372,Wednesday,12,8,2024
+1048,Home,1157,No,0,37,448,Tuesday,24,6,2024
+1284,Clothing,1808,Yes,0,23,363,Sunday,10,12,2024
+1604,Clothing,352,Yes,30,45,51,Saturday,7,10,2024
+1180,Personal Care,1875,No,0,26,301,Tuesday,21,8,2024
+1991,Clothing,792,Yes,20,44,102,Tuesday,6,10,2024
+1079,Home,1590,No,0,32,185,Monday,27,1,2024
+1541,Home,2059,Yes,10,29,127,Saturday,7,5,2024
+1668,Personal Care,1414,No,0,10,422,Friday,10,3,2024
+1060,Electronics,153,Yes,20,37,384,Wednesday,7,12,2024
+1060,Personal Care,2233,Yes,0,11,140,Friday,5,1,2024
+1936,Electronics,2571,Yes,20,11,33,Wednesday,29,8,2024
+1595,Personal Care,599,No,0,15,230,Saturday,4,9,2024
+1161,Personal Care,2260,No,0,8,127,Wednesday,14,8,2024
+1794,Home,637,Yes,10,26,26,Thursday,16,11,2024
+1211,Grocery,2137,No,0,32,160,Thursday,5,2,2024
+1180,Personal Care,1639,No,0,38,255,Saturday,25,12,2024
+1638,Personal Care,708,No,0,5,329,Tuesday,1,11,2024
+1978,Clothing,567,Yes,20,24,410,Saturday,22,9,2024
+1280,Electronics,894,No,0,22,228,Wednesday,29,12,2024
+1603,Grocery,474,No,0,21,243,Friday,11,4,2024
+1182,Clothing,2745,Yes,10,18,90,Sunday,12,9,2024
+1886,Clothing,633,Yes,15,9,22,Tuesday,18,2,2024
+1650,Grocery,626,No,0,31,204,Friday,5,4,2024
+1749,Electronics,1626,No,0,42,337,Saturday,23,5,2024
+1916,Personal Care,160,No,0,50,137,Sunday,28,10,2024
+1658,Personal Care,2496,No,0,45,335,Sunday,16,9,2024
+1712,Electronics,1089,Yes,0,26,61,Thursday,18,7,2024
+1635,Clothing,717,No,0,33,74,Saturday,18,8,2024
+1676,Grocery,1559,Yes,10,9,410,Friday,19,1,2024
+1798,Personal Care,674,Yes,5,19,368,Thursday,9,7,2024
+1084,Personal Care,695,Yes,20,54,380,Sunday,20,8,2024
+1357,Personal Care,787,No,0,27,387,Friday,29,4,2024
+1644,Electronics,271,Yes,30,26,215,Sunday,9,4,2024
+1265,Clothing,1820,No,0,30,145,Sunday,26,7,2024
+1052,Clothing,2968,No,0,13,79,Monday,4,7,2024
+1848,Personal Care,2728,Yes,15,11,164,Friday,30,11,2024
+1636,Grocery,1354,Yes,30,56,266,Sunday,3,11,2024
+1031,Personal Care,2770,No,0,5,269,Monday,4,8,2024
+1357,Clothing,2833,No,0,38,158,Tuesday,19,10,2024
+1229,Clothing,840,Yes,15,38,85,Monday,27,6,2024
+1906,Home,1315,Yes,15,13,282,Tuesday,22,2,2024
+1620,Personal Care,2854,No,0,31,365,Wednesday,16,11,2024
+1032,Clothing,345,Yes,30,35,482,Friday,28,11,2024
+1817,Clothing,2953,No,0,24,53,Saturday,30,4,2024
+1270,Home,2090,Yes,30,33,240,Wednesday,25,2,2024
+1324,Personal Care,1937,Yes,30,44,322,Sunday,18,8,2024
+1600,Clothing,2326,Yes,5,18,95,Thursday,15,8,2024
+1586,Home,1634,No,0,17,446,Monday,4,4,2024
+1416,Grocery,931,No,0,6,235,Friday,25,9,2024
+1064,Grocery,1542,No,0,13,375,Thursday,19,11,2024
+1152,Home,2686,No,0,17,328,Tuesday,11,7,2024
+1971,Electronics,585,No,0,10,274,Friday,26,4,2024
+1072,Home,1691,No,0,38,89,Sunday,10,10,2024
+1064,Clothing,2823,Yes,10,36,131,Wednesday,21,7,2024
+1443,Clothing,978,No,0,18,383,Saturday,4,9,2024
+1612,Personal Care,1697,Yes,30,35,236,Friday,15,4,2024
+1664,Personal Care,2132,No,0,21,157,Sunday,29,11,2024
+1436,Clothing,1023,Yes,30,27,318,Saturday,7,10,2024
+1113,Grocery,2106,No,0,37,82,Thursday,27,9,2024
+1965,Grocery,2009,Yes,20,19,267,Sunday,24,11,2024
+1363,Electronics,1916,No,0,19,231,Sunday,3,9,2024
+1400,Clothing,758,Yes,15,16,152,Wednesday,11,8,2024
+1692,Electronics,564,No,0,10,135,Tuesday,2,11,2024
+1789,Clothing,61,No,0,36,219,Sunday,1,3,2024
+1567,Clothing,1484,Yes,15,23,480,Thursday,30,5,2024
+1658,Clothing,2539,Yes,10,39,240,Saturday,24,9,2024
+1259,Grocery,1818,No,0,29,292,Thursday,22,3,2024
+1975,Home,1811,No,0,25,333,Monday,5,5,2024
+1287,Personal Care,1319,Yes,15,28,356,Wednesday,14,11,2024
+1085,Grocery,579,No,0,12,101,Tuesday,20,10,2024
+1254,Home,1123,Yes,15,25,310,Thursday,2,3,2024
+1312,Electronics,523,Yes,30,31,45,Monday,15,12,2024
+1148,Home,2731,Yes,10,10,386,Thursday,7,6,2024
+1158,Clothing,936,No,0,30,342,Thursday,13,9,2024
+1121,Personal Care,2180,Yes,15,24,419,Tuesday,12,10,2024
+1200,Electronics,1191,No,0,27,206,Monday,22,5,2024
+1359,Personal Care,2354,No,0,7,296,Thursday,23,11,2024
+1562,Home,2144,No,0,18,325,Sunday,8,4,2024
+1528,Home,900,Yes,20,27,78,Friday,26,12,2024
+1566,Clothing,2202,Yes,5,26,89,Sunday,8,3,2024
+1323,Grocery,2322,Yes,0,35,262,Sunday,3,5,2024
+1840,Personal Care,2050,Yes,20,41,110,Tuesday,10,8,2024
+1103,Personal Care,1847,Yes,10,45,378,Saturday,20,8,2024
+1272,Electronics,1061,Yes,5,22,473,Monday,17,10,2024
+1072,Electronics,402,Yes,0,39,493,Sunday,7,7,2024
+1949,Clothing,920,No,0,6,117,Thursday,28,7,2024
+1557,Clothing,1866,Yes,5,39,489,Wednesday,14,3,2024
+1524,Clothing,2757,Yes,30,24,173,Tuesday,22,8,2024
+1258,Home,2220,Yes,5,41,131,Thursday,11,6,2024
+1959,Personal Care,2984,Yes,10,42,221,Sunday,30,1,2024
+1407,Personal Care,969,Yes,20,29,56,Sunday,4,6,2024
+1756,Clothing,1595,No,0,38,454,Monday,17,10,2024
+1650,Electronics,930,Yes,15,37,280,Friday,1,10,2024
+1306,Personal Care,213,Yes,10,30,35,Tuesday,3,8,2024
+1946,Grocery,2915,No,0,29,174,Friday,24,3,2024
+1413,Electronics,1062,No,0,16,388,Tuesday,1,7,2024
+1324,Personal Care,399,Yes,10,23,432,Wednesday,24,5,2024
+1856,Clothing,2536,Yes,30,28,278,Sunday,5,2,2024
+1833,Electronics,1052,Yes,0,33,416,Monday,7,11,2024
+1876,Grocery,2449,Yes,30,21,334,Thursday,25,8,2024
+1758,Clothing,349,No,0,9,233,Thursday,9,11,2024
+1832,Grocery,1658,Yes,5,7,427,Wednesday,15,1,2024
+1135,Electronics,1454,No,0,20,69,Thursday,17,9,2024
+1257,Personal Care,657,No,0,31,96,Saturday,8,10,2024
+1469,Clothing,1461,No,0,46,454,Sunday,25,4,2024
+1766,Grocery,1715,No,0,17,93,Wednesday,28,12,2024
+1129,Personal Care,877,Yes,5,29,81,Sunday,7,9,2024
+1399,Home,1940,Yes,5,26,492,Sunday,11,9,2024
+1368,Personal Care,2145,Yes,30,18,30,Saturday,4,11,2024
+1894,Personal Care,1038,No,0,13,317,Tuesday,26,8,2024
+1732,Grocery,335,No,0,10,285,Tuesday,21,4,2024
+1275,Clothing,1238,Yes,20,26,430,Thursday,21,7,2024
+1001,Home,226,No,0,28,384,Sunday,24,11,2024
+1515,Home,1805,Yes,0,17,69,Friday,20,10,2024
+1052,Personal Care,2882,No,0,28,124,Thursday,20,12,2024
+1886,Clothing,727,Yes,15,40,144,Saturday,11,11,2024
+1134,Electronics,1160,Yes,10,32,493,Wednesday,18,5,2024
+1383,Home,790,No,0,31,462,Thursday,15,1,2024
+1063,Home,1194,Yes,30,45,52,Wednesday,24,4,2024
+1113,Electronics,1580,Yes,30,53,116,Sunday,10,11,2024
+1031,Clothing,1789,Yes,0,14,337,Thursday,24,4,2024
+1329,Clothing,665,No,0,26,395,Friday,9,9,2024
+1414,Electronics,602,Yes,15,28,175,Tuesday,2,10,2024
+1599,Clothing,2199,Yes,5,35,45,Thursday,24,11,2024
+1177,Clothing,2972,Yes,0,15,483,Friday,4,1,2024
+1406,Electronics,889,No,0,22,471,Monday,22,2,2024
+1643,Personal Care,970,Yes,15,42,258,Sunday,25,4,2024
+1381,Grocery,828,No,0,8,436,Tuesday,13,12,2024
+1667,Personal Care,2589,Yes,20,17,389,Friday,4,7,2024
+1525,Clothing,2567,No,0,14,171,Monday,26,1,2024
+1903,Clothing,2139,No,0,39,369,Sunday,30,12,2024
+1840,Personal Care,2424,Yes,10,33,377,Friday,14,1,2024
+1269,Grocery,57,Yes,15,22,470,Friday,9,8,2024
+1389,Home,439,Yes,0,20,300,Thursday,15,4,2024
+1002,Personal Care,1912,Yes,10,11,105,Thursday,5,1,2024
+1497,Clothing,2504,Yes,10,8,63,Thursday,22,10,2024
+1727,Clothing,566,No,0,30,499,Friday,6,7,2024
+1928,Electronics,2496,No,0,16,449,Friday,3,5,2024
+1418,Home,1442,Yes,15,37,393,Monday,8,9,2024
+1672,Clothing,2167,Yes,0,19,26,Friday,1,1,2024
+1284,Personal Care,1914,Yes,15,18,184,Saturday,22,6,2024
+1116,Personal Care,996,Yes,5,37,393,Sunday,6,7,2024
+1694,Home,1222,Yes,30,44,434,Sunday,19,8,2024
+1307,Clothing,1423,Yes,0,8,52,Friday,1,2,2024
+1633,Electronics,744,No,0,11,498,Monday,16,11,2024
+1035,Electronics,206,Yes,5,13,405,Monday,24,1,2024
+1360,Grocery,1633,Yes,5,13,281,Tuesday,13,3,2024
+1365,Electronics,1793,No,0,9,32,Wednesday,25,4,2024
+1477,Clothing,2060,Yes,20,27,41,Thursday,19,12,2024
+1039,Grocery,886,Yes,0,18,197,Friday,26,4,2024
+1980,Grocery,651,No,0,17,368,Thursday,26,12,2024
+1410,Clothing,2377,No,0,27,377,Thursday,3,7,2024
+1171,Clothing,2068,No,0,36,106,Friday,31,8,2024
+1082,Home,1322,No,0,24,57,Friday,12,12,2024
+1688,Personal Care,1653,No,0,33,206,Sunday,19,6,2024
+1772,Grocery,397,Yes,30,40,276,Wednesday,25,1,2024
+1557,Clothing,2405,Yes,5,31,277,Sunday,18,8,2024
+1664,Grocery,340,No,0,12,465,Friday,2,12,2024
+1810,Grocery,180,No,0,31,176,Sunday,14,3,2024
+1289,Personal Care,433,No,0,33,89,Monday,23,3,2024
+1426,Home,2139,No,0,8,426,Friday,25,8,2024
+1033,Personal Care,2612,Yes,15,29,461,Thursday,19,2,2024
+1535,Grocery,1013,No,0,17,304,Sunday,21,9,2024
+1382,Clothing,1352,No,0,30,354,Sunday,24,3,2024
+1022,Home,2504,No,0,7,255,Friday,30,10,2024
+1146,Clothing,687,No,0,41,186,Saturday,6,11,2024
+1643,Grocery,207,No,0,6,179,Monday,19,7,2024
+1336,Personal Care,661,No,0,24,413,Monday,6,12,2024
+1747,Clothing,362,No,0,7,105,Tuesday,9,7,2024
+1813,Home,1424,No,0,26,229,Thursday,27,11,2024
+1773,Home,2383,Yes,15,9,259,Tuesday,24,1,2024
+1055,Home,606,No,0,39,253,Friday,15,2,2024
+1080,Personal Care,1759,No,0,32,205,Friday,27,7,2024
+1462,Grocery,2389,No,0,17,416,Thursday,11,6,2024
+1500,Electronics,379,No,0,15,179,Sunday,18,4,2024
+1653,Clothing,665,No,0,38,450,Monday,17,5,2024
+1794,Personal Care,1495,No,0,16,77,Sunday,3,9,2024
+1790,Home,471,No,0,17,282,Wednesday,30,6,2024
+1649,Clothing,370,Yes,5,20,276,Saturday,3,11,2024
+1697,Personal Care,815,No,0,26,103,Saturday,21,8,2024
+1654,Clothing,1065,Yes,20,41,282,Tuesday,3,9,2024
+1544,Home,2913,Yes,15,24,138,Thursday,27,9,2024
+1166,Clothing,2077,Yes,30,36,59,Monday,21,9,2024
+1631,Clothing,2355,Yes,10,32,282,Sunday,28,11,2024
+1355,Personal Care,382,No,0,13,91,Wednesday,15,8,2024
+1452,Clothing,1893,Yes,15,7,45,Tuesday,4,8,2024
+1264,Personal Care,2697,Yes,5,4,38,Monday,25,9,2024
+1503,Personal Care,1776,Yes,0,16,128,Saturday,16,4,2024
+1757,Electronics,1629,No,0,24,401,Sunday,2,2,2024
+1679,Personal Care,1256,Yes,20,30,108,Wednesday,8,5,2024
+1377,Grocery,2465,No,0,13,317,Friday,28,2,2024
+1446,Grocery,207,No,0,17,496,Thursday,28,4,2024
+1277,Electronics,1595,Yes,30,50,244,Sunday,23,9,2024
+1918,Grocery,2584,Yes,15,30,411,Thursday,19,4,2024
+1616,Grocery,2643,No,0,35,83,Tuesday,1,10,2024
+1443,Personal Care,2059,Yes,5,19,403,Thursday,21,4,2024
+1806,Clothing,1806,Yes,0,36,171,Tuesday,23,11,2024
+1007,Home,1826,Yes,0,37,381,Wednesday,25,3,2024
+1362,Grocery,2728,No,0,28,277,Tuesday,3,3,2024
+1751,Grocery,1007,Yes,15,25,25,Friday,6,6,2024
+1070,Clothing,2497,Yes,15,10,185,Thursday,21,8,2024
+1844,Grocery,66,No,0,36,264,Sunday,15,5,2024
+1842,Home,2794,Yes,20,21,310,Thursday,7,7,2024
+1674,Electronics,1596,No,0,23,262,Saturday,11,9,2024
+1433,Grocery,1603,No,0,27,292,Thursday,22,7,2024
+1784,Home,2894,No,0,22,272,Friday,15,2,2024
+1343,Personal Care,2823,No,0,30,393,Tuesday,24,1,2024
+1815,Grocery,907,No,0,8,194,Friday,26,9,2024
+1646,Electronics,91,No,0,30,299,Monday,29,4,2024
+1182,Clothing,1919,Yes,0,21,236,Saturday,17,7,2024
+1580,Personal Care,1981,Yes,0,40,58,Sunday,2,4,2024
+1139,Clothing,1576,No,0,45,301,Saturday,20,7,2024
+1672,Clothing,2024,No,0,38,100,Monday,5,9,2024
+1896,Personal Care,2552,No,0,16,366,Saturday,10,2,2024
+1582,Grocery,585,Yes,30,31,320,Wednesday,16,12,2024
+1402,Personal Care,2153,Yes,15,23,85,Wednesday,16,7,2024
+1521,Personal Care,728,Yes,5,22,247,Tuesday,24,4,2024
+1075,Home,71,No,0,47,104,Saturday,5,8,2024
+1979,Personal Care,2673,Yes,0,49,75,Sunday,23,1,2024
+1935,Clothing,2113,Yes,20,38,129,Wednesday,12,9,2024
+1285,Electronics,2177,Yes,15,39,346,Tuesday,12,2,2024
+1071,Grocery,600,Yes,20,24,255,Wednesday,3,5,2024
+1433,Personal Care,1928,No,0,24,401,Sunday,6,10,2024
+1101,Home,472,No,0,26,185,Thursday,31,1,2024
+1253,Home,1230,Yes,20,25,110,Friday,12,10,2024
+1351,Home,2398,Yes,20,31,356,Sunday,1,3,2024
+1525,Clothing,1213,No,0,15,181,Wednesday,8,5,2024
+1000,Electronics,1013,No,0,23,301,Monday,14,2,2024
+1019,Electronics,137,No,0,31,132,Thursday,7,11,2024
+1387,Grocery,1463,No,0,7,181,Monday,18,4,2024
+1467,Clothing,2615,Yes,0,20,481,Sunday,13,2,2024
+1350,Grocery,2030,Yes,30,14,112,Thursday,8,5,2024
+1332,Home,886,Yes,5,21,119,Monday,10,8,2024
+1044,Home,408,Yes,5,20,108,Wednesday,14,3,2024
+1923,Personal Care,1883,No,0,47,317,Sunday,29,1,2024
+1849,Clothing,924,Yes,20,9,415,Monday,13,8,2024
+1266,Clothing,541,Yes,15,31,73,Friday,28,6,2024
+1414,Electronics,2052,Yes,5,20,412,Monday,25,1,2024
+1568,Clothing,1321,Yes,15,25,148,Friday,3,4,2024
+1013,Grocery,815,Yes,5,7,293,Tuesday,14,4,2024
+1092,Home,1201,Yes,30,12,208,Thursday,3,6,2024
+1229,Clothing,1977,Yes,20,42,485,Tuesday,11,4,2024
+1971,Personal Care,1464,Yes,10,27,447,Thursday,8,9,2024
+1242,Grocery,2324,No,0,16,60,Wednesday,21,1,2024
+1364,Grocery,247,No,0,9,362,Friday,6,10,2024
+1305,Clothing,2677,Yes,15,12,288,Wednesday,24,10,2024
+1779,Clothing,608,No,0,47,255,Sunday,15,12,2024
+1487,Clothing,1577,Yes,20,38,194,Sunday,7,2,2024
+1240,Electronics,135,Yes,0,30,173,Monday,23,6,2024
+1705,Grocery,1232,No,0,24,268,Wednesday,16,11,2024
+1839,Clothing,966,No,0,11,484,Monday,31,3,2024
+1431,Clothing,1911,No,0,21,307,Saturday,4,11,2024
+1107,Grocery,2280,No,0,31,56,Friday,6,3,2024
+1596,Personal Care,1570,Yes,30,56,473,Sunday,15,6,2024
+1450,Personal Care,2129,No,0,35,221,Saturday,19,4,2024
+1077,Home,514,Yes,15,34,303,Friday,4,5,2024
+1016,Clothing,2590,No,0,29,113,Monday,18,1,2024
+1054,Grocery,1241,No,0,6,90,Wednesday,27,12,2024
+1109,Electronics,857,Yes,10,26,68,Thursday,13,4,2024
+1525,Electronics,578,No,0,24,347,Saturday,29,11,2024
+1838,Home,1202,No,0,10,239,Wednesday,12,5,2024
+1207,Clothing,60,Yes,0,19,326,Monday,15,8,2024
+1921,Clothing,1423,Yes,10,41,473,Sunday,20,9,2024
+1081,Personal Care,1819,No,0,39,261,Friday,19,2,2024
+1486,Grocery,458,Yes,5,23,39,Wednesday,1,3,2024
+1022,Clothing,2137,No,0,26,64,Wednesday,1,12,2024
+1908,Grocery,2772,No,0,21,281,Sunday,19,10,2024
+1074,Home,1154,No,0,24,321,Tuesday,8,6,2024
+1330,Clothing,2331,Yes,0,7,413,Wednesday,30,8,2024
+1250,Electronics,2448,Yes,5,24,199,Saturday,22,8,2024
+1952,Electronics,856,Yes,20,14,482,Tuesday,14,7,2024
+1986,Grocery,856,Yes,15,35,418,Sunday,13,10,2024
+1361,Electronics,598,No,0,38,277,Tuesday,27,9,2024
+1132,Clothing,1138,No,0,19,227,Thursday,8,2,2024
+1930,Clothing,2403,No,0,7,457,Tuesday,25,9,2024
+1181,Electronics,2786,Yes,0,29,464,Tuesday,19,6,2024
+1396,Electronics,1415,No,0,36,278,Monday,7,10,2024
+1512,Grocery,636,No,0,16,287,Friday,7,10,2024
+1072,Home,1416,Yes,5,31,190,Saturday,3,10,2024
+1228,Clothing,196,No,0,16,86,Sunday,28,1,2024
+1102,Electronics,284,Yes,0,22,282,Wednesday,6,1,2024
+1704,Personal Care,2661,Yes,20,41,294,Sunday,9,5,2024
+1688,Home,401,No,0,14,201,Wednesday,9,12,2024
+1809,Clothing,2528,Yes,10,24,448,Tuesday,23,4,2024
+1049,Grocery,865,No,0,10,46,Thursday,23,9,2024
+1266,Electronics,2138,No,0,5,437,Tuesday,11,11,2024
+1628,Grocery,962,No,0,14,105,Thursday,27,12,2024
+1521,Home,1286,No,0,13,414,Thursday,27,12,2024
+1311,Home,1235,Yes,15,35,108,Monday,24,7,2024
+1005,Electronics,860,No,0,10,181,Monday,30,8,2024
+1676,Home,2594,No,0,17,107,Monday,17,2,2024
+1595,Electronics,1624,Yes,0,26,250,Sunday,13,9,2024
+1999,Grocery,1537,Yes,20,21,496,Thursday,27,9,2024
+1805,Personal Care,670,No,0,40,317,Wednesday,14,9,2024
+1189,Electronics,1454,No,0,22,134,Wednesday,13,5,2024
+1999,Clothing,1304,Yes,15,26,440,Sunday,9,10,2024
+1548,Home,2809,Yes,5,27,477,Thursday,5,3,2024
+1711,Personal Care,509,No,0,39,412,Sunday,15,12,2024
+1622,Clothing,1975,No,0,16,257,Thursday,2,6,2024
+1340,Personal Care,1175,No,0,33,321,Saturday,2,12,2024
+1315,Home,720,Yes,10,14,494,Tuesday,20,7,2024
+1548,Clothing,400,Yes,20,21,383,Friday,6,3,2024
+1303,Grocery,1024,Yes,30,18,364,Thursday,8,4,2024
+1401,Clothing,579,No,0,35,220,Thursday,21,5,2024
+1738,Grocery,2275,Yes,10,23,25,Friday,20,11,2024
+1086,Electronics,2573,No,0,34,447,Wednesday,20,9,2024
+1536,Personal Care,1178,Yes,30,38,68,Friday,20,8,2024
+1262,Home,516,Yes,30,37,176,Sunday,13,10,2024
+1106,Grocery,1398,Yes,5,41,465,Friday,2,3,2024
+1832,Personal Care,1801,No,0,5,161,Friday,2,4,2024
+1120,Electronics,1448,Yes,15,28,145,Monday,26,1,2024
+1980,Home,1324,No,0,29,33,Friday,18,4,2024
+1641,Electronics,1504,No,0,30,301,Sunday,25,4,2024
+1814,Grocery,2814,No,0,24,237,Monday,27,5,2024
+1113,Personal Care,2015,No,0,15,450,Tuesday,22,5,2024
+1357,Electronics,760,No,0,22,44,Thursday,3,6,2024
+1028,Personal Care,1920,Yes,0,30,37,Friday,18,7,2024
+1015,Clothing,2140,Yes,5,23,98,Thursday,9,1,2024
+1918,Grocery,1436,Yes,10,36,295,Monday,24,1,2024
+1361,Personal Care,1966,Yes,0,12,353,Wednesday,31,10,2024
+1476,Grocery,1686,Yes,15,35,452,Monday,15,1,2024
+1042,Grocery,1320,No,0,24,233,Monday,13,2,2024
+1680,Home,809,Yes,30,17,77,Thursday,25,12,2024
+1458,Electronics,2464,Yes,30,16,74,Tuesday,5,3,2024
+1409,Clothing,248,Yes,15,37,157,Sunday,14,10,2024
+1318,Grocery,2822,No,0,19,80,Saturday,26,12,2024
+1918,Grocery,2598,Yes,5,6,300,Monday,11,8,2024
+1146,Grocery,1596,Yes,10,34,342,Wednesday,1,2,2024
+1149,Personal Care,2120,Yes,30,37,120,Wednesday,15,3,2024
+1779,Personal Care,670,No,0,28,243,Saturday,16,4,2024
+1216,Home,2464,Yes,0,30,275,Monday,5,7,2024
+1932,Grocery,2095,Yes,0,9,57,Thursday,23,8,2024
+1724,Grocery,1382,Yes,10,23,146,Thursday,23,4,2024
+1836,Home,850,No,0,41,61,Sunday,26,4,2024
+1222,Personal Care,2814,No,0,37,194,Sunday,22,4,2024
+1926,Clothing,1388,Yes,0,11,414,Tuesday,21,3,2024
+1499,Clothing,608,Yes,15,21,93,Friday,4,1,2024
+1004,Electronics,2256,Yes,5,6,378,Monday,25,4,2024
+1494,Electronics,1639,No,0,21,234,Monday,13,8,2024
+1997,Home,221,Yes,15,34,252,Friday,14,1,2024
+1607,Grocery,626,Yes,0,48,50,Saturday,14,1,2024
+1579,Clothing,1265,Yes,5,27,230,Sunday,12,11,2024
+1573,Home,2076,No,0,38,429,Tuesday,27,8,2024
+1312,Home,1030,No,0,50,382,Sunday,11,4,2024
+1429,Home,2994,No,0,11,21,Sunday,19,9,2024
+1371,Grocery,1407,Yes,15,31,499,Thursday,1,1,2024
+1863,Grocery,519,No,0,17,335,Wednesday,20,1,2024
+1136,Grocery,2086,Yes,15,17,72,Wednesday,5,2,2024
+1929,Personal Care,1867,Yes,5,41,456,Wednesday,10,2,2024
+1560,Electronics,1202,Yes,15,44,86,Sunday,14,7,2024
+1217,Clothing,979,No,0,12,481,Thursday,25,5,2024
+1915,Grocery,2651,Yes,0,9,491,Thursday,4,2,2024
+1217,Home,1348,Yes,10,31,140,Wednesday,1,9,2024
+1203,Personal Care,1168,Yes,0,39,145,Monday,19,4,2024
+1042,Electronics,1379,No,0,7,113,Tuesday,30,3,2024
+1917,Home,2395,No,0,26,437,Tuesday,17,5,2024
+1917,Grocery,2489,No,0,36,308,Saturday,1,8,2024
+1661,Personal Care,2469,Yes,15,40,137,Wednesday,9,1,2024
+1894,Home,2352,Yes,15,31,374,Thursday,14,11,2024
+1111,Electronics,495,No,0,5,87,Tuesday,28,10,2024
+1155,Clothing,2044,Yes,5,40,482,Tuesday,18,2,2024
+1921,Grocery,1771,Yes,15,26,483,Thursday,11,1,2024
+1224,Electronics,1152,Yes,20,41,79,Tuesday,9,3,2024
+1840,Electronics,925,No,0,21,213,Wednesday,28,8,2024
+1273,Electronics,215,Yes,0,20,50,Tuesday,10,10,2024
+1862,Personal Care,1546,Yes,15,34,326,Monday,25,2,2024
+1474,Electronics,2531,No,0,27,140,Wednesday,8,2,2024
+1131,Electronics,520,Yes,30,28,93,Sunday,15,7,2024
+1917,Electronics,2491,Yes,15,38,352,Friday,29,5,2024
+1177,Grocery,2437,No,0,14,136,Wednesday,1,3,2024
+1335,Home,1835,Yes,15,11,149,Thursday,7,6,2024
+1734,Electronics,2279,Yes,5,31,451,Monday,19,6,2024
+1089,Electronics,2721,No,0,12,206,Friday,7,3,2024
+1567,Personal Care,181,Yes,0,13,300,Thursday,18,8,2024
+1251,Home,303,Yes,0,29,74,Friday,5,10,2024
+1430,Electronics,1443,No,0,31,65,Tuesday,9,11,2024
+1670,Clothing,828,Yes,10,21,176,Wednesday,22,1,2024
+1198,Grocery,1533,Yes,30,55,325,Saturday,24,8,2024
+1377,Clothing,938,No,0,29,38,Monday,8,8,2024
+1874,Grocery,683,Yes,10,27,382,Monday,14,3,2024
+1873,Electronics,120,No,0,46,365,Saturday,10,12,2024
+1936,Home,336,Yes,5,45,77,Saturday,8,7,2024
+1814,Grocery,610,No,0,37,376,Monday,8,2,2024
+1299,Home,996,Yes,10,25,379,Wednesday,6,2,2024
+1678,Grocery,2812,No,0,6,253,Friday,22,1,2024
+1164,Grocery,1541,No,0,24,295,Sunday,29,11,2024
+1756,Grocery,1884,No,0,31,344,Monday,1,7,2024
+1985,Home,2947,No,0,28,132,Thursday,29,10,2024
+1826,Home,861,No,0,32,151,Wednesday,19,9,2024
+1950,Personal Care,2912,Yes,30,32,323,Sunday,3,12,2024
+1965,Grocery,2401,No,0,32,461,Friday,26,1,2024
+1136,Home,2857,Yes,20,38,315,Thursday,25,3,2024
+1141,Grocery,1645,No,0,14,264,Wednesday,21,4,2024
+1644,Electronics,1586,Yes,20,32,318,Thursday,1,11,2024
+1132,Grocery,833,Yes,0,18,110,Saturday,22,6,2024
+1014,Electronics,2598,No,0,12,466,Friday,8,1,2024
+1775,Electronics,1932,Yes,0,8,329,Tuesday,18,10,2024
+1310,Home,50,No,0,35,80,Thursday,21,6,2024
+1379,Home,75,Yes,15,41,92,Tuesday,26,10,2024
+1799,Clothing,706,No,0,40,161,Saturday,23,10,2024
+1079,Grocery,2219,Yes,10,14,234,Thursday,8,1,2024
+1267,Clothing,766,No,0,22,180,Sunday,1,9,2024
+1971,Grocery,1478,No,0,34,118,Monday,29,1,2024
+1610,Home,185,No,0,36,317,Sunday,7,5,2024
+1073,Electronics,1069,No,0,42,193,Sunday,12,3,2024
+1203,Personal Care,2310,No,0,19,339,Wednesday,24,11,2024
+1349,Electronics,1054,No,0,26,312,Saturday,15,9,2024
+1745,Grocery,1164,No,0,15,157,Tuesday,19,5,2024
+1110,Electronics,2839,No,0,21,27,Friday,24,8,2024
+1756,Home,829,No,0,33,116,Friday,11,1,2024
+1431,Electronics,1308,No,0,12,210,Tuesday,10,11,2024
+1603,Home,2951,No,0,17,375,Sunday,6,11,2024
+1539,Home,2285,Yes,10,34,166,Thursday,15,8,2024
+1609,Home,3000,Yes,20,19,272,Monday,21,12,2024
+1413,Home,2458,No,0,16,169,Tuesday,24,1,2024
+1820,Electronics,2017,No,0,14,78,Thursday,21,2,2024
+1292,Home,759,Yes,10,52,466,Sunday,8,3,2024
+1589,Clothing,2563,No,0,15,399,Sunday,28,8,2024
+1948,Home,837,No,0,8,284,Wednesday,25,6,2024
+1902,Grocery,1746,Yes,0,22,137,Sunday,5,8,2024
+1361,Grocery,378,Yes,30,28,418,Friday,25,9,2024
+1589,Grocery,2438,No,0,36,434,Monday,25,6,2024
+1274,Grocery,951,Yes,10,16,76,Monday,29,12,2024
+1636,Personal Care,2075,No,0,30,207,Friday,25,11,2024
+1499,Personal Care,1384,Yes,20,16,239,Friday,16,4,2024
+1324,Home,1001,No,0,10,470,Thursday,18,3,2024
+1370,Grocery,394,No,0,14,93,Wednesday,8,11,2024
+1593,Clothing,2791,No,0,21,161,Sunday,21,7,2024
+1557,Personal Care,688,Yes,20,33,33,Friday,28,6,2024
+1361,Grocery,1656,No,0,26,171,Wednesday,10,6,2024
+1186,Personal Care,1245,Yes,15,9,122,Friday,31,7,2024
+1172,Grocery,1043,Yes,30,41,79,Friday,5,3,2024
+1809,Personal Care,183,No,0,10,467,Monday,30,6,2024
+1796,Grocery,1817,No,0,30,396,Monday,4,11,2024
+1362,Grocery,1773,No,0,16,388,Tuesday,24,11,2024
+1787,Grocery,1635,No,0,19,346,Monday,18,8,2024
+1974,Clothing,637,Yes,10,35,222,Thursday,26,6,2024
+1002,Home,228,No,0,11,154,Friday,4,11,2024
+1464,Clothing,2165,Yes,5,19,429,Monday,26,12,2024
+1017,Personal Care,2100,Yes,20,26,267,Monday,19,4,2024
+1246,Home,470,Yes,5,32,211,Sunday,23,2,2024
+1633,Electronics,2432,Yes,30,51,401,Saturday,8,8,2024
+1494,Home,936,Yes,10,31,102,Tuesday,18,1,2024
+1586,Personal Care,1000,No,0,9,241,Thursday,7,2,2024
+1346,Grocery,2190,No,0,28,188,Friday,4,7,2024
+1825,Home,226,No,0,23,108,Wednesday,15,7,2024
+1248,Personal Care,1748,Yes,30,22,408,Tuesday,25,1,2024
+1026,Home,2481,Yes,30,20,109,Thursday,19,5,2024
+1463,Grocery,2357,Yes,0,5,369,Tuesday,3,3,2024
+1618,Clothing,703,No,0,26,458,Thursday,21,4,2024
+1186,Personal Care,1242,No,0,41,344,Sunday,18,4,2024
+1108,Electronics,626,No,0,30,242,Monday,15,8,2024
+1236,Personal Care,80,Yes,0,37,145,Thursday,30,12,2024
+1725,Home,697,No,0,31,84,Tuesday,29,6,2024
+1549,Home,2318,No,0,37,83,Wednesday,29,5,2024
+1600,Clothing,1461,No,0,25,357,Thursday,15,8,2024
+1253,Personal Care,1490,No,0,23,54,Sunday,24,3,2024
+1535,Personal Care,644,No,0,8,440,Tuesday,19,6,2024
+1680,Grocery,1003,Yes,20,33,269,Thursday,21,5,2024
+1094,Clothing,2703,No,0,18,145,Saturday,30,11,2024
+1484,Clothing,716,No,0,29,333,Sunday,12,6,2024
+1343,Personal Care,2073,No,0,36,55,Monday,12,3,2024
+1775,Home,2170,Yes,0,7,487,Wednesday,7,8,2024
+1356,Home,2735,Yes,15,30,30,Saturday,12,4,2024
+1301,Clothing,670,No,0,16,315,Friday,15,7,2024
+1651,Personal Care,2532,Yes,10,14,498,Tuesday,27,9,2024
+1763,Personal Care,1096,Yes,20,43,92,Monday,17,2,2024
+1172,Electronics,2496,Yes,15,18,58,Sunday,30,11,2024
+1722,Grocery,1800,Yes,5,27,45,Saturday,30,1,2024
+1143,Electronics,2554,Yes,30,15,81,Wednesday,15,12,2024
+1129,Personal Care,1499,No,0,25,125,Sunday,28,1,2024
+1047,Grocery,2469,Yes,20,32,142,Friday,23,4,2024
+1513,Grocery,2404,No,0,21,418,Sunday,6,7,2024
+1969,Personal Care,1838,Yes,10,36,171,Saturday,21,4,2024
+1285,Home,2844,No,0,27,222,Monday,30,12,2024
+1652,Personal Care,1699,No,0,37,437,Wednesday,21,6,2024
+1112,Home,2058,No,0,25,197,Saturday,1,7,2024
+1597,Home,2896,Yes,10,24,381,Thursday,5,10,2024
+1890,Electronics,62,Yes,20,43,356,Friday,13,6,2024
+1787,Clothing,2266,No,0,36,42,Sunday,21,6,2024
+1728,Clothing,1172,Yes,30,28,376,Sunday,20,9,2024
+1437,Electronics,2957,Yes,10,14,216,Thursday,24,7,2024
+1890,Personal Care,2186,Yes,30,50,471,Saturday,28,5,2024
+1946,Clothing,2904,No,0,29,89,Thursday,23,7,2024
+1217,Home,2873,No,0,40,498,Saturday,20,11,2024
+1142,Home,1430,Yes,10,20,328,Friday,27,5,2024
+1998,Home,2594,No,0,29,197,Saturday,28,9,2024
+1842,Home,1985,No,0,13,466,Friday,23,10,2024
+1472,Electronics,126,Yes,5,18,278,Monday,21,10,2024
+1884,Personal Care,1295,No,0,40,360,Saturday,27,2,2024
+1547,Home,1288,Yes,10,39,463,Thursday,27,3,2024
+1114,Home,1912,No,0,38,307,Sunday,5,10,2024
+1719,Grocery,859,Yes,10,32,39,Friday,28,10,2024
+1397,Clothing,2845,Yes,15,24,160,Thursday,1,2,2024
+1095,Electronics,333,Yes,0,7,325,Friday,7,8,2024
+1670,Home,648,Yes,5,42,292,Sunday,19,9,2024
+1644,Home,1829,No,0,22,65,Saturday,18,6,2024
+1810,Home,2465,No,0,14,367,Wednesday,7,5,2024
+1988,Clothing,909,No,0,7,446,Monday,23,7,2024
+1444,Grocery,2706,Yes,30,14,369,Thursday,13,3,2024
+1470,Clothing,374,No,0,12,405,Friday,7,5,2024
+1906,Home,1545,Yes,20,37,78,Monday,4,11,2024
+1968,Clothing,1426,Yes,5,44,409,Saturday,1,1,2024
+1080,Grocery,1376,No,0,14,60,Friday,26,10,2024
+1293,Grocery,1553,Yes,30,34,403,Wednesday,1,8,2024
+1205,Home,1300,Yes,15,44,161,Sunday,25,2,2024
+1608,Home,1828,Yes,0,16,27,Thursday,20,2,2024
+1095,Electronics,876,No,0,35,184,Tuesday,1,10,2024
+1853,Grocery,2860,Yes,20,31,172,Thursday,8,4,2024
+1456,Personal Care,861,Yes,30,13,300,Thursday,13,9,2024
+1685,Grocery,2699,No,0,12,46,Wednesday,26,4,2024
+1243,Personal Care,863,No,0,29,457,Sunday,12,10,2024
+1578,Clothing,2492,No,0,17,255,Tuesday,13,8,2024
+1574,Home,1243,Yes,30,48,331,Saturday,9,11,2024
+1284,Electronics,1867,Yes,5,15,494,Tuesday,30,1,2024
+1691,Electronics,1058,No,0,24,131,Friday,19,11,2024
+1283,Grocery,648,No,0,18,228,Saturday,9,10,2024
+1094,Home,788,No,0,34,457,Sunday,14,4,2024
+1573,Personal Care,2870,No,0,30,129,Saturday,15,12,2024
+1434,Personal Care,1605,Yes,15,31,345,Thursday,9,4,2024
+1968,Personal Care,1143,No,0,20,331,Monday,27,4,2024
+1048,Electronics,2690,Yes,0,12,206,Monday,4,10,2024
+1719,Personal Care,2856,No,0,11,374,Thursday,19,11,2024
+1886,Personal Care,1386,Yes,5,10,429,Wednesday,2,1,2024
+1142,Personal Care,797,Yes,15,30,30,Saturday,10,1,2024
+1310,Grocery,2023,Yes,0,17,480,Sunday,1,3,2024
+1292,Home,495,No,0,19,135,Saturday,5,7,2024
+1162,Clothing,1866,Yes,0,6,450,Thursday,17,2,2024
+1342,Electronics,2208,Yes,20,12,183,Tuesday,14,11,2024
+1055,Home,2342,Yes,30,41,186,Sunday,9,12,2024
+1605,Personal Care,976,No,0,36,174,Tuesday,15,12,2024
+1966,Electronics,739,Yes,20,28,322,Wednesday,8,8,2024
+1909,Personal Care,1734,Yes,20,41,299,Wednesday,15,12,2024
+1410,Grocery,1390,Yes,5,27,130,Monday,26,4,2024
+1532,Clothing,1583,Yes,30,15,186,Thursday,30,5,2024
+1047,Grocery,693,Yes,5,33,64,Thursday,19,2,2024
+1412,Personal Care,2280,Yes,20,18,366,Monday,5,11,2024
+1388,Personal Care,1511,Yes,20,43,272,Sunday,2,6,2024
+1007,Clothing,420,No,0,50,128,Sunday,28,12,2024
+1558,Home,2465,No,0,47,83,Saturday,11,2,2024
+1977,Electronics,199,Yes,30,26,268,Sunday,26,1,2024
+1573,Clothing,2772,Yes,30,36,483,Friday,24,3,2024
+1099,Grocery,2362,Yes,30,44,196,Saturday,18,8,2024
+1000,Electronics,2300,No,0,27,199,Friday,3,10,2024
+1090,Electronics,2297,Yes,0,19,144,Wednesday,14,8,2024
+1754,Clothing,2406,Yes,10,13,157,Wednesday,22,6,2024
+1328,Clothing,1147,No,0,30,331,Monday,10,12,2024
+1045,Home,671,No,0,6,70,Friday,19,1,2024
+1074,Clothing,1714,No,0,34,180,Saturday,18,10,2024
+1153,Home,1609,No,0,14,142,Thursday,27,10,2024
+1958,Personal Care,1875,No,0,8,365,Wednesday,6,1,2024
+1527,Home,917,No,0,19,498,Friday,22,5,2024
+1744,Electronics,612,No,0,16,355,Tuesday,10,5,2024
+1233,Clothing,1050,No,0,37,118,Sunday,16,3,2024
+1982,Home,749,No,0,35,429,Friday,20,6,2024
+1774,Home,1433,Yes,5,24,58,Tuesday,21,8,2024
+1670,Personal Care,2717,Yes,15,27,444,Tuesday,23,10,2024
+1172,Grocery,1276,Yes,15,36,193,Thursday,11,9,2024
+1892,Grocery,893,Yes,10,21,388,Monday,28,6,2024
+1691,Electronics,2983,Yes,10,20,401,Friday,27,7,2024
+1892,Clothing,1393,No,0,27,391,Thursday,25,1,2024
+1675,Personal Care,712,No,0,15,499,Sunday,29,10,2024
+1674,Grocery,2859,No,0,30,325,Tuesday,20,9,2024
+1639,Home,909,No,0,8,44,Wednesday,29,11,2024
+1465,Home,2702,Yes,5,20,449,Friday,5,8,2024
+1312,Grocery,682,Yes,30,25,168,Wednesday,19,1,2024
+1742,Home,2865,Yes,20,22,353,Friday,16,11,2024
+1367,Grocery,1094,No,0,19,293,Friday,28,2,2024
+1709,Personal Care,1053,No,0,21,21,Saturday,24,2,2024
+1173,Personal Care,1105,Yes,15,26,322,Friday,20,6,2024
+1319,Electronics,1533,No,0,17,324,Sunday,25,2,2024
+1519,Home,2171,No,0,31,317,Wednesday,14,6,2024
+1470,Home,1834,Yes,10,14,270,Friday,2,9,2024
+1787,Home,1720,Yes,20,40,190,Sunday,22,3,2024
+1569,Personal Care,2135,Yes,0,39,158,Saturday,19,12,2024
+1570,Grocery,1695,Yes,30,35,445,Tuesday,3,11,2024
+1385,Personal Care,1572,Yes,30,37,401,Friday,27,10,2024
+1651,Clothing,2144,Yes,10,43,376,Sunday,11,1,2024
+1689,Grocery,371,Yes,10,24,482,Thursday,28,9,2024
+1629,Home,341,Yes,10,7,492,Thursday,13,3,2024
+1021,Clothing,2484,Yes,20,29,194,Tuesday,28,6,2024
+1572,Grocery,1644,No,0,33,83,Tuesday,1,5,2024
+1901,Home,2018,No,0,23,341,Wednesday,20,3,2024
+1137,Clothing,2109,Yes,0,22,422,Sunday,27,6,2024
+1556,Clothing,2704,Yes,0,19,101,Friday,25,12,2024
+1751,Personal Care,1074,Yes,20,24,187,Friday,17,10,2024
+1472,Personal Care,767,No,0,39,415,Thursday,8,12,2024
+1913,Personal Care,1711,No,0,36,285,Tuesday,28,3,2024
+1346,Electronics,1680,No,0,21,425,Tuesday,6,10,2024
+1643,Personal Care,139,Yes,10,50,476,Sunday,25,1,2024
+1900,Home,1633,Yes,15,43,109,Sunday,25,5,2024
+1082,Electronics,2943,No,0,9,36,Monday,1,11,2024
+1480,Clothing,52,Yes,20,37,344,Monday,18,7,2024
+1045,Electronics,2767,Yes,30,29,489,Saturday,30,12,2024
+1137,Clothing,2934,Yes,20,33,390,Saturday,20,1,2024
+1730,Personal Care,2606,Yes,5,37,69,Sunday,11,1,2024
+1317,Clothing,1978,No,0,18,123,Monday,7,12,2024
+1883,Clothing,1030,No,0,12,402,Tuesday,25,5,2024
+1010,Grocery,1988,Yes,30,43,378,Friday,4,9,2024
+1865,Grocery,2189,No,0,34,371,Wednesday,12,6,2024
+1109,Electronics,2549,No,0,16,336,Friday,12,3,2024
+1860,Clothing,2913,No,0,6,400,Friday,26,6,2024
+1684,Personal Care,2916,Yes,20,15,388,Wednesday,17,7,2024
+1628,Electronics,2482,Yes,0,25,378,Sunday,19,7,2024
+1634,Grocery,1760,Yes,10,29,450,Monday,13,6,2024
+1357,Electronics,2347,Yes,20,45,52,Saturday,24,5,2024
+1986,Personal Care,2489,No,0,30,169,Thursday,12,3,2024
+1629,Home,1921,No,0,16,235,Sunday,4,6,2024
+1836,Grocery,1257,No,0,14,148,Monday,11,12,2024
+1451,Grocery,597,Yes,20,15,144,Monday,20,9,2024
+1118,Electronics,1830,Yes,20,34,344,Wednesday,21,1,2024
+1277,Electronics,2779,Yes,5,28,205,Thursday,15,6,2024
+1167,Grocery,2335,No,0,15,164,Thursday,18,3,2024
+1367,Clothing,1121,No,0,39,313,Monday,13,2,2024
+1043,Electronics,1487,Yes,15,27,468,Monday,30,10,2024
+1530,Grocery,887,No,0,41,127,Sunday,27,12,2024
+1879,Clothing,2177,No,0,25,493,Tuesday,16,11,2024
+1053,Personal Care,1605,Yes,0,16,281,Monday,8,4,2024
+1320,Grocery,2666,Yes,20,37,61,Wednesday,28,5,2024
+1490,Electronics,378,Yes,15,10,73,Wednesday,28,11,2024
+1331,Home,511,No,0,14,269,Wednesday,7,12,2024
+1015,Clothing,262,Yes,5,29,240,Wednesday,1,3,2024
+1930,Home,2883,Yes,30,18,209,Tuesday,25,7,2024
+1365,Grocery,2875,Yes,30,26,350,Sunday,17,12,2024
+1907,Electronics,1060,No,0,33,368,Saturday,16,10,2024
+1984,Personal Care,790,No,0,28,393,Monday,28,8,2024
+1989,Home,398,No,0,18,328,Monday,6,7,2024
+1851,Grocery,599,No,0,19,366,Tuesday,15,3,2024
+1696,Home,668,Yes,15,53,294,Saturday,28,9,2024
+1646,Grocery,1957,No,0,17,203,Sunday,10,4,2024
+1051,Personal Care,1920,Yes,15,33,184,Wednesday,18,9,2024
+1687,Personal Care,1700,Yes,10,39,158,Sunday,25,5,2024
+1636,Home,1125,No,0,32,239,Tuesday,1,8,2024
+1784,Personal Care,1189,Yes,10,10,198,Friday,10,6,2024
+1205,Clothing,1843,Yes,20,32,183,Wednesday,23,9,2024
+1801,Electronics,2875,Yes,15,34,432,Wednesday,24,2,2024
+1756,Grocery,2535,Yes,15,25,382,Friday,15,6,2024
+1323,Personal Care,2159,No,0,28,78,Wednesday,15,2,2024
+1422,Grocery,1089,No,0,31,94,Saturday,28,7,2024
+1394,Personal Care,1673,No,0,27,136,Friday,23,1,2024
+1326,Grocery,1904,Yes,5,36,280,Thursday,7,11,2024
+1733,Electronics,884,Yes,10,32,377,Wednesday,16,6,2024
+1958,Grocery,1729,No,0,25,25,Wednesday,23,6,2024
+1250,Grocery,2131,No,0,30,58,Saturday,16,4,2024
+1378,Personal Care,299,No,0,12,166,Friday,26,2,2024
+1869,Electronics,2514,Yes,5,20,213,Tuesday,6,4,2024
+1891,Personal Care,186,Yes,30,30,64,Saturday,6,8,2024
+1921,Clothing,1249,Yes,5,27,163,Sunday,27,5,2024
+1616,Personal Care,1291,No,0,17,207,Sunday,9,7,2024
+1352,Grocery,356,Yes,15,21,379,Sunday,20,4,2024
+1925,Electronics,1871,Yes,5,14,37,Saturday,30,5,2024
+1849,Home,597,Yes,5,28,479,Thursday,16,11,2024
+1545,Grocery,483,No,0,34,89,Monday,4,6,2024
+1893,Home,2798,Yes,5,11,417,Tuesday,19,12,2024
+1847,Grocery,1571,No,0,18,94,Monday,28,6,2024
+1220,Clothing,1506,Yes,20,33,425,Monday,14,6,2024
+1461,Personal Care,2986,No,0,26,271,Saturday,23,8,2024
+1469,Home,2743,Yes,15,14,179,Wednesday,17,10,2024
+1347,Grocery,1500,Yes,20,21,470,Wednesday,11,11,2024
+1244,Clothing,1721,No,0,32,458,Friday,6,7,2024
+1066,Electronics,2472,No,0,20,172,Tuesday,12,4,2024
+1224,Grocery,2334,No,0,31,290,Friday,23,12,2024
+1739,Clothing,2822,No,0,32,338,Monday,25,6,2024
+1136,Personal Care,418,Yes,30,16,347,Monday,14,2,2024
+1920,Grocery,2915,No,0,14,69,Monday,12,6,2024
+1292,Personal Care,1367,Yes,5,38,333,Thursday,22,11,2024
+1895,Grocery,1586,No,0,27,311,Tuesday,19,7,2024
+1115,Personal Care,742,No,0,38,123,Monday,28,8,2024
+1195,Personal Care,1763,No,0,9,424,Monday,23,9,2024
+1524,Electronics,1318,Yes,10,29,205,Wednesday,7,3,2024
+1366,Grocery,1921,No,0,14,134,Monday,12,3,2024
+1383,Electronics,1827,No,0,15,366,Tuesday,22,3,2024
+1608,Electronics,2419,Yes,10,17,180,Tuesday,9,4,2024
+1378,Electronics,698,Yes,30,23,224,Tuesday,3,5,2024
+1492,Personal Care,1313,No,0,23,483,Thursday,14,8,2024
+1098,Electronics,1558,No,0,25,333,Wednesday,15,2,2024
+1021,Electronics,2985,Yes,30,45,115,Friday,14,12,2024
+1404,Clothing,2451,No,0,30,449,Thursday,19,12,2024
+1799,Personal Care,1062,Yes,5,38,379,Monday,1,5,2024
+1917,Clothing,1219,No,0,12,181,Thursday,9,1,2024
+1119,Home,2823,Yes,15,11,90,Monday,22,11,2024
+1130,Personal Care,2075,Yes,30,24,331,Tuesday,14,2,2024
+1385,Personal Care,925,No,0,29,259,Thursday,28,10,2024
+1150,Personal Care,595,Yes,10,8,460,Friday,22,11,2024
+1425,Grocery,1567,No,0,39,245,Tuesday,23,12,2024
+1052,Home,2984,No,0,26,184,Friday,23,9,2024
+1845,Personal Care,297,Yes,15,13,24,Wednesday,23,9,2024
+1237,Electronics,762,No,0,48,126,Saturday,23,10,2024
+1740,Grocery,1466,Yes,5,33,463,Friday,7,1,2024
+1636,Grocery,118,Yes,30,48,329,Saturday,24,8,2024
+1143,Grocery,2593,No,0,41,275,Sunday,15,7,2024
+1350,Clothing,2022,No,0,50,462,Sunday,17,11,2024
+1101,Personal Care,1543,No,0,14,241,Thursday,3,10,2024
+1558,Grocery,915,Yes,20,22,101,Wednesday,2,7,2024
+1625,Home,1535,Yes,20,13,26,Wednesday,23,1,2024
+1474,Grocery,386,Yes,10,19,310,Thursday,19,10,2024
+1317,Clothing,1778,No,0,28,448,Friday,23,6,2024
+1737,Electronics,855,No,0,25,451,Monday,28,12,2024
+1591,Electronics,2357,Yes,5,10,243,Tuesday,22,8,2024
+1061,Personal Care,1843,Yes,30,39,459,Monday,29,2,2024
+1150,Clothing,1438,No,0,38,465,Tuesday,19,10,2024
+1291,Home,1830,Yes,0,7,165,Thursday,11,3,2024
+1762,Clothing,178,No,0,23,276,Wednesday,4,12,2024
+1880,Electronics,1389,No,0,47,153,Sunday,3,5,2024
+1171,Clothing,2962,No,0,1,33,Monday,29,4,2024
+1998,Electronics,1270,No,0,19,378,Friday,12,1,2024
+1563,Electronics,2209,Yes,10,24,346,Tuesday,14,1,2024
+1925,Personal Care,2043,No,0,2,21,Tuesday,13,7,2024
+1244,Personal Care,1605,Yes,10,41,396,Tuesday,7,6,2024
+1414,Clothing,1623,Yes,10,7,94,Friday,26,8,2024
+1003,Clothing,2226,No,0,6,256,Tuesday,25,2,2024
+1093,Home,1417,Yes,15,16,303,Monday,24,7,2024
+1722,Electronics,2860,No,0,14,453,Monday,24,2,2024
+1536,Clothing,2987,No,0,35,301,Tuesday,2,3,2024
+1330,Electronics,994,Yes,15,15,71,Wednesday,27,5,2024
+1662,Home,1749,No,0,13,83,Tuesday,26,11,2024
+1285,Home,1588,No,0,40,85,Saturday,5,2,2024
+1566,Electronics,2129,Yes,30,34,92,Tuesday,10,11,2024
+1129,Home,2627,No,0,20,417,Thursday,18,5,2024
+1550,Grocery,1711,Yes,10,22,460,Thursday,10,6,2024
+1736,Grocery,302,No,0,16,332,Sunday,3,2,2024
+1332,Home,1800,Yes,10,13,20,Tuesday,17,12,2024
+1206,Grocery,2633,Yes,15,27,385,Wednesday,13,2,2024
+1571,Personal Care,442,Yes,10,36,234,Wednesday,21,4,2024
+1606,Electronics,112,Yes,20,23,374,Wednesday,2,4,2024
+1559,Home,1935,Yes,5,37,417,Sunday,18,7,2024
+1961,Personal Care,1398,No,0,5,460,Wednesday,1,3,2024
+1952,Personal Care,2702,No,0,28,423,Thursday,22,10,2024
+1284,Personal Care,581,No,0,25,129,Monday,25,3,2024
+1554,Grocery,93,No,0,45,386,Sunday,25,7,2024
+1945,Grocery,726,Yes,5,24,24,Wednesday,19,4,2024
+1964,Home,210,No,0,25,81,Friday,12,7,2024
+1998,Home,2021,No,0,25,188,Saturday,26,4,2024
+1598,Home,2516,No,0,31,128,Friday,2,1,2024
+1094,Home,429,Yes,20,23,367,Saturday,27,9,2024
+1816,Clothing,2718,Yes,0,11,307,Wednesday,18,12,2024
+1810,Clothing,1585,Yes,0,15,446,Wednesday,2,2,2024
+1256,Electronics,2900,No,0,8,398,Tuesday,7,12,2024
+1844,Personal Care,699,Yes,10,30,441,Thursday,11,1,2024
+1861,Home,1595,Yes,0,26,472,Thursday,6,10,2024
+1616,Grocery,1537,Yes,20,15,322,Thursday,5,3,2024
+1900,Grocery,71,No,0,30,412,Saturday,3,11,2024
+1438,Personal Care,787,Yes,30,37,485,Monday,26,3,2024
+1685,Grocery,2989,Yes,15,31,225,Monday,8,8,2024
+1791,Clothing,2557,Yes,30,32,68,Saturday,12,12,2024
+1683,Electronics,75,Yes,20,26,368,Friday,24,1,2024
+1512,Clothing,764,No,0,19,142,Thursday,24,7,2024
+1477,Personal Care,171,Yes,10,15,49,Saturday,26,5,2024
+1839,Clothing,601,No,0,24,24,Wednesday,2,5,2024
+1954,Clothing,2721,Yes,5,46,225,Saturday,23,5,2024
+1590,Home,2599,No,0,15,457,Tuesday,17,9,2024
+1876,Grocery,1101,Yes,20,26,32,Sunday,3,7,2024
+1289,Grocery,2663,Yes,30,26,244,Saturday,11,12,2024
+1224,Grocery,705,No,0,38,218,Thursday,14,11,2024
+1095,Grocery,1857,No,0,31,440,Tuesday,21,1,2024
+1114,Clothing,1812,No,0,16,373,Wednesday,31,10,2024
+1256,Grocery,1708,No,0,32,281,Friday,30,7,2024
+1174,Home,226,Yes,10,22,144,Saturday,15,10,2024
+1829,Personal Care,1521,Yes,5,21,192,Friday,7,11,2024
+1044,Grocery,523,No,0,29,210,Tuesday,29,4,2024
+1213,Grocery,379,Yes,20,34,332,Saturday,23,2,2024
+1085,Electronics,2308,Yes,5,34,52,Sunday,17,3,2024
+1488,Clothing,1034,Yes,20,42,95,Monday,22,2,2024
+1178,Home,986,Yes,15,28,308,Friday,26,2,2024
+1289,Grocery,2964,No,0,10,321,Monday,23,9,2024
+1330,Home,1757,Yes,30,44,135,Monday,22,2,2024
+1907,Grocery,915,No,0,20,91,Friday,7,11,2024
+1857,Home,794,Yes,10,9,364,Friday,14,4,2024
+1400,Home,1860,Yes,5,13,426,Monday,23,1,2024
+1064,Home,2060,Yes,0,10,425,Wednesday,26,11,2024
+1026,Grocery,2650,No,0,14,271,Friday,5,2,2024
+1882,Home,1869,No,0,31,269,Saturday,5,9,2024
+1973,Personal Care,227,No,0,24,62,Friday,4,11,2024
+1565,Clothing,1486,No,0,21,473,Monday,28,7,2024
+1202,Grocery,2243,No,0,26,436,Tuesday,22,10,2024
+1759,Grocery,2591,Yes,30,32,142,Friday,6,3,2024
+1172,Electronics,1707,No,0,47,476,Sunday,7,9,2024
+1532,Electronics,1290,No,0,19,177,Thursday,14,12,2024
+1202,Clothing,73,Yes,30,51,427,Sunday,24,1,2024
+1017,Clothing,113,Yes,20,29,118,Monday,13,9,2024
+1787,Grocery,991,No,0,30,115,Monday,12,6,2024
+1124,Grocery,64,No,0,7,359,Tuesday,30,3,2024
+1236,Grocery,202,No,0,26,136,Tuesday,23,8,2024
+1338,Home,2220,No,0,42,241,Sunday,29,10,2024
+1184,Electronics,2562,Yes,15,20,352,Thursday,20,8,2024
+1162,Electronics,1086,No,0,25,164,Monday,15,11,2024
+1267,Home,1703,Yes,20,22,140,Thursday,21,6,2024
+1140,Clothing,1515,No,0,22,443,Thursday,11,1,2024
+1518,Grocery,391,Yes,30,37,105,Sunday,24,11,2024
+1878,Grocery,1102,Yes,20,31,171,Sunday,6,4,2024
+1326,Personal Care,2206,No,0,32,289,Saturday,16,11,2024
+1823,Home,572,Yes,0,20,220,Thursday,4,9,2024
+1042,Personal Care,2144,No,0,8,222,Tuesday,1,4,2024
+1302,Clothing,238,No,0,39,437,Friday,7,11,2024
+1093,Personal Care,1875,No,0,33,135,Saturday,29,12,2024
+1994,Home,1298,No,0,26,61,Monday,23,7,2024
+1191,Electronics,1514,Yes,10,34,221,Monday,21,1,2024
+1862,Clothing,1259,No,0,39,358,Wednesday,26,6,2024
+1210,Grocery,945,Yes,20,20,402,Saturday,27,4,2024
+1025,Grocery,2911,No,0,40,311,Friday,31,12,2024
+1469,Electronics,1443,Yes,30,37,275,Saturday,28,7,2024
+1207,Electronics,2503,Yes,0,37,241,Tuesday,12,5,2024
+1477,Clothing,2249,Yes,5,23,355,Friday,13,5,2024
+1172,Personal Care,605,No,0,26,492,Thursday,28,7,2024
+1116,Personal Care,1484,No,0,32,212,Saturday,18,6,2024
+1974,Grocery,431,No,0,19,56,Tuesday,10,12,2024
+1226,Grocery,1714,Yes,30,14,281,Tuesday,13,8,2024
+1418,Home,752,No,0,5,156,Wednesday,30,9,2024
+1834,Electronics,1082,Yes,15,42,245,Sunday,24,1,2024
+1192,Clothing,157,No,0,28,169,Thursday,22,6,2024
+1248,Home,1609,Yes,10,23,65,Saturday,21,6,2024
+1395,Grocery,1875,No,0,15,394,Monday,23,6,2024
+1410,Electronics,1079,No,0,47,349,Saturday,27,9,2024
+1053,Personal Care,1160,Yes,10,25,127,Monday,14,11,2024
+1507,Electronics,234,Yes,5,14,61,Friday,12,12,2024
+1949,Electronics,2131,Yes,10,44,247,Sunday,26,5,2024
+1157,Grocery,720,Yes,10,8,455,Monday,29,1,2024
+1049,Personal Care,465,Yes,5,27,476,Monday,15,9,2024
+1368,Clothing,961,Yes,10,39,357,Wednesday,5,5,2024
+1030,Electronics,2140,Yes,5,17,396,Wednesday,21,7,2024
+1036,Home,547,No,0,38,151,Tuesday,1,11,2024
+1943,Clothing,266,No,0,35,35,Sunday,27,3,2024
+1433,Clothing,659,Yes,20,13,292,Monday,3,2,2024
+1369,Electronics,2835,Yes,30,21,316,Tuesday,12,4,2024
+1232,Electronics,1086,No,0,40,234,Tuesday,2,4,2024
+1940,Clothing,2119,Yes,0,17,68,Saturday,30,8,2024
+1441,Electronics,2607,Yes,5,26,144,Thursday,26,12,2024
+1154,Personal Care,1927,Yes,30,23,23,Monday,31,5,2024
+1837,Electronics,2618,No,0,7,433,Tuesday,6,3,2024
+1592,Grocery,1106,Yes,5,27,53,Saturday,10,9,2024
+1911,Clothing,1547,Yes,20,35,366,Sunday,29,10,2024
+1041,Personal Care,344,Yes,20,21,476,Saturday,23,3,2024
+1546,Personal Care,2050,No,0,38,299,Tuesday,26,4,2024
+1393,Electronics,1440,Yes,5,16,191,Tuesday,26,9,2024
+1458,Clothing,117,Yes,30,40,454,Saturday,30,9,2024
+1067,Personal Care,960,Yes,10,8,143,Monday,3,5,2024
+1436,Clothing,2360,No,0,20,192,Wednesday,5,3,2024
+1559,Grocery,1813,No,0,6,490,Friday,7,5,2024
+1309,Electronics,2378,No,0,41,450,Saturday,2,11,2024
+1150,Grocery,1971,No,0,30,296,Thursday,7,6,2024
+1840,Personal Care,1949,No,0,18,52,Saturday,14,3,2024
+1759,Grocery,2921,No,0,22,137,Friday,22,2,2024
+1487,Personal Care,2847,Yes,10,23,250,Sunday,15,5,2024
+1486,Electronics,817,Yes,10,8,466,Wednesday,25,9,2024
+1000,Home,2649,No,0,22,110,Thursday,2,3,2024
+1059,Electronics,1158,Yes,20,22,332,Thursday,14,4,2024
+1578,Grocery,2990,Yes,15,43,126,Sunday,13,12,2024
+1244,Grocery,1445,No,0,29,420,Friday,18,10,2024
+1762,Home,2536,Yes,0,24,292,Friday,16,6,2024
+1965,Electronics,56,No,0,12,206,Monday,24,1,2024
+1230,Clothing,848,No,0,19,241,Tuesday,25,1,2024
+1035,Clothing,1309,Yes,0,19,285,Saturday,24,5,2024
+1210,Personal Care,2353,No,0,20,248,Thursday,6,3,2024
+1688,Personal Care,2836,No,0,30,84,Tuesday,1,11,2024
+1095,Electronics,1734,No,0,24,91,Wednesday,1,3,2024
+1135,Home,2914,No,0,24,269,Saturday,22,12,2024
+1553,Grocery,69,No,0,13,493,Wednesday,26,9,2024
+1864,Personal Care,2523,Yes,5,44,338,Saturday,22,11,2024
+1083,Electronics,279,Yes,20,35,344,Sunday,15,12,2024
+1107,Personal Care,53,Yes,10,32,369,Tuesday,26,2,2024
+1974,Clothing,71,No,0,17,139,Monday,12,10,2024
+1013,Personal Care,128,No,0,6,397,Monday,12,9,2024
+1834,Home,383,No,0,22,325,Friday,26,11,2024
+1689,Personal Care,2683,No,0,47,80,Sunday,9,1,2024
+1995,Home,403,Yes,0,41,470,Saturday,18,4,2024
+1507,Clothing,2607,Yes,5,26,100,Sunday,26,11,2024
+1430,Clothing,1407,Yes,10,34,34,Wednesday,11,5,2024
+1296,Personal Care,2646,No,0,38,347,Thursday,9,10,2024
+1719,Grocery,1732,Yes,20,21,216,Wednesday,31,8,2024
+1578,Grocery,63,No,0,21,347,Saturday,4,7,2024
+1153,Clothing,1205,Yes,30,16,289,Monday,14,7,2024
+1961,Home,2176,Yes,20,33,498,Thursday,8,4,2024
+1723,Home,2602,Yes,20,36,240,Thursday,28,1,2024
+1734,Grocery,2612,Yes,10,18,446,Tuesday,3,9,2024
+1229,Grocery,2696,No,0,31,202,Friday,15,3,2024
+1337,Home,816,Yes,10,43,146,Sunday,7,10,2024
+1027,Home,2850,No,0,34,472,Thursday,18,12,2024
+1625,Grocery,175,No,0,45,224,Sunday,28,12,2024
+1316,Clothing,2203,Yes,5,40,245,Sunday,19,5,2024
+1629,Clothing,2616,No,0,12,104,Thursday,11,12,2024
+1761,Home,773,No,0,11,226,Monday,11,6,2024
+1629,Clothing,1443,Yes,5,18,158,Friday,11,4,2024
+1904,Grocery,1406,Yes,5,13,387,Monday,3,5,2024
+1364,Personal Care,1559,No,0,34,256,Friday,30,4,2024
+1090,Grocery,1729,No,0,18,240,Saturday,11,6,2024
+1023,Grocery,1579,No,0,32,51,Friday,6,12,2024
+1500,Home,2840,No,0,18,419,Saturday,14,11,2024
+1512,Personal Care,1911,Yes,20,36,237,Friday,6,9,2024
+1917,Electronics,1961,No,0,27,173,Tuesday,20,1,2024
+1102,Electronics,2474,Yes,15,28,192,Thursday,7,5,2024
+1050,Electronics,1405,Yes,5,40,79,Sunday,30,4,2024
+1915,Clothing,1588,Yes,20,38,252,Saturday,5,6,2024
+1915,Personal Care,881,Yes,10,10,88,Friday,22,5,2024
+1520,Electronics,973,No,0,18,473,Friday,2,6,2024
+1780,Clothing,1964,No,0,30,490,Wednesday,20,5,2024
+1053,Personal Care,278,Yes,30,33,436,Wednesday,12,4,2024
+1173,Home,723,No,0,17,132,Wednesday,4,12,2024
+1375,Electronics,901,No,0,37,177,Monday,19,7,2024
+1524,Grocery,2379,Yes,0,15,180,Tuesday,9,12,2024
+1317,Home,1379,Yes,20,19,289,Tuesday,2,2,2024
+1493,Electronics,2923,Yes,0,26,30,Sunday,18,12,2024
+1948,Electronics,2510,No,0,18,109,Friday,15,1,2024
+1126,Personal Care,1980,Yes,5,37,283,Sunday,8,11,2024
+1434,Grocery,2849,Yes,0,23,491,Friday,18,11,2024
+1334,Electronics,348,Yes,0,50,478,Saturday,16,3,2024
+1555,Electronics,2489,No,0,7,433,Tuesday,28,12,2024
+1427,Clothing,2377,Yes,15,45,463,Saturday,21,12,2024
+1837,Grocery,2003,Yes,15,10,389,Friday,25,9,2024
+1043,Home,359,Yes,20,19,226,Monday,23,10,2024
+1601,Electronics,2614,No,0,28,85,Thursday,6,6,2024
+1361,Home,1578,No,0,22,332,Friday,14,5,2024
+1824,Home,2275,Yes,15,41,468,Thursday,2,2,2024
+1802,Home,2421,Yes,5,8,125,Wednesday,21,5,2024
+1840,Electronics,867,No,0,30,53,Tuesday,10,8,2024
+1358,Home,1694,No,0,26,306,Tuesday,20,8,2024
+1651,Electronics,1284,No,0,21,42,Monday,2,5,2024
+1776,Clothing,527,No,0,28,235,Wednesday,28,9,2024
+1994,Grocery,1638,No,0,40,83,Thursday,28,8,2024
+1210,Home,2682,Yes,0,6,260,Wednesday,13,8,2024
+1404,Home,374,No,0,40,98,Saturday,19,7,2024
+1119,Grocery,2866,No,0,29,316,Friday,1,8,2024
+1101,Home,287,No,0,10,332,Tuesday,11,9,2024
+1844,Grocery,403,No,0,18,135,Thursday,13,9,2024
+1057,Grocery,2951,No,0,27,73,Friday,8,2,2024
+1312,Electronics,1903,Yes,15,42,113,Monday,9,5,2024
+1196,Grocery,1824,No,0,31,262,Saturday,21,3,2024
+1628,Personal Care,1490,No,0,10,40,Sunday,24,2,2024
+1160,Electronics,2549,No,0,14,121,Monday,7,9,2024
+1611,Personal Care,2327,Yes,10,32,53,Thursday,12,9,2024
+1584,Grocery,2209,Yes,0,32,246,Monday,1,7,2024
+1889,Personal Care,1724,Yes,10,41,148,Saturday,11,2,2024
+1792,Electronics,1269,Yes,15,43,355,Saturday,19,11,2024
+1692,Electronics,1006,Yes,30,14,258,Thursday,12,12,2024
+1701,Clothing,2733,No,0,37,268,Friday,13,1,2024
+1534,Grocery,1930,No,0,41,114,Sunday,21,5,2024
+1344,Home,1479,Yes,0,30,327,Wednesday,15,7,2024
+1639,Electronics,2533,Yes,15,19,81,Saturday,26,9,2024
+1453,Personal Care,2094,Yes,30,24,24,Saturday,13,2,2024
+1480,Personal Care,2068,No,0,27,66,Sunday,28,11,2024
+1064,Clothing,1550,Yes,20,11,181,Friday,22,5,2024
+1049,Home,1256,No,0,40,349,Saturday,23,8,2024
+1304,Electronics,565,No,0,5,383,Tuesday,18,3,2024
+1644,Grocery,1076,No,0,43,395,Sunday,11,11,2024
+1475,Personal Care,2408,Yes,15,42,135,Saturday,15,9,2024
+1457,Clothing,1221,Yes,10,21,411,Saturday,31,7,2024
+1297,Electronics,2942,Yes,10,18,339,Saturday,11,11,2024
+1102,Clothing,1558,Yes,10,34,127,Sunday,10,9,2024
+1345,Electronics,2555,No,0,14,393,Tuesday,10,12,2024
+1257,Grocery,1351,Yes,30,42,343,Monday,13,11,2024
+1659,Clothing,1848,No,0,31,448,Monday,7,12,2024
+1974,Personal Care,265,Yes,30,26,404,Saturday,13,5,2024
+1377,Electronics,2030,No,0,15,316,Sunday,4,2,2024
+1446,Grocery,807,Yes,20,41,209,Tuesday,18,1,2024
+1625,Clothing,1596,Yes,10,28,292,Friday,11,3,2024
+1373,Personal Care,281,No,0,48,106,Saturday,2,3,2024
+1155,Electronics,1019,Yes,15,36,411,Tuesday,31,3,2024
+1197,Grocery,2891,Yes,0,11,267,Thursday,26,2,2024
+1146,Home,2590,Yes,30,33,424,Wednesday,1,10,2024
+1940,Clothing,308,No,0,32,40,Saturday,3,12,2024
+1118,Personal Care,2752,No,0,27,159,Wednesday,16,6,2024
+1680,Home,2076,No,0,29,428,Tuesday,26,9,2024
+1103,Electronics,950,No,0,14,478,Tuesday,25,5,2024
+1416,Clothing,1589,Yes,10,21,21,Wednesday,15,8,2024
+1001,Clothing,2335,Yes,20,17,213,Tuesday,17,9,2024
+1205,Clothing,868,No,0,47,101,Saturday,28,1,2024
+1718,Home,960,Yes,10,12,306,Friday,24,2,2024
+1188,Personal Care,2237,Yes,5,16,308,Monday,16,8,2024
+1101,Home,2854,Yes,15,14,269,Friday,24,10,2024
+1156,Clothing,1585,Yes,20,23,81,Tuesday,24,7,2024
+1850,Home,2619,No,0,30,392,Thursday,6,9,2024
+1831,Grocery,729,Yes,30,13,456,Monday,2,1,2024
+1875,Clothing,2155,Yes,30,37,479,Sunday,21,11,2024
+1376,Home,2845,Yes,15,36,444,Wednesday,7,12,2024
+1310,Personal Care,2619,Yes,10,3,29,Tuesday,8,10,2024
+1090,Personal Care,493,Yes,10,43,195,Sunday,1,10,2024
+1491,Personal Care,548,Yes,15,36,43,Wednesday,23,5,2024
+1122,Electronics,2800,No,0,14,319,Tuesday,25,4,2024
+1740,Electronics,2969,Yes,20,26,365,Tuesday,22,3,2024
+1733,Home,1260,Yes,30,17,215,Monday,17,9,2024
+1283,Grocery,1760,No,0,26,448,Thursday,12,11,2024
+1126,Grocery,801,Yes,0,22,47,Wednesday,8,4,2024
+1560,Personal Care,2452,Yes,0,18,235,Thursday,14,11,2024
+1554,Grocery,2201,Yes,30,24,252,Monday,15,5,2024
+1804,Personal Care,2653,No,0,32,316,Saturday,4,8,2024
+1776,Personal Care,1089,No,0,47,219,Sunday,14,9,2024
+1792,Home,1126,Yes,30,54,466,Sunday,19,8,2024
+1663,Electronics,637,No,0,21,141,Sunday,16,7,2024
+1940,Grocery,805,Yes,0,18,268,Monday,30,11,2024
+1400,Grocery,2936,Yes,10,35,105,Saturday,12,2,2024
+1236,Clothing,128,No,0,13,31,Tuesday,4,4,2024
+1317,Grocery,1403,Yes,5,17,435,Saturday,1,10,2024
+1084,Clothing,379,No,0,40,70,Saturday,29,1,2024
+1939,Clothing,783,Yes,15,31,266,Tuesday,22,4,2024
+1918,Electronics,545,No,0,25,305,Sunday,25,12,2024
+1923,Electronics,1173,Yes,5,35,140,Friday,18,4,2024
+1458,Home,470,No,0,10,152,Tuesday,27,7,2024
+1921,Grocery,695,No,0,39,45,Saturday,7,2,2024
+1766,Home,2908,No,0,17,44,Wednesday,3,5,2024
+1966,Home,1191,Yes,0,38,170,Tuesday,10,1,2024
+1053,Personal Care,2369,No,0,6,235,Thursday,22,12,2024
+1285,Personal Care,2193,No,0,25,243,Friday,28,4,2024
+1842,Home,99,Yes,30,29,152,Sunday,23,3,2024
+1105,Clothing,1370,No,0,24,213,Tuesday,20,6,2024
+1293,Clothing,2017,No,0,32,420,Wednesday,6,4,2024
+1377,Electronics,2343,No,0,43,367,Sunday,21,2,2024
+1183,Electronics,2578,No,0,29,311,Tuesday,12,6,2024
+1606,Home,1981,No,0,24,393,Tuesday,15,12,2024
+1565,Electronics,268,Yes,30,40,101,Saturday,3,2,2024
+1408,Electronics,2263,No,0,21,474,Wednesday,11,2,2024
+1257,Electronics,366,No,0,26,456,Monday,6,3,2024
+1640,Electronics,880,No,0,19,342,Friday,19,11,2024
+1590,Grocery,735,No,0,10,102,Wednesday,16,10,2024
+1874,Clothing,2331,Yes,30,33,52,Thursday,2,9,2024
+1992,Electronics,2063,Yes,20,39,398,Sunday,21,10,2024
+1984,Home,676,Yes,10,7,320,Friday,28,8,2024
+1769,Electronics,2981,Yes,10,12,86,Tuesday,5,4,2024
+1199,Personal Care,1754,No,0,33,338,Wednesday,19,1,2024
+1191,Electronics,1941,Yes,15,19,179,Tuesday,30,7,2024
+1878,Electronics,1089,No,0,24,64,Monday,21,12,2024
+1212,Grocery,2338,No,0,43,303,Saturday,10,5,2024
+1415,Grocery,2306,No,0,23,69,Saturday,23,6,2024
+1040,Grocery,576,No,0,40,131,Monday,23,3,2024
+1340,Home,2231,No,0,15,415,Thursday,10,2,2024
+1807,Home,842,No,0,50,393,Sunday,27,1,2024
+1261,Personal Care,2243,No,0,33,381,Friday,7,7,2024
+1818,Personal Care,323,No,0,24,116,Tuesday,24,8,2024
+1492,Home,2065,No,0,49,265,Saturday,25,4,2024
+1218,Home,2277,Yes,15,19,474,Monday,27,12,2024
+1452,Home,1539,No,0,23,75,Monday,2,6,2024
+1339,Grocery,237,No,0,26,435,Friday,5,2,2024
+1523,Personal Care,1573,Yes,20,12,394,Wednesday,23,1,2024
+1426,Grocery,2472,Yes,30,23,46,Saturday,2,3,2024
+1361,Home,1845,No,0,39,62,Tuesday,16,4,2024
+1274,Clothing,2407,No,0,4,35,Friday,21,7,2024
+1409,Personal Care,1343,Yes,30,38,293,Tuesday,11,10,2024
+1273,Personal Care,1137,No,0,9,182,Wednesday,5,7,2024
+1330,Clothing,2691,No,0,6,231,Thursday,23,7,2024
+1579,Personal Care,283,No,0,14,413,Thursday,17,2,2024
+1096,Personal Care,1129,No,0,24,411,Monday,10,9,2024
+1721,Clothing,1384,No,0,30,34,Friday,25,3,2024
+1957,Grocery,2477,No,0,20,331,Sunday,5,10,2024
+1008,Home,2633,No,0,15,345,Tuesday,15,8,2024
+1992,Clothing,2478,No,0,32,218,Monday,17,6,2024
+1987,Grocery,58,Yes,20,41,91,Sunday,27,3,2024
+1047,Grocery,2089,Yes,15,48,450,Sunday,4,7,2024
+1592,Clothing,2151,Yes,30,38,64,Saturday,28,10,2024
+1905,Home,172,No,0,28,333,Sunday,27,3,2024
+1103,Personal Care,754,Yes,20,18,401,Wednesday,10,4,2024
+1298,Clothing,2660,No,0,20,450,Monday,19,7,2024
+1526,Electronics,863,No,0,28,179,Wednesday,7,1,2024
+1714,Home,2190,Yes,0,11,84,Tuesday,11,4,2024
+1954,Clothing,1629,Yes,5,22,130,Saturday,16,12,2024
+1148,Personal Care,702,Yes,10,29,318,Monday,9,5,2024
+1994,Grocery,940,Yes,5,30,94,Saturday,9,8,2024
+1949,Clothing,808,Yes,10,38,326,Friday,29,1,2024
+1649,Clothing,2453,Yes,20,14,169,Thursday,19,1,2024
+1159,Personal Care,1760,No,0,25,400,Saturday,19,6,2024
+1021,Home,280,No,0,9,170,Monday,29,7,2024
+1076,Home,1693,No,0,42,315,Sunday,8,10,2024
+1099,Home,2011,No,0,33,157,Saturday,28,5,2024
+1096,Personal Care,2748,Yes,10,8,167,Wednesday,18,6,2024
+1947,Clothing,1211,Yes,30,27,384,Wednesday,28,7,2024
+1038,Electronics,613,No,0,12,463,Monday,11,3,2024
+1988,Electronics,657,Yes,20,18,170,Thursday,18,3,2024
+1914,Personal Care,1104,Yes,10,39,135,Sunday,2,4,2024
+1316,Electronics,337,Yes,20,17,63,Thursday,26,4,2024
+1519,Grocery,2474,No,0,21,373,Tuesday,21,6,2024
+1229,Home,1046,No,0,19,117,Tuesday,24,10,2024
+1777,Clothing,444,No,0,27,125,Saturday,26,9,2024
+1306,Grocery,1552,No,0,26,272,Sunday,15,10,2024
+1805,Grocery,928,No,0,31,123,Sunday,15,1,2024
+1695,Clothing,130,No,0,38,415,Thursday,10,4,2024
+1217,Grocery,2280,No,0,23,475,Tuesday,13,4,2024
+1991,Electronics,2312,No,0,21,68,Friday,29,9,2024
+1828,Home,932,Yes,5,10,187,Tuesday,5,11,2024
+1618,Grocery,2810,No,0,39,299,Sunday,12,8,2024
+1094,Grocery,58,Yes,5,37,65,Saturday,26,6,2024
+1164,Clothing,2671,Yes,20,16,457,Tuesday,2,11,2024
+1560,Grocery,330,Yes,5,32,177,Tuesday,23,8,2024
+1458,Home,1544,No,0,20,361,Sunday,24,7,2024
+1703,Home,1623,No,0,37,370,Thursday,12,1,2024
+1145,Clothing,1343,Yes,10,29,301,Friday,25,9,2024
+1903,Electronics,384,No,0,46,273,Saturday,15,3,2024
+1856,Home,339,No,0,34,454,Thursday,6,6,2024
+1716,Grocery,2875,Yes,15,23,432,Saturday,20,10,2024
+1187,Grocery,1064,Yes,10,8,119,Friday,23,8,2024
+1322,Clothing,389,Yes,5,41,452,Sunday,10,2,2024
+1901,Home,211,Yes,10,37,78,Tuesday,26,9,2024
+1187,Personal Care,1224,No,0,27,190,Saturday,4,10,2024
+1369,Personal Care,980,No,0,25,410,Sunday,9,10,2024
+1926,Home,496,No,0,34,53,Monday,28,5,2024
+1468,Personal Care,2776,Yes,0,25,367,Tuesday,1,11,2024
+1458,Grocery,1930,Yes,30,18,486,Thursday,5,7,2024
+1757,Home,1027,No,0,27,223,Monday,30,5,2024
+1725,Clothing,758,Yes,10,28,494,Thursday,5,1,2024
+1487,Grocery,2711,Yes,0,22,447,Monday,7,3,2024
+1152,Home,341,No,0,28,249,Wednesday,9,10,2024
+1203,Home,1763,No,0,44,187,Sunday,4,8,2024
+1405,Personal Care,2285,Yes,0,21,187,Sunday,5,12,2024
+1560,Home,761,Yes,0,16,321,Wednesday,4,3,2024
+1650,Clothing,970,Yes,30,27,235,Thursday,30,5,2024
+1158,Grocery,2252,No,0,28,256,Wednesday,27,8,2024
+1661,Clothing,1962,No,0,23,494,Saturday,21,4,2024
+1667,Personal Care,2653,No,0,16,204,Saturday,7,3,2024
+1810,Electronics,1422,Yes,0,15,282,Thursday,1,11,2024
+1015,Clothing,740,Yes,0,37,37,Sunday,14,1,2024
+1803,Personal Care,1777,Yes,0,27,429,Friday,12,1,2024
+1032,Clothing,2333,No,0,33,405,Monday,10,8,2024
+1283,Electronics,1691,No,0,5,434,Tuesday,2,9,2024
+1198,Clothing,1874,No,0,36,375,Wednesday,27,9,2024
+1528,Grocery,2078,No,0,19,382,Friday,14,12,2024
+1314,Grocery,1967,No,0,43,197,Saturday,29,5,2024
+1607,Personal Care,248,Yes,15,19,465,Tuesday,7,3,2024
+1556,Electronics,1874,No,0,20,161,Wednesday,30,1,2024
+1837,Grocery,2771,No,0,29,379,Wednesday,11,8,2024
+1013,Electronics,1000,No,0,35,168,Sunday,2,9,2024
+1933,Grocery,2784,No,0,11,262,Tuesday,3,6,2024
+1946,Personal Care,844,Yes,10,40,406,Friday,27,2,2024
+1564,Clothing,869,No,0,36,82,Wednesday,10,4,2024
+1146,Grocery,50,Yes,30,37,435,Saturday,17,5,2024
+1377,Personal Care,2879,Yes,0,24,497,Wednesday,3,2,2024
+1427,Grocery,2257,No,0,35,347,Wednesday,26,3,2024
+1527,Home,1482,No,0,16,407,Saturday,4,9,2024
+1782,Personal Care,1129,No,0,36,71,Monday,19,7,2024
+1574,Electronics,1221,Yes,20,29,453,Friday,14,4,2024
+1997,Grocery,2279,Yes,10,42,303,Thursday,20,5,2024
+1166,Electronics,1101,No,0,7,187,Friday,23,5,2024
+1482,Personal Care,359,No,0,20,331,Wednesday,13,8,2024
+1265,Electronics,130,Yes,30,45,471,Friday,29,2,2024
+1476,Home,2953,Yes,30,46,289,Monday,13,1,2024
+1053,Grocery,1224,Yes,15,26,315,Sunday,3,11,2024
+1337,Personal Care,2983,No,0,23,150,Sunday,25,6,2024
+1131,Grocery,2360,Yes,5,36,414,Monday,24,9,2024
+1557,Grocery,1922,Yes,30,49,458,Saturday,14,3,2024
+1239,Personal Care,1938,Yes,30,20,313,Wednesday,6,1,2024
+1888,Grocery,2979,Yes,0,32,286,Monday,30,7,2024
+1950,Grocery,1769,No,0,14,103,Wednesday,7,6,2024
+1110,Home,90,Yes,0,37,283,Sunday,28,12,2024
+1519,Electronics,1330,No,0,32,297,Friday,9,2,2024
+1748,Clothing,2823,Yes,30,16,188,Tuesday,1,11,2024
+1292,Home,2424,Yes,10,29,145,Thursday,25,6,2024
+1572,Grocery,1144,Yes,10,34,85,Thursday,16,6,2024
+1186,Clothing,2698,No,0,9,112,Tuesday,18,5,2024
+1530,Grocery,691,Yes,5,18,20,Friday,18,5,2024
+1963,Home,192,No,0,14,322,Wednesday,21,6,2024
+1670,Clothing,2783,Yes,0,40,310,Sunday,23,5,2024
+1108,Electronics,2998,Yes,5,17,63,Wednesday,27,12,2024
+1257,Personal Care,1520,No,0,17,439,Thursday,29,2,2024
+1477,Home,826,Yes,30,45,412,Friday,20,3,2024
+1165,Clothing,64,Yes,10,24,249,Friday,10,9,2024
+1202,Clothing,1022,Yes,20,27,299,Wednesday,13,8,2024
+1208,Home,1912,No,0,34,273,Saturday,11,5,2024
+1693,Grocery,1883,Yes,10,8,87,Thursday,3,11,2024
+1780,Home,834,Yes,20,19,245,Saturday,14,5,2024
+1934,Home,1326,Yes,20,35,196,Saturday,2,8,2024
+1964,Electronics,1388,Yes,10,42,274,Monday,24,12,2024
+1964,Clothing,334,Yes,0,5,311,Friday,17,5,2024
+1954,Electronics,2058,Yes,0,37,111,Tuesday,22,3,2024
+1268,Home,334,No,0,30,200,Monday,24,7,2024
+1167,Grocery,1392,Yes,15,36,86,Monday,9,6,2024
+1416,Electronics,1468,Yes,15,38,126,Thursday,26,8,2024
+1633,Electronics,877,Yes,15,19,217,Saturday,17,9,2024
+1596,Electronics,334,Yes,5,16,257,Wednesday,3,2,2024
+1949,Personal Care,764,No,0,25,403,Saturday,26,10,2024
+1060,Electronics,321,No,0,10,30,Friday,12,1,2024
+1836,Electronics,2593,Yes,5,15,222,Wednesday,29,7,2024
+1396,Electronics,1981,Yes,0,39,91,Tuesday,20,3,2024
+1017,Home,454,Yes,20,36,87,Sunday,30,4,2024
+1136,Clothing,1924,Yes,20,30,31,Tuesday,15,4,2024
+1586,Grocery,2930,Yes,10,12,164,Monday,4,10,2024
+1327,Clothing,1391,No,0,21,482,Monday,24,5,2024
+1149,Personal Care,1090,No,0,44,500,Saturday,22,9,2024
+1937,Home,1500,No,0,32,364,Monday,10,12,2024
+1427,Electronics,2426,No,0,47,194,Saturday,13,3,2024
+1973,Home,107,Yes,30,35,213,Monday,26,6,2024
+1845,Clothing,846,No,0,39,432,Friday,20,7,2024
+1548,Personal Care,977,Yes,20,34,246,Sunday,26,4,2024
+1271,Grocery,536,Yes,30,23,210,Friday,11,2,2024
+1653,Home,716,No,0,29,414,Monday,2,11,2024
+1218,Home,795,Yes,15,3,23,Friday,22,4,2024
+1919,Grocery,811,Yes,0,34,409,Friday,26,11,2024
+1287,Clothing,2370,Yes,5,34,109,Thursday,21,3,2024
+1010,Home,2294,No,0,42,362,Saturday,23,2,2024
+1918,Home,2422,No,0,30,150,Thursday,5,6,2024
+1537,Grocery,1050,Yes,5,32,394,Tuesday,26,7,2024
+1550,Home,1111,No,0,6,38,Monday,11,6,2024
+1190,Grocery,2593,No,0,21,490,Monday,7,4,2024
+1878,Home,667,No,0,40,285,Tuesday,23,12,2024
+1951,Personal Care,1789,Yes,30,31,426,Sunday,18,6,2024
+1047,Electronics,1136,No,0,18,397,Tuesday,17,1,2024
+1850,Personal Care,187,No,0,40,396,Tuesday,24,5,2024
+1461,Electronics,231,Yes,20,23,90,Tuesday,5,4,2024
+1497,Home,2989,Yes,0,35,54,Friday,10,7,2024
+1305,Clothing,2430,No,0,34,68,Monday,21,11,2024
+1365,Grocery,1777,No,0,17,178,Tuesday,18,1,2024
+1367,Electronics,476,No,0,20,381,Saturday,14,7,2024
+1475,Personal Care,2240,No,0,45,170,Saturday,3,8,2024
+1821,Electronics,1410,No,0,14,197,Thursday,17,9,2024
+1862,Electronics,2544,Yes,10,26,84,Sunday,12,3,2024
+1052,Electronics,2680,No,0,7,470,Monday,19,7,2024
+1972,Personal Care,1901,Yes,30,36,97,Monday,17,9,2024
+1067,Home,1101,No,0,35,378,Thursday,20,12,2024
+1437,Personal Care,1920,No,0,34,311,Saturday,2,11,2024
+1459,Grocery,1001,No,0,33,237,Tuesday,2,5,2024
+1158,Grocery,312,Yes,5,19,97,Wednesday,29,7,2024
+1328,Personal Care,1146,Yes,5,27,35,Sunday,26,10,2024
+1001,Grocery,2560,No,0,23,491,Saturday,27,4,2024
+1136,Home,1917,Yes,20,15,53,Tuesday,25,12,2024
+1135,Clothing,390,No,0,34,312,Saturday,30,11,2024
+1408,Electronics,695,Yes,5,35,374,Friday,30,5,2024
+1328,Electronics,1378,Yes,30,27,32,Thursday,29,3,2024
+1244,Clothing,486,Yes,30,35,209,Sunday,16,8,2024
+1777,Grocery,410,No,0,22,405,Sunday,7,2,2024
+1352,Electronics,145,No,0,37,360,Wednesday,30,6,2024
+1106,Home,2302,Yes,20,31,152,Thursday,16,10,2024
+1145,Electronics,2917,No,0,20,122,Friday,27,7,2024
+1199,Clothing,1814,No,0,33,438,Sunday,1,7,2024
+1655,Personal Care,940,No,0,21,330,Saturday,23,12,2024
+1144,Electronics,721,Yes,0,27,418,Friday,11,10,2024
+1748,Grocery,523,Yes,30,12,49,Monday,3,7,2024
+1655,Home,383,No,0,26,51,Wednesday,13,1,2024
+1822,Clothing,2105,Yes,0,29,457,Thursday,17,8,2024
+1669,Grocery,455,Yes,10,25,237,Monday,8,3,2024
+1343,Home,2736,Yes,10,37,412,Wednesday,7,8,2024
+1472,Grocery,1803,Yes,15,44,381,Sunday,20,9,2024
+1872,Home,2043,Yes,10,22,447,Monday,23,9,2024
+1614,Clothing,1344,Yes,10,24,241,Sunday,15,1,2024
+1719,Electronics,388,No,0,11,346,Friday,26,5,2024
+1415,Grocery,789,Yes,10,29,35,Sunday,21,1,2024
+1950,Electronics,996,Yes,0,40,129,Saturday,2,1,2024
+1693,Electronics,518,Yes,20,40,465,Monday,19,6,2024
+1337,Clothing,476,Yes,15,37,445,Sunday,11,1,2024
+1351,Clothing,2713,No,0,26,106,Friday,8,10,2024
+1721,Clothing,1483,Yes,20,42,316,Tuesday,24,12,2024
+1384,Home,1287,No,0,19,190,Friday,20,2,2024
+1978,Personal Care,2869,No,0,12,192,Monday,29,12,2024
+1888,Clothing,1049,No,0,23,98,Sunday,24,6,2024
+1631,Personal Care,1404,Yes,5,33,99,Wednesday,8,8,2024
+1563,Clothing,2336,Yes,20,19,447,Friday,22,2,2024
+1214,Personal Care,1045,Yes,5,16,393,Monday,12,5,2024
+1395,Home,892,Yes,15,26,346,Wednesday,21,4,2024
+1743,Home,1228,Yes,15,42,225,Monday,15,9,2024
+1509,Personal Care,263,Yes,30,46,334,Friday,7,8,2024
+1921,Grocery,542,No,0,13,231,Monday,19,5,2024
+1756,Clothing,2870,No,0,37,152,Saturday,2,7,2024
+1087,Grocery,1272,No,0,31,487,Monday,24,8,2024
+1518,Electronics,2576,Yes,10,24,483,Tuesday,17,10,2024
+1203,Electronics,2058,No,0,11,95,Monday,19,1,2024
+1573,Grocery,1548,No,0,15,117,Tuesday,24,11,2024
+1958,Clothing,1970,No,0,47,214,Sunday,22,7,2024
+1552,Personal Care,1122,No,0,36,266,Monday,26,3,2024
+1482,Clothing,2196,Yes,0,48,262,Saturday,18,6,2024
+1832,Electronics,2261,Yes,0,35,295,Monday,29,6,2024
+1480,Electronics,772,Yes,0,12,189,Tuesday,4,7,2024
+1194,Home,931,No,0,24,429,Tuesday,19,3,2024
+1137,Personal Care,660,Yes,30,29,392,Monday,25,10,2024
+1594,Home,748,No,0,25,246,Saturday,7,8,2024
+1749,Grocery,2999,No,0,22,462,Wednesday,30,1,2024
+1434,Electronics,2908,No,0,27,230,Sunday,4,7,2024
+1722,Electronics,2265,No,0,38,297,Thursday,13,12,2024
+1670,Electronics,2114,Yes,5,43,91,Sunday,11,8,2024
+1431,Personal Care,232,Yes,15,32,113,Thursday,25,3,2024
+1142,Grocery,2318,Yes,10,23,220,Wednesday,17,8,2024
+1925,Clothing,1927,No,0,36,189,Wednesday,20,1,2024
+1542,Grocery,1218,Yes,30,29,268,Friday,27,12,2024
+1746,Home,311,Yes,0,38,461,Wednesday,19,7,2024
+1404,Personal Care,1516,No,0,24,457,Wednesday,9,10,2024
+1249,Grocery,2456,No,0,18,386,Friday,10,11,2024
+1316,Personal Care,1159,No,0,26,194,Thursday,18,1,2024
+1755,Electronics,688,Yes,10,11,327,Thursday,16,4,2024
+1399,Clothing,2026,Yes,30,26,124,Thursday,2,2,2024
+1410,Grocery,991,Yes,10,41,117,Tuesday,16,2,2024
+1704,Grocery,2628,No,0,34,173,Sunday,11,8,2024
+1337,Personal Care,976,No,0,20,390,Sunday,7,4,2024
+1587,Electronics,2512,No,0,13,329,Tuesday,13,5,2024
+1838,Home,422,Yes,0,33,436,Sunday,29,4,2024
+1250,Clothing,1366,Yes,10,51,397,Sunday,3,6,2024
+1141,Clothing,1191,Yes,20,18,149,Tuesday,7,8,2024
+1644,Home,2642,Yes,20,19,207,Tuesday,17,1,2024
+1423,Electronics,769,Yes,20,30,287,Tuesday,24,12,2024
+1404,Grocery,2148,No,0,34,371,Sunday,4,4,2024
+1932,Clothing,2704,No,0,17,324,Wednesday,26,4,2024
+1154,Electronics,1378,Yes,5,34,308,Wednesday,28,5,2024
+1626,Grocery,1665,Yes,5,25,385,Sunday,8,3,2024
+1931,Home,1233,Yes,15,38,211,Saturday,23,12,2024
+1199,Grocery,2731,Yes,10,31,496,Saturday,25,4,2024
+1361,Home,2407,No,0,8,392,Thursday,18,2,2024
+1553,Home,2969,Yes,0,10,348,Tuesday,19,5,2024
+1442,Electronics,2373,Yes,5,9,441,Monday,31,5,2024
+1154,Home,2400,No,0,26,139,Friday,3,12,2024
+1329,Personal Care,1822,Yes,20,19,283,Saturday,2,8,2024
+1028,Personal Care,1534,No,0,28,65,Tuesday,13,8,2024
+1257,Personal Care,602,No,0,11,291,Monday,29,4,2024
+1576,Electronics,437,Yes,5,21,227,Thursday,10,11,2024
+1766,Personal Care,1348,Yes,15,17,189,Thursday,27,2,2024
+1683,Home,2209,Yes,5,46,339,Saturday,12,11,2024
+1196,Electronics,803,No,0,33,154,Monday,5,12,2024
+1517,Grocery,1031,Yes,30,53,238,Saturday,11,4,2024
+1285,Personal Care,746,No,0,36,135,Saturday,31,12,2024
+1709,Home,566,Yes,20,30,152,Tuesday,19,9,2024
+1257,Electronics,748,Yes,15,21,260,Friday,11,4,2024
+1519,Clothing,1039,No,0,22,225,Tuesday,9,9,2024
+1958,Clothing,1336,Yes,30,29,36,Saturday,3,5,2024
+1258,Grocery,1491,No,0,35,401,Monday,24,6,2024
+1036,Clothing,1242,Yes,5,25,64,Saturday,18,11,2024
+1613,Clothing,2890,Yes,15,53,436,Sunday,9,2,2024
+1574,Home,422,No,0,40,160,Wednesday,8,5,2024
+1255,Home,307,No,0,21,111,Tuesday,10,12,2024
+1492,Clothing,2077,No,0,9,191,Friday,7,10,2024
+1924,Clothing,2978,No,0,30,444,Sunday,5,9,2024
+1587,Clothing,632,Yes,20,41,103,Friday,5,9,2024
+1626,Grocery,1431,No,0,40,404,Thursday,23,9,2024
+1428,Electronics,1896,No,0,38,436,Saturday,17,6,2024
+1873,Clothing,60,Yes,20,44,359,Thursday,5,11,2024
+1732,Home,387,Yes,20,35,283,Friday,9,11,2024
+1148,Grocery,838,Yes,0,34,276,Wednesday,29,11,2024
+1195,Home,373,Yes,0,17,209,Tuesday,30,11,2024
+1518,Electronics,2262,Yes,20,32,194,Sunday,11,7,2024
+1670,Personal Care,1153,No,0,39,257,Wednesday,6,11,2024
+1654,Electronics,105,Yes,30,53,121,Sunday,5,10,2024
+1534,Grocery,585,No,0,15,381,Friday,29,4,2024
+1574,Home,1492,Yes,10,31,374,Friday,25,2,2024
+1430,Grocery,219,No,0,34,338,Thursday,21,1,2024
+1266,Grocery,86,No,0,31,161,Thursday,10,7,2024
+1039,Home,2058,No,0,43,139,Sunday,11,9,2024
+1308,Grocery,2393,No,0,20,92,Friday,27,10,2024
+1269,Personal Care,362,Yes,30,43,196,Thursday,16,4,2024
+1423,Grocery,1234,Yes,20,37,162,Wednesday,26,9,2024
+1307,Personal Care,1739,No,0,25,99,Monday,9,5,2024
+1893,Grocery,2753,Yes,0,32,359,Wednesday,1,5,2024
+1768,Grocery,2364,Yes,30,23,332,Thursday,23,10,2024
+1778,Home,670,No,0,23,378,Wednesday,17,9,2024
+1759,Personal Care,974,No,0,29,496,Wednesday,13,10,2024
+1333,Personal Care,962,No,0,40,391,Thursday,2,4,2024
+1360,Personal Care,1048,Yes,20,19,73,Sunday,8,6,2024
+1262,Personal Care,207,No,0,26,334,Wednesday,25,10,2024
+1372,Clothing,910,Yes,5,21,29,Wednesday,3,5,2024
+1564,Grocery,2127,Yes,15,45,297,Sunday,23,3,2024
+1627,Personal Care,1710,No,0,19,464,Thursday,25,2,2024
+1021,Clothing,1389,Yes,30,24,325,Sunday,21,6,2024
+1349,Clothing,378,Yes,10,27,226,Tuesday,24,1,2024
+1776,Home,2358,Yes,0,47,79,Saturday,25,9,2024
+1749,Home,1581,Yes,30,25,368,Saturday,8,4,2024
+1473,Home,1634,No,0,17,374,Friday,21,5,2024
+1664,Grocery,654,Yes,20,15,368,Monday,15,6,2024
+1601,Electronics,2026,Yes,5,40,78,Tuesday,6,11,2024
+1329,Home,94,Yes,5,24,252,Sunday,15,12,2024
+1634,Electronics,400,Yes,15,14,464,Tuesday,17,2,2024
+1884,Clothing,1593,No,0,37,178,Saturday,7,10,2024
+1281,Electronics,149,No,0,10,136,Friday,14,2,2024
+1056,Grocery,2759,Yes,30,37,405,Sunday,10,1,2024
+1993,Clothing,399,Yes,5,25,268,Friday,4,4,2024
+1709,Grocery,717,Yes,10,25,483,Wednesday,30,4,2024
+1827,Grocery,2872,Yes,15,15,151,Wednesday,20,2,2024
+1341,Personal Care,389,Yes,10,14,373,Thursday,1,1,2024
+1804,Home,201,Yes,20,42,336,Monday,14,11,2024
+1539,Clothing,1164,Yes,15,36,248,Friday,26,5,2024
+1712,Home,1595,No,0,23,173,Wednesday,25,1,2024
+1327,Personal Care,1272,Yes,5,16,182,Friday,22,10,2024
+1334,Personal Care,701,Yes,5,41,110,Thursday,18,12,2024
+1664,Clothing,2321,Yes,30,32,486,Sunday,24,8,2024
+1817,Personal Care,2347,Yes,5,36,127,Sunday,17,9,2024
+1680,Electronics,1982,No,0,18,95,Tuesday,26,8,2024
+1067,Grocery,295,Yes,20,37,184,Thursday,5,11,2024
+1018,Grocery,2882,Yes,0,17,369,Wednesday,25,4,2024
+1885,Home,2803,No,0,11,111,Wednesday,19,1,2024
+1546,Electronics,2549,No,0,14,369,Tuesday,15,9,2024
+1551,Personal Care,900,No,0,26,267,Wednesday,26,11,2024
+1757,Clothing,1906,Yes,5,30,484,Saturday,14,3,2024
+1151,Home,323,No,0,12,275,Tuesday,22,2,2024
+1743,Clothing,2980,No,0,10,29,Tuesday,18,9,2024
+1300,Electronics,2964,No,0,8,450,Friday,21,12,2024
+1244,Grocery,1358,No,0,16,315,Friday,14,11,2024
+1136,Electronics,2738,No,0,22,405,Monday,14,8,2024
+1985,Electronics,1756,No,0,18,351,Sunday,28,4,2024
+1040,Home,2367,No,0,42,488,Sunday,12,1,2024
+1110,Clothing,1848,Yes,5,22,147,Thursday,2,12,2024
+1354,Clothing,2746,No,0,43,329,Saturday,29,1,2024
+1137,Home,1922,Yes,30,42,368,Saturday,11,4,2024
+1012,Grocery,823,No,0,15,481,Wednesday,3,4,2024
+1092,Clothing,2677,Yes,15,40,72,Thursday,30,1,2024
+1157,Grocery,2348,No,0,13,204,Thursday,1,1,2024
+1945,Grocery,241,No,0,22,60,Sunday,10,4,2024
+1894,Home,1255,Yes,15,33,261,Friday,4,5,2024
+1322,Personal Care,868,Yes,15,39,426,Tuesday,9,3,2024
+1838,Personal Care,344,No,0,40,148,Tuesday,7,8,2024
+1765,Electronics,1715,Yes,10,11,420,Tuesday,10,1,2024
+1050,Clothing,1888,Yes,20,12,257,Monday,14,4,2024
+1889,Electronics,1725,No,0,33,91,Sunday,27,5,2024
+1182,Electronics,2223,No,0,34,149,Tuesday,15,12,2024
+1589,Clothing,2088,Yes,5,7,305,Friday,31,12,2024
+1082,Personal Care,958,Yes,5,32,103,Thursday,28,12,2024
+1397,Clothing,2567,No,0,21,80,Wednesday,20,8,2024
+1464,Home,1358,Yes,5,41,279,Monday,5,4,2024
+1046,Personal Care,476,No,0,48,405,Sunday,25,12,2024
+1615,Grocery,231,Yes,5,30,319,Friday,11,9,2024
+1539,Personal Care,2194,No,0,38,286,Monday,5,2,2024
+1813,Home,627,No,0,26,429,Wednesday,1,7,2024
+1048,Home,2163,Yes,5,30,430,Wednesday,20,1,2024
+1877,Clothing,2612,No,0,20,411,Friday,2,4,2024
+1505,Home,2175,No,0,43,146,Sunday,26,10,2024
+1123,Clothing,458,No,0,30,256,Wednesday,2,12,2024
+1819,Personal Care,1857,No,0,29,420,Saturday,4,10,2024
+1077,Electronics,399,No,0,13,230,Tuesday,2,5,2024
+1178,Grocery,1384,No,0,31,171,Tuesday,11,6,2024
+1737,Personal Care,1546,No,0,16,211,Friday,31,5,2024
+1448,Clothing,1443,No,0,35,85,Tuesday,24,2,2024
+1672,Home,1656,Yes,10,28,367,Sunday,4,6,2024
+1580,Electronics,303,Yes,20,27,376,Sunday,18,12,2024
+1272,Electronics,63,Yes,15,5,37,Monday,14,8,2024
+1879,Electronics,1260,Yes,10,35,287,Wednesday,20,4,2024
+1747,Personal Care,241,Yes,30,19,317,Monday,6,10,2024
+1284,Grocery,1205,No,0,17,281,Saturday,23,10,2024
+1946,Home,1961,No,0,50,91,Sunday,13,1,2024
+1626,Grocery,415,No,0,11,149,Thursday,26,10,2024
+1379,Personal Care,2079,No,0,7,351,Thursday,15,12,2024
+1287,Electronics,622,No,0,24,110,Tuesday,7,10,2024
+1207,Personal Care,2938,Yes,5,16,116,Thursday,1,2,2024
+1924,Personal Care,226,No,0,13,359,Wednesday,11,8,2024
+1961,Home,2203,Yes,10,41,60,Thursday,19,8,2024
+1562,Home,2732,No,0,36,315,Saturday,20,1,2024
+1546,Clothing,497,No,0,33,380,Monday,22,11,2024
+1996,Grocery,1817,No,0,17,317,Thursday,28,5,2024
+1027,Electronics,2178,No,0,21,288,Thursday,26,9,2024
+1876,Personal Care,115,No,0,10,337,Thursday,7,9,2024
+1518,Clothing,2612,No,0,39,232,Thursday,7,9,2024
+1978,Personal Care,2219,No,0,31,251,Thursday,10,10,2024
+1122,Personal Care,96,No,0,20,378,Thursday,3,9,2024
+1168,Personal Care,2571,Yes,15,32,178,Saturday,13,9,2024
+1788,Clothing,2818,Yes,20,14,412,Wednesday,9,11,2024
+1582,Electronics,2501,No,0,19,113,Monday,6,11,2024
+1478,Clothing,2184,Yes,5,32,155,Thursday,8,12,2024
+1484,Home,1569,Yes,20,9,287,Tuesday,27,2,2024
+1577,Electronics,2611,No,0,12,408,Wednesday,14,2,2024
+1278,Electronics,705,No,0,26,241,Tuesday,22,11,2024
+1568,Electronics,69,No,0,37,242,Monday,7,7,2024
+1331,Home,1301,Yes,15,43,475,Friday,12,10,2024
+1487,Clothing,1376,No,0,14,114,Monday,23,12,2024
+1995,Electronics,656,No,0,18,63,Friday,11,9,2024
+1207,Home,1520,No,0,33,175,Thursday,20,12,2024
+1512,Grocery,1507,No,0,29,29,Saturday,17,6,2024
+1723,Home,904,Yes,10,30,169,Tuesday,14,2,2024
+1151,Electronics,636,Yes,15,8,37,Thursday,16,2,2024
+1250,Home,683,Yes,5,18,106,Tuesday,6,9,2024
+1362,Grocery,2537,No,0,6,96,Tuesday,30,10,2024
+1267,Home,2056,No,0,8,177,Monday,13,4,2024
+1620,Personal Care,1698,No,0,32,268,Tuesday,10,5,2024
+1527,Grocery,323,No,0,18,436,Saturday,19,5,2024
+1859,Home,346,Yes,10,18,281,Saturday,8,11,2024
+1576,Grocery,2845,Yes,15,31,186,Monday,6,6,2024
+1085,Home,793,No,0,33,452,Thursday,3,8,2024
+1631,Electronics,2749,No,0,32,60,Saturday,8,1,2024
+1888,Electronics,879,Yes,0,16,419,Monday,7,5,2024
+1639,Grocery,1817,No,0,2,49,Friday,12,8,2024
+1268,Grocery,573,Yes,20,53,264,Saturday,12,2,2024
+1958,Personal Care,1534,No,0,33,118,Friday,21,4,2024
+1048,Clothing,879,Yes,10,29,500,Saturday,8,10,2024
+1090,Grocery,1974,Yes,20,19,144,Tuesday,17,8,2024
+1093,Electronics,1612,No,0,28,441,Wednesday,8,3,2024
+1787,Home,1986,No,0,30,210,Wednesday,11,11,2024
+1633,Clothing,822,No,0,24,81,Sunday,9,8,2024
+1554,Personal Care,2288,Yes,5,21,295,Monday,27,3,2024
+1554,Personal Care,2101,Yes,0,23,354,Friday,18,2,2024
+1644,Clothing,1843,Yes,10,7,165,Wednesday,28,2,2024
+1060,Electronics,517,No,0,28,236,Thursday,3,2,2024
+1015,Clothing,2546,Yes,5,23,39,Thursday,9,4,2024
+1031,Home,1459,Yes,0,42,162,Sunday,3,9,2024
+1494,Electronics,2065,No,0,11,151,Thursday,22,6,2024
+1976,Clothing,109,No,0,34,452,Thursday,17,10,2024
+1781,Electronics,1604,No,0,30,450,Tuesday,14,6,2024
+1646,Electronics,1175,Yes,20,43,213,Sunday,15,1,2024
+1340,Grocery,2136,No,0,35,308,Tuesday,14,9,2024
+1930,Personal Care,1742,No,0,46,326,Saturday,14,9,2024
+1624,Clothing,1317,No,0,16,435,Monday,14,10,2024
+1315,Clothing,2514,Yes,5,37,109,Monday,21,10,2024
+1129,Personal Care,2466,No,0,31,194,Wednesday,25,11,2024
+1563,Grocery,909,No,0,18,104,Wednesday,3,5,2024
+1034,Home,943,Yes,10,18,127,Friday,28,1,2024
+1996,Clothing,1871,Yes,5,36,99,Sunday,2,7,2024
+1880,Home,1513,No,0,34,187,Saturday,1,7,2024
+1375,Home,1931,No,0,37,442,Saturday,29,2,2024
+1053,Grocery,1128,Yes,5,35,207,Friday,4,3,2024
+1321,Grocery,790,Yes,20,17,342,Monday,6,9,2024
+1705,Personal Care,72,No,0,30,195,Monday,28,8,2024
+1549,Home,1687,No,0,14,77,Thursday,7,7,2024
+1556,Clothing,2771,No,0,11,494,Monday,11,6,2024
+1831,Grocery,2150,Yes,15,19,393,Sunday,30,8,2024
+1283,Clothing,1949,Yes,20,33,495,Tuesday,5,12,2024
+1052,Personal Care,1244,No,0,20,204,Sunday,19,5,2024
+1735,Home,420,Yes,10,25,490,Sunday,30,11,2024
+1988,Home,2735,Yes,10,32,375,Tuesday,24,4,2024
+1065,Personal Care,1167,Yes,20,39,361,Wednesday,24,11,2024
+1683,Electronics,2292,Yes,0,39,100,Sunday,15,5,2024
+1941,Electronics,1529,No,0,16,193,Wednesday,1,3,2024
+1954,Home,806,Yes,0,10,90,Monday,30,3,2024
+1363,Grocery,924,No,0,34,272,Monday,26,5,2024
+1216,Grocery,2138,No,0,32,415,Wednesday,4,1,2024
+1824,Personal Care,1302,No,0,16,99,Monday,22,7,2024
+1612,Electronics,1184,Yes,0,13,217,Thursday,20,5,2024
+1687,Personal Care,622,Yes,0,35,49,Friday,25,11,2024
+1634,Clothing,625,No,0,34,225,Monday,22,2,2024
+1826,Home,1383,No,0,6,156,Friday,16,9,2024
+1780,Electronics,93,No,0,25,44,Thursday,24,5,2024
+1254,Personal Care,1123,Yes,0,15,339,Thursday,22,12,2024
+1880,Electronics,330,No,0,34,434,Thursday,10,8,2024
+1027,Personal Care,2772,Yes,10,15,306,Tuesday,29,8,2024
+1447,Personal Care,1675,Yes,20,26,421,Tuesday,18,10,2024
+1840,Grocery,291,Yes,0,50,275,Saturday,25,8,2024
+1371,Electronics,284,No,0,15,185,Wednesday,22,3,2024
+1279,Electronics,1561,No,0,25,77,Wednesday,5,2,2024
+1264,Personal Care,1718,No,0,26,112,Saturday,28,5,2024
+1831,Personal Care,1851,Yes,20,13,173,Thursday,30,8,2024
+1571,Electronics,1039,No,0,34,353,Thursday,7,8,2024
+1385,Electronics,370,No,0,32,473,Friday,21,5,2024
+1296,Electronics,329,No,0,16,412,Monday,21,1,2024
+1771,Grocery,193,Yes,0,19,118,Wednesday,11,9,2024
+1811,Personal Care,576,No,0,42,279,Sunday,27,7,2024
+1670,Grocery,890,No,0,33,314,Saturday,17,8,2024
+1258,Personal Care,173,No,0,22,251,Wednesday,6,10,2024
+1823,Grocery,850,No,0,18,49,Wednesday,15,9,2024
+1540,Home,353,No,0,34,429,Friday,4,12,2024
+1502,Electronics,747,Yes,20,12,329,Friday,24,5,2024
+1051,Electronics,707,No,0,43,348,Saturday,8,5,2024
+1094,Electronics,2405,Yes,15,37,474,Tuesday,11,4,2024
+1670,Electronics,2172,No,0,18,219,Tuesday,2,9,2024
+1160,Home,2416,No,0,1,26,Friday,20,7,2024
+1584,Clothing,750,Yes,20,22,209,Monday,17,5,2024
+1817,Home,1884,No,0,20,412,Monday,22,6,2024
+1289,Clothing,1964,Yes,30,22,403,Sunday,16,7,2024
+1595,Home,1239,No,0,43,473,Saturday,3,2,2024
+1274,Grocery,339,Yes,5,26,199,Friday,12,12,2024
+1226,Clothing,2012,No,0,37,490,Thursday,13,4,2024
+1905,Grocery,2746,Yes,5,24,301,Wednesday,25,9,2024
+1303,Home,2763,Yes,5,33,100,Thursday,15,2,2024
+1127,Grocery,1711,No,0,36,250,Monday,12,12,2024
+1811,Grocery,1257,Yes,10,43,361,Saturday,20,5,2024
+1982,Clothing,2464,Yes,10,16,190,Monday,28,2,2024
+1223,Home,1672,No,0,16,313,Sunday,19,9,2024
+1489,Clothing,1898,Yes,15,18,21,Friday,31,12,2024
+1152,Personal Care,1540,No,0,22,89,Friday,12,6,2024
+1354,Clothing,2967,No,0,23,449,Thursday,19,6,2024
+1564,Grocery,2041,Yes,10,40,162,Wednesday,25,7,2024
+1813,Clothing,1030,Yes,5,12,406,Friday,11,2,2024
+1299,Clothing,384,Yes,10,27,489,Sunday,1,7,2024
+1233,Electronics,441,No,0,26,370,Monday,28,5,2024
+1551,Grocery,1442,No,0,29,357,Saturday,25,2,2024
+1408,Personal Care,2089,Yes,10,20,63,Monday,1,4,2024
+1407,Grocery,2508,No,0,10,285,Monday,28,1,2024
+1348,Clothing,156,Yes,0,13,367,Wednesday,8,2,2024
+1111,Home,1149,No,0,15,91,Saturday,5,9,2024
+1258,Electronics,1438,Yes,30,33,450,Monday,12,8,2024
+1352,Electronics,2099,No,0,24,439,Friday,22,12,2024
+1814,Clothing,1773,Yes,10,26,446,Tuesday,20,1,2024
+1672,Home,2150,Yes,20,21,344,Tuesday,19,7,2024
+1921,Home,869,Yes,15,29,345,Wednesday,26,2,2024
+1712,Home,1537,No,0,9,286,Monday,2,8,2024
+1206,Electronics,2412,Yes,20,37,445,Tuesday,16,3,2024
+1390,Electronics,2239,Yes,5,19,104,Saturday,7,9,2024
+1140,Clothing,2907,No,0,10,236,Thursday,4,2,2024
+1480,Grocery,2440,Yes,10,36,75,Thursday,4,10,2024
+1935,Electronics,2842,No,0,14,438,Wednesday,22,1,2024
+1768,Electronics,1677,Yes,0,31,317,Saturday,15,4,2024
+1441,Grocery,604,Yes,30,25,72,Tuesday,28,6,2024
+1972,Clothing,2044,Yes,5,25,413,Sunday,12,8,2024
+1110,Home,887,Yes,5,16,237,Monday,5,4,2024
+1157,Clothing,2415,Yes,5,38,68,Saturday,13,8,2024
+1409,Personal Care,2515,No,0,17,487,Friday,25,4,2024
+1300,Clothing,1142,Yes,10,30,386,Wednesday,24,2,2024
+1908,Clothing,156,No,0,19,377,Friday,27,1,2024
+1620,Electronics,2326,No,0,18,122,Tuesday,17,7,2024
+1846,Electronics,2168,Yes,0,32,393,Monday,25,11,2024
+1501,Electronics,1896,No,0,18,181,Saturday,7,5,2024
+1202,Home,114,Yes,15,29,241,Wednesday,24,10,2024
+1602,Clothing,289,No,0,6,89,Monday,2,8,2024
+1384,Personal Care,2831,No,0,26,457,Tuesday,17,10,2024
+1108,Electronics,444,Yes,15,28,307,Monday,21,2,2024
+1919,Electronics,2365,Yes,15,13,157,Monday,8,11,2024
+1154,Clothing,1487,Yes,15,22,94,Sunday,27,11,2024
+1296,Home,1658,No,0,32,256,Tuesday,15,2,2024
+1054,Electronics,2032,Yes,15,15,473,Thursday,17,4,2024
+1273,Personal Care,203,No,0,18,209,Friday,12,4,2024
+1300,Grocery,2598,No,0,37,476,Thursday,2,10,2024
+1765,Electronics,105,No,0,15,119,Friday,19,2,2024
+1627,Grocery,2019,No,0,6,64,Friday,21,4,2024
+1227,Personal Care,956,Yes,10,15,36,Friday,5,1,2024
+1679,Grocery,81,Yes,15,37,466,Thursday,13,2,2024
+1412,Electronics,518,Yes,5,38,418,Saturday,23,5,2024
+1141,Home,1331,No,0,20,372,Monday,21,12,2024
+1154,Clothing,222,Yes,0,37,212,Monday,28,6,2024
+1958,Clothing,1202,No,0,8,449,Tuesday,17,5,2024
+1461,Personal Care,1936,No,0,10,84,Friday,7,12,2024
+1652,Electronics,621,Yes,10,28,220,Sunday,21,6,2024
+1911,Clothing,551,Yes,0,6,393,Thursday,16,9,2024
+1606,Grocery,356,Yes,20,37,486,Monday,2,10,2024
+1809,Home,1564,Yes,5,25,160,Wednesday,9,9,2024
+1238,Clothing,2670,Yes,0,26,94,Sunday,9,1,2024
+1193,Electronics,808,Yes,30,38,356,Tuesday,28,4,2024
+1962,Home,1708,No,0,6,109,Friday,15,6,2024
+1969,Electronics,1391,Yes,5,51,214,Sunday,16,8,2024
+1910,Clothing,1099,No,0,37,129,Tuesday,19,9,2024
+1667,Personal Care,2747,Yes,5,17,209,Tuesday,3,6,2024
+1506,Home,2039,Yes,30,36,294,Tuesday,18,6,2024
+1927,Electronics,1349,Yes,10,38,76,Friday,2,5,2024
+1957,Grocery,1564,Yes,20,43,351,Monday,5,9,2024
+1213,Personal Care,851,No,0,18,374,Wednesday,2,8,2024
+1185,Personal Care,1704,No,0,11,371,Friday,5,2,2024
+1355,Personal Care,1889,Yes,20,49,436,Sunday,10,8,2024
+1352,Personal Care,2028,Yes,10,20,217,Thursday,20,8,2024
+1612,Clothing,1680,Yes,10,41,244,Tuesday,22,2,2024
+1653,Home,1128,No,0,6,240,Friday,20,8,2024
+1726,Clothing,2467,No,0,12,69,Monday,1,10,2024
+1836,Home,574,No,0,40,196,Wednesday,9,12,2024
+1636,Grocery,2799,Yes,30,43,441,Thursday,13,7,2024
+1473,Home,480,Yes,10,20,455,Wednesday,9,1,2024
+1952,Personal Care,868,No,0,50,53,Saturday,23,7,2024
+1390,Home,2601,Yes,5,29,35,Wednesday,23,8,2024
+1935,Grocery,2666,Yes,30,40,398,Wednesday,23,6,2024
+1604,Electronics,2022,No,0,34,88,Sunday,6,8,2024
+1498,Personal Care,2246,Yes,20,9,304,Monday,28,12,2024
+1029,Home,2284,Yes,0,45,202,Saturday,21,6,2024
+1527,Personal Care,2608,Yes,30,31,52,Tuesday,26,10,2024
+1025,Grocery,185,No,0,10,169,Thursday,1,7,2024
+1063,Clothing,1996,No,0,19,288,Wednesday,16,8,2024
+1804,Grocery,2119,Yes,5,51,444,Saturday,19,2,2024
+1504,Clothing,1588,No,0,40,67,Tuesday,6,11,2024
+1901,Personal Care,224,Yes,15,40,270,Sunday,16,1,2024
+1898,Home,443,No,0,26,140,Tuesday,10,6,2024
+1503,Electronics,2080,No,0,29,411,Sunday,16,12,2024
+1894,Clothing,570,Yes,15,19,63,Sunday,1,8,2024
+1027,Electronics,80,Yes,10,49,320,Saturday,21,11,2024
+1290,Clothing,1350,Yes,5,25,187,Monday,31,12,2024
+1010,Home,784,Yes,30,36,260,Saturday,13,8,2024
+1575,Personal Care,1702,Yes,0,12,463,Friday,12,11,2024
+1779,Grocery,2591,No,0,22,51,Friday,21,1,2024
+1566,Clothing,2143,No,0,16,216,Thursday,11,2,2024
+1913,Home,92,No,0,28,421,Thursday,21,9,2024
+1306,Personal Care,2705,Yes,10,41,157,Thursday,19,12,2024
+1885,Grocery,2713,Yes,10,16,65,Tuesday,7,5,2024
+1393,Grocery,1551,No,0,39,266,Wednesday,27,10,2024
+1430,Personal Care,2118,Yes,5,30,179,Wednesday,6,3,2024
+1518,Electronics,257,Yes,0,50,85,Saturday,24,3,2024
+1732,Personal Care,1763,No,0,35,154,Friday,20,3,2024
+1316,Personal Care,2794,Yes,10,17,323,Wednesday,20,12,2024
+1800,Clothing,2797,No,0,20,35,Tuesday,11,6,2024
+1914,Grocery,2785,Yes,30,46,283,Sunday,1,8,2024
+1527,Electronics,1684,Yes,10,23,458,Wednesday,14,2,2024
+1905,Electronics,907,Yes,10,11,71,Tuesday,29,10,2024
+1976,Clothing,1489,No,0,30,394,Wednesday,26,2,2024
+1897,Home,2316,Yes,30,44,134,Wednesday,19,9,2024
+1528,Electronics,105,No,0,20,199,Thursday,29,10,2024
+1098,Clothing,2068,No,0,28,276,Thursday,12,9,2024
+1269,Clothing,626,No,0,14,51,Tuesday,9,2,2024
+1441,Clothing,2676,Yes,15,35,495,Wednesday,5,11,2024
+1235,Home,1117,Yes,0,50,375,Saturday,3,1,2024
+1218,Clothing,2160,Yes,20,27,288,Saturday,4,4,2024
+1717,Clothing,534,Yes,30,52,364,Sunday,22,8,2024
+1974,Personal Care,1096,No,0,40,464,Saturday,4,10,2024
+1060,Home,1113,No,0,38,248,Tuesday,6,12,2024
+1226,Electronics,1933,No,0,23,446,Wednesday,24,5,2024
+1571,Personal Care,2661,No,0,29,499,Wednesday,5,10,2024
+1131,Personal Care,2585,Yes,30,32,32,Wednesday,12,11,2024
+1865,Personal Care,2395,No,0,19,190,Thursday,16,5,2024
+1999,Personal Care,2149,No,0,48,277,Sunday,27,11,2024
+1470,Home,1923,Yes,10,33,450,Friday,16,1,2024
+1496,Electronics,765,Yes,5,32,41,Saturday,23,8,2024
+1089,Electronics,1278,Yes,0,24,157,Sunday,9,11,2024
+1916,Clothing,2609,Yes,30,21,365,Thursday,9,8,2024
+1383,Electronics,2677,No,0,35,247,Saturday,19,12,2024
+1013,Personal Care,701,No,0,28,28,Monday,18,8,2024
+1918,Electronics,792,Yes,15,36,158,Tuesday,1,3,2024
